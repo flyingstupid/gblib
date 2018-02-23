@@ -1,0 +1,4 @@
+Stand now removes 'knockdown' status. Needs RT when standing from knock down!
+August 22nd 2011 -
+Traps now use the DoSkillRoll, using "Throw" skill
+Updated ClearStatus.c for error handling. Will return instead of error when used without a target!

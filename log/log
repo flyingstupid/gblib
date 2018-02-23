@@ -1,0 +1,648 @@
+Sun Aug  9 09:00:27 2015:---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+Sun Aug  9 09:00:27 2015:---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+Sun Aug  9 09:00:27 2015:---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+Sun Aug  9 09:00:27 2015:---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+Sun Aug  9 09:00:27 2015:---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+Sun Aug  9 09:00:27 2015:---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+Sun Aug  9 09:00:27 2015:---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+Sun Aug  9 09:00:27 2015:---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+Sun Aug  9 09:00:27 2015:---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+Sun Aug  9 09:00:27 2015:---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+Sun Aug  9 09:00:27 2015:---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+Sun Aug  9 09:00:27 2015:---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+Sun Aug  9 09:00:27 2015:---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+Sun Aug  9 09:00:27 2015:---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+Sun Aug  9 09:00:27 2015:---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+Sun Aug  9 09:00:27 2015:---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+Sun Aug  9 09:00:27 2015:---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+Sun Aug  9 09:00:27 2015:---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+Sun Aug  9 09:00:27 2015:---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+Sun Aug  9 09:00:27 2015:---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+Sun Aug  9 09:00:27 2015:---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+Sun Aug  9 09:00:27 2015:---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+Sun Aug  9 09:00:27 2015:---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+Sun Aug  9 09:00:27 2015:---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+Sun Aug  9 09:00:27 2015:---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+Sun Aug  9 09:00:27 2015:---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+Sun Aug  9 09:00:27 2015:---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+

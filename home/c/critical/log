@@ -1,0 +1,1514 @@
+
+/cmds/std/bid.c line 19: Reserved type name unexpected. before , string arg2);
+
+/cmds/std/bid.c line 19: syntax error before , string arg2);
+
+/cmds/std/clean.c line 25: Reserved type name unexpected. before ( string arg )
+
+/cmds/std/clean.c line 25: syntax error before ( string arg )
+
+/obj/trap/trap.c line 101: Undefined variable 'skillDiffCheck' before  > 0)
+
+/cmds/std/jstartdemo.c line 10: syntax error before  main( string arg )
+
+/cmds/std/jstartdemo.c line 10: syntax error before  main( )
+
+/cmds/std/jstartdemo.c line 10: syntax error before  main( )
+
+/cmds/std/jstartdemo.c line 10: syntax error before  main( )
+
+/cmds/std/stand.c line 26: syntax error before the end of line
+
+/cmds/std/stand.c line 26: syntax error before the end of line
+
+/std/user/gb_player.c line 421: syntax error before -----
+
+/std/user/gb_player.c line 420: syntax error before -----
+
+/std/user/gb_player.c line 620: Undefined variable 'skillvalue' before  ".\n");
+
+/std/user/gb_player.c line 620: Bad argument number 1 to '-': "string " before  ".\n");
+
+/std/user/gb_player.c line 619: Invalid types to '-' ( string vs int ) before  ".\n");
+
+/std/user/gb_player.c line 621: Undefined variable 'skillValued' before d100;
+
+/std/ghosts/ghost.c line 490: syntax error before the end of file
+
+/std/ghosts/ghost.c line 490: syntax error before the end of file
+
+/cmds/std/firstaid.c line 74: Undefined variable 'action' before "patch")
+
+/cmds/std/firstaid.c line 74: Undefined variable 'action' before "patch")
+
+/cmds/std/firstaid.c line 96: Warning: Unused local variable 'victim' before the end of line
+
+/cmds/std/test.c line 9: syntax error before ;
+
+/home/c/critical/tombstone.c line 18: Bad assignment ( string array vs string ). before the end of line
+
+/home/c/critical/tombstone.c line 19: syntax error before ;
+
+/home/c/critical/tombstone.c line 14: Warning: Previous function prototype for set_date does not match current function in return type ( string vs string array ) before the end of line
+
+/home/c/critical/tombstone.c line 18: Bad assignment ( string array vs string ). before the end of line
+
+/home/c/critical/tombstone.c line 19: syntax error before ;
+
+/home/c/critical/tombstone.c line 9: Invalid argument types to '+' ( string vs string array ) before "\n"
+
+/home/c/critical/tombstone.c line 18: Bad assignment ( string array vs string ). before the end of line
+
+/home/c/critical/tombstone.c line 19: syntax error before ;
+
+/home/c/critical/tombstone.c line 9: Invalid argument types to '+' ( string vs string array ) before "\n"
+
+/home/c/critical/tombstone.c line 18: Bad assignment ( string array vs string ). before the end of line
+
+/home/c/critical/tombstone.c line 19: Type of returned value doesn't match function return type ( string vs string array ) before the end of line
+
+/home/c/critical/tombstone.c line 18: syntax error before , month, date, time,
+
+/home/c/critical/tombstone.c line 19: Illegal LHS before the end of line
+
+/home/c/critical/tombstone.c line 19: syntax error before the end of line
+
+/home/c/critical/public/commands/test.c line 6: syntax error before , month, date, time,
+
+/home/c/critical/public/commands/test.c line 7: Illegal LHS before the end of line
+
+/home/c/critical/public/commands/test.c line 7: syntax error before the end of line
+
+/home/c/critical/public/look.c line 237: syntax error before the end of line
+
+/home/c/critical/public/look.c line 282: Illegal LHS before the end of line
+
+/home/c/critical/public/look.c line 239: syntax error before the end of line
+
+/home/c/critical/public/look.c line 248: syntax error before the end of line
+
+/home/c/critical/public/look.c line 272: syntax error before  1;
+
+/areas/morgue/morgue.c line 3: Undefined function set_light before ;
+
+/areas/morgue/morgue.c line 4: Undefined function set_short before ;
+
+/areas/morgue/morgue.c line 9: Undefined function set_long before ;
+
+/home/c/critical/tmp_eval_file.c line 1: Reserved type name unexpected. before dateArray; dateArray
+
+/home/c/critical/tmp_eval_file.c line 1: syntax error before dateArray; dateArray
+
+/home/c/critical/tmp_eval_file.c line 1: Undefined variable 'date' before  " " ); return dateA
+
+/home/c/critical/tmp_eval_file.c line 1: Illegal LHS before  return dateArray[1]
+
+/home/c/critical/tmp_eval_file.c line 1: Warning: Expression has no side effects, and the value is unused before  return dateArray[1]
+
+/home/c/critical/tmp_eval_file.c line 1: Undefined variable 'dateArray' before 1] + " " + dateArray
+
+/cmds/std/firstaid.c line 96: Warning: Unused local variable 'victim' before the end of line
+---
+**Error Caught
+Error: *Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Current object: OBJECT(/home/c/critical/tmp_eval_file)
+Current Program: "/home/c/critical/tmp_eval_file.c"
+Line:     1, File: /home/c/critical/tmp_eval_file.c
+
+Traceback:
+Line:   105, File: /std/user/gb_player.c
+ Object: OBJECT(critical /std/user/gb_player#21)
+ Program: /std/user/gb_player.c
+Line:   165, File: /std/user/gb_player.c
+ Object: OBJECT(critical /std/user/gb_player#21)
+ Program: /std/user/gb_player.c
+Line:    24, File: /cmds/wiz/eval.c
+ Object: OBJECT(/cmds/wiz/eval)
+ Program: /cmds/wiz/eval.c
+Line:    24, File: /cmds/wiz/eval.c
+ Object: OBJECT(/cmds/wiz/eval)
+ Program: /cmds/wiz/eval.c
+Line:     1, File: /home/c/critical/tmp_eval_file.c
+ Object: OBJECT(/home/c/critical/tmp_eval_file)
+ Program: /home/c/critical/tmp_eval_file.c
+
+/areas/franchise/franchise1.c line 22: Illegal to inherit after defining functions. before the end of line
+
+/areas/franchise/franchise1.c line 22: Illegal to inherit after defining functions. before the end of line
+
+/areas/franchise/franchise1.c line 22: Illegal to inherit after defining functions. before the end of line
+
+/areas/franchise/franchise3.c line 5: syntax error before  ROOM;
+
+/areas/franchise/franchise3.c line 5: Illegal to inherit after defining functions. before the end of line
+
+/areas/franchise/franchise3.c line 3: syntax error before ;
+
+/areas/franchise/franchise3.c line 3: syntax error before ;
+
+/areas/franchise/mobiles/shopkeeper.c line 11: Undefined function isShop before ;
+
+/areas/franchise/mobiles/shopkeeper.c line 2: syntax error before ;
+
+/cmds/demo/skillsetup.c line 10: syntax error before n);
+
+/cmds/wiz/getskills.c line 15: syntax error before )
+
+/cmds/wiz/getskills.c line 21: Illegal LHS before the end of line
+
+/cmds/wiz/getskills.c line 21: syntax error before the end of line
+
+/cmds/wiz/getskills.c line 22: Illegal LHS before the end of line
+
+/cmds/wiz/getskills.c line 22: syntax error before the end of line
+
+/cmds/wiz/getskills.c line 28: Illegal LHS before  sizeof(keysArray)>i
+
+/cmds/wiz/getskills.c line 21: syntax error before keysArray = keys(pla
+
+/cmds/wiz/getskills.c line 21: Illegal LHS before the end of line
+
+/cmds/wiz/getskills.c line 21: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/cmds/wiz/restore.c line 19: syntax error before the end of line
+
+/cmds/wiz/restore.c line 19: syntax error before the end of line
+
+/home/c/critical/tmp_eval_file.c line 1: syntax error before ){object clone_objec
+
+/home/c/critical/tmp_eval_file.c line 1: Warning: Unused local variable 'main' before ; }
+
+/home/c/critical/tmp_eval_file.c line 1: Warning: Extra ';'. Ignored. before  }
+
+/home/c/critical/tmp_eval_file.c line 1: syntax error before the end of line
+
+/home/c/critical/tmp_eval_file.c line 1: syntax error before "/areas/franchise/mo
+
+/home/c/critical/tmp_eval_file.c line 1: Warning: Unused local variable 'clone_object' before the end of line
+
+/home/c/critical/tmp_eval_file.c line 1: syntax error before "/areas/franchise/mo
+
+/home/c/critical/tmp_eval_file.c line 2: End of file in string at the end of the file
+
+/home/c/critical/tmp_eval_file.c line 1: syntax error before "/areas/franchise/mo
+
+/home/c/critical/tmp_eval_file.c line 1: Warning: Unused local variable 'clone_object' before the end of line
+
+/home/c/critical/tmp_eval_file.c line 1: syntax error before ){object clone_objec
+
+/home/c/critical/tmp_eval_file.c line 1: Warning: Unused local variable 'main' before ; }
+
+/home/c/critical/tmp_eval_file.c line 1: Warning: Extra ';'. Ignored. before  }
+
+/home/c/critical/tmp_eval_file.c line 1: syntax error before the end of line
+
+/home/c/critical/tmp_eval_file.c line 1: Illegal to declare local variable of type void. before (){object clone_obje
+
+/home/c/critical/tmp_eval_file.c line 1: syntax error before ){object clone_objec
+
+/home/c/critical/tmp_eval_file.c line 1: Warning: Unused local variable 'main' before ; }
+
+/home/c/critical/tmp_eval_file.c line 1: Warning: Extra ';'. Ignored. before  }
+
+/home/c/critical/tmp_eval_file.c line 1: syntax error before the end of line
+
+/home/c/critical/tmp_eval_file.c line 1: Illegal to declare local variable of type void. before (){object clone_obje
+
+/home/c/critical/tmp_eval_file.c line 1: syntax error before ){object clone_objec
+
+/home/c/critical/tmp_eval_file.c line 1: Warning: Unused local variable 'main' before ; }
+
+/home/c/critical/tmp_eval_file.c line 1: Warning: Extra ';'. Ignored. before  }
+
+/home/c/critical/tmp_eval_file.c line 1: syntax error before the end of line
+
+/home/c/critical/tmp_eval_file.c line 1: Illegal to declare local variable of type void. before (); }
+
+/home/c/critical/tmp_eval_file.c line 1: syntax error before ); }
+
+/home/c/critical/tmp_eval_file.c line 1: Warning: Unused local variable 'main' before the end of line
+
+/home/c/critical/public/commands/test.c line 3: Undefined variable 'areas' before franchise/mobiles/sh
+
+/home/c/critical/public/commands/test.c line 3: Bad argument 1 to '/': "string " before franchise/mobiles/sh
+
+/home/c/critical/public/commands/test.c line 3: Undefined variable 'franchise' before mobiles/shopkeeper.c
+
+/home/c/critical/public/commands/test.c line 3: Undefined variable 'mobiles' before shopkeeper.c");
+
+/home/c/critical/public/commands/test.c line 3: Undefined variable 'shopkeeper' before c");
+
+/home/c/critical/public/commands/test.c line 3: syntax error before c");
+
+/home/c/critical/public/commands/test.c line 2: syntax error before the end of line
+
+/home/c/critical/public/commands/test.c line 1: syntax error before ;
+
+/home/c/critical/public/commands/test.c line 10: syntax error before ("Placing them in th
+
+/home/c/critical/public/commands/test.c line 11: Warning: Unused local variable 'mobile' before the end of line
+
+/home/c/critical/public/commands/test.c line 10: Warning: Unused local variable 'mobile' before the end of line
+
+/home/c/critical/public/commands/test.c line 8: syntax error before  1;
+
+/home/c/critical/public/commands/test.c line 8: Type of returned value doesn't match function return type ( int vs void ) before the end of line
+
+/areas/franchise/franchise3.c line 4: Undefined function set_light before ;
+
+/areas/franchise/franchise3.c line 5: Undefined function set_short before ;
+
+/areas/franchise/franchise3.c line 11: Undefined function set_long before ;
+
+/areas/franchise/franchise3.c line 14: Undefined function set_exits before ;
+
+/areas/franchise/franchise3.c line 16: Undefined variable 'shopkeeper' before clone_object("/areas
+
+/areas/franchise/franchise3.c line 16: Illegal lvalue before clone_object("/areas
+
+/areas/franchise/franchise3.c line 18: Undefined variable 'shopkeeper' before clone_object("/areas
+
+/areas/franchise/franchise3.c line 18: Illegal lvalue before clone_object("/areas
+
+/areas/franchise/mobiles/shopkeeper.c line 2: Warning: Redeclaration of global variable 'ob_data'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 2: Warning: Redeclaration of global variable 'ids'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 2: Warning: Redeclaration of global variable 'name'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 2: Warning: Redeclaration of global variable 'short'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 2: Warning: Redeclaration of global variable 'long'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 2: Warning: Redeclaration of global variable 'value'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 2: Warning: Redeclaration of global variable '_x'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 2: Warning: Redeclaration of global variable '_y'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 2: Warning: Redeclaration of global variable '_z'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 2: Warning: Redeclaration of global variable 'xverb'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 2: Warning: Redeclaration of global variable 'alias'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 2: Warning: Redeclaration of global variable 'commandHistory'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 2: Warning: Redeclaration of global variable 'link'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 2: Warning: Redeclaration of global variable 'path'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 2: Warning: Redeclaration of global variable 'Earmuffed'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 2: Warning: Redeclaration of global variable 'title'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 2: Warning: Redeclaration of global variable 'pretitle'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 2: Warning: Redeclaration of global variable 'hb_time'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 2: Warning: Redeclaration of global variable 'issuedCommandTime'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 2: Warning: Redeclaration of global variable 'waitTime'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 2: Warning: Redeclaration of global variable 'waitTimeType'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 2: Warning: Redeclaration of global variable 'cash'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 2: Warning: Redeclaration of global variable 'positionPost'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 2: Warning: Redeclaration of global variable 'position'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 2: Warning: Redeclaration of global variable 'furniture'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 2: Illegal to redefine 'nomask' function "query_commandHistory" before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 9: Wrong number of arguments to isShop
+    Expected: 0  Got: 1 before ;
+
+/obj/containmentunit.c line 46: Warning: Previous function prototype for get_ghosts does not match current function in return type ( int vs array ) before the end of line
+
+/obj/drinks/coffee.c line 11: Undefined function name before ) + " takes a drink 
+
+/areas/franchise/franchise7.c line 15: syntax error before the end of line
+
+/areas/franchise/franchise2.c line 14: syntax error before  : ({"/areas/franchi
+
+/areas/franchise/franchise2.c line 14: syntax error before  : ({"/areas/franchi
+
+/areas/franchise/franchise2.c line 13: syntax error before )
+
+/areas/franchise/franchise2.c line 13: syntax error before )
+
+/areas/franchise/franchise2.c line 13: syntax error before )
+
+/areas/franchise/franchise2.c line 13: syntax error before )
+
+/areas/franchise/franchise2.c line 13: syntax error before )
+
+/areas/franchise/franchise2.c line 14: syntax error before  : ({"/areas/franchi
+
+/areas/franchise/franchise7.c line 26: Wrong number of arguments to query_name
+    Expected: 0  Got: 1 before  + " steps into the 
+
+/areas/franchise/franchise7.c line 21: "#pragma strict_types" requires type of function before )
+
+/areas/franchise/franchise1.c line 27: syntax error before " : "/areas/franchis
+
+/areas/franchise/franchise1.c line 75: Illegal LHS before the end of line
+
+/areas/franchise/franchise1.c line 75: syntax error before the end of line
+
+/areas/franchise/franchise1.c line 83: Undefined variable 'fill' before the end of line
+
+/areas/franchise/franchise1.c line 83: Illegal LHS before the end of line
+
+/areas/franchise/franchise1.c line 27: syntax error before " : "/areas/franchis
+
+/areas/franchise/franchise1.c line 75: Illegal LHS before the end of line
+
+/areas/franchise/franchise1.c line 75: syntax error before the end of line
+
+/areas/franchise/franchise1.c line 83: Undefined variable 'fill' before the end of line
+
+/areas/franchise/franchise1.c line 83: Illegal LHS before the end of line
+
+/areas/franchise/franchise1.c line 27: syntax error before " : "/areas/franchis
+
+/areas/franchise/franchise1.c line 27: syntax error before " : "/areas/franchis
+
+/areas/franchise/franchise1.c line 111: End of file in string at the end of the file
+
+/areas/franchise/franchise1.c line 38: syntax error before the end of line
+
+/areas/franchise/franchise1.c line 58: syntax error before ); 
+
+/areas/franchise/franchise1.c line 75: Illegal LHS before the end of line
+
+/areas/franchise/franchise1.c line 75: syntax error before the end of line
+
+/areas/franchise/franchise1.c line 83: Undefined variable 'fill' before the end of line
+
+/areas/franchise/franchise1.c line 83: Illegal LHS before the end of line
+
+/areas/franchise/franchise1.c line 38: syntax error before the end of line
+
+/areas/franchise/franchise1.c line 82: syntax error before the end of line
+
+/areas/franchise/franchise1.c line 38: syntax error before the end of line
+
+/areas/franchise/franchise1.c line 88: syntax error before the end of line
+
+/areas/franchise/franchise1.c line 38: syntax error before the end of line
+
+/areas/franchise/franchise1.c line 99: Undefined function elseif before ;
+
+/areas/franchise/franchise1.c line 107: syntax error before the end of line
+
+/areas/franchise/franchise1.c line 38: syntax error before the end of line
+
+/areas/franchise/franchise1.c line 102: syntax error before  if(coffeefill > 5 &
+
+/std/ghosts/ghost.c line 511: Undefined function execute_ghost_movement before ;
+
+/cmds/std/read.c line 28: syntax error before n");
+
+/cmds/std/read.c line 54: End of file in string at the end of the file
+
+/cmds/std/read.c line 41: Left argument of -> is not a class before ;
+
+/cmds/std/read.c line 53: Illegal to inherit after defining functions. before the end of line
+
+/obj/tomes/tome.c line 34: Type of returned value doesn't match function return type ( int vs void ) before the end of line
+
+/obj/tomes/tome.c line 20: Wrong number of arguments to setReadTime
+    Expected: 0  Got: 1 before ;
+
+/obj/tomes/tome.c line 40: Warning: Number of arguments disagrees with previous definition. before the end of line
+
+/obj/tomes/tome.c line 42: Undefined variable 'arg' before 	
+
+/obj/tomes/tobinspiritguide.c line 8: Undefined function setReadTime before ;
+
+/obj/tomes/tobinspiritguide.c line 9: Undefined function setDiff before ;
+
+/obj/tomes/tobinspiritguide.c line 2: syntax error before obj/tomes/tome.c;
+
+/obj/tomes/tobinspiritguide.c line 2: Warning: Redeclaration of global variable 'ob_data'. before the end of line
+
+/obj/tomes/tobinspiritguide.c line 2: Warning: Redeclaration of global variable 'ids'. before the end of line
+
+/obj/tomes/tobinspiritguide.c line 2: Warning: Redeclaration of global variable 'name'. before the end of line
+
+/obj/tomes/tobinspiritguide.c line 2: Warning: Redeclaration of global variable 'short'. before the end of line
+
+/obj/tomes/tobinspiritguide.c line 2: Warning: Redeclaration of global variable 'long'. before the end of line
+
+/obj/tomes/tobinspiritguide.c line 2: Warning: Redeclaration of global variable 'value'. before the end of line
+
+/obj/tomes/tobinspiritguide.c line 2: Warning: Redeclaration of global variable '_x'. before the end of line
+
+/obj/tomes/tobinspiritguide.c line 2: Warning: Redeclaration of global variable '_y'. before the end of line
+
+/obj/tomes/tobinspiritguide.c line 2: Warning: Redeclaration of global variable '_z'. before the end of line
+
+/obj/tomes/tobinspiritguide.c line 13: Warning: ApplyHit() inherited from both /std/object/gb_object.c (via /obj/tomes/tome.c) and /std/object/gb_object.c; using the definition in /obj/tomes/tome.c. before the end of file
+
+/obj/tomes/tobinspiritguide.c line 13: Warning: SetLocation() inherited from both /std/object/gb_object.c (via /obj/tomes/tome.c) and /std/object/gb_object.c; using the definition in /obj/tomes/tome.c. before the end of file
+
+/obj/tomes/tobinspiritguide.c line 13: Warning: setValue() inherited from both /std/object/gb_object.c (via /obj/tomes/tome.c) and /std/object/gb_object.c; using the definition in /obj/tomes/tome.c. before the end of file
+
+/obj/tomes/tobinspiritguide.c line 13: Warning: Z() inherited from both /std/object/gb_object.c (via /obj/tomes/tome.c) and /std/object/gb_object.c; using the definition in /obj/tomes/tome.c. before the end of file
+
+/obj/tomes/tobinspiritguide.c line 13: Warning: Y() inherited from both /std/object/gb_object.c (via /obj/tomes/tome.c) and /std/object/gb_object.c; using the definition in /obj/tomes/tome.c. before the end of file
+
+/obj/tomes/tobinspiritguide.c line 13: Warning: X() inherited from both /std/object/gb_object.c (via /obj/tomes/tome.c) and /std/object/gb_object.c; using the definition in /obj/tomes/tome.c. before the end of file
+
+/obj/tomes/tobinspiritguide.c line 13: Warning: getValue() inherited from both /std/object/gb_object.c (via /obj/tomes/tome.c) and /std/object/gb_object.c; using the definition in /obj/tomes/tome.c. before the end of file
+
+/obj/tomes/tobinspiritguide.c line 13: Warning: set_short() inherited from both /std/object/object.c (via /obj/tomes/tome.c) and /std/object/object.c (via /std/object/gb_object.c); using the definition in /obj/tomes/tome.c. before the end of file
+
+/obj/tomes/tobinspiritguide.c line 13: Warning: set_ids() inherited from both /std/object/object.c (via /obj/tomes/tome.c) and /std/object/object.c (via /std/object/gb_object.c); using the definition in /obj/tomes/tome.c. before the end of file
+
+/obj/tomes/tobinspiritguide.c line 13: Warning: set_id() inherited from both /std/object/object.c (via /obj/tomes/tome.c) and /std/object/object.c (via /std/object/gb_object.c); using the definition in /obj/tomes/tome.c. before the end of file
+
+/obj/tomes/tobinspiritguide.c line 13: Warning: moveAllowed() inherited from both /std/object/object.c (via /obj/tomes/tome.c) and /std/object/object.c (via /std/object/gb_object.c); using the definition in /obj/tomes/tome.c. before the end of file
+
+/obj/tomes/tobinspiritguide.c line 13: Warning: move() inherited from both /std/object/object.c (via /obj/tomes/tome.c) and /std/object/object.c (via /std/object/gb_object.c); using the definition in /obj/tomes/tome.c. before the end of file
+
+/obj/tomes/tobinspiritguide.c line 13: Warning: set_name() inherited from both /std/object/object.c (via /obj/tomes/tome.c) and /std/object/object.c (via /std/object/gb_object.c); using the definition in /obj/tomes/tome.c. before the end of file
+
+/obj/tomes/tobinspiritguide.c line 13: Warning: setupDefaultObject() inherited from both /std/object/object.c (via /obj/tomes/tome.c) and /std/object/object.c (via /std/object/gb_object.c); using the definition in /obj/tomes/tome.c. before the end of file
+
+/obj/tomes/tobinspiritguide.c line 13: Warning: release_object() inherited from both /std/object/object.c (via /obj/tomes/tome.c) and /std/object/object.c (via /std/object/gb_object.c); using the definition in /obj/tomes/tome.c. before the end of file
+
+/obj/tomes/tobinspiritguide.c line 13: Warning: receive_object() inherited from both /std/object/object.c (via /obj/tomes/tome.c) and /std/object/object.c (via /std/object/gb_object.c); using the definition in /obj/tomes/tome.c. before the end of file
+
+/obj/tomes/tobinspiritguide.c line 13: Warning: set_long() inherited from both /std/object/object.c (via /obj/tomes/tome.c) and /std/object/object.c (via /std/object/gb_object.c); using the definition in /obj/tomes/tome.c. before the end of file
+
+/obj/tomes/tobinspiritguide.c line 13: Warning: query_cap_name() inherited from both /std/object/object.c (via /obj/tomes/tome.c) and /std/object/object.c (via /std/object/gb_object.c); using the definition in /obj/tomes/tome.c. before the end of file
+
+/obj/tomes/tobinspiritguide.c line 13: Warning: query_long() inherited from both /std/object/object.c (via /obj/tomes/tome.c) and /std/object/object.c (via /std/object/gb_object.c); using the definition in /obj/tomes/tome.c. before the end of file
+
+/obj/tomes/tobinspiritguide.c line 13: Warning: query_short() inherited from both /std/object/object.c (via /obj/tomes/tome.c) and /std/object/object.c (via /std/object/gb_object.c); using the definition in /obj/tomes/tome.c. before the end of file
+
+/obj/tomes/tobinspiritguide.c line 13: Warning: query_name() inherited from both /std/object/object.c (via /obj/tomes/tome.c) and /std/object/object.c (via /std/object/gb_object.c); using the definition in /obj/tomes/tome.c. before the end of file
+
+/obj/tomes/tobinspiritguide.c line 13: Warning: get_inventory() inherited from both /std/object/object.c (via /obj/tomes/tome.c) and /std/object/object.c (via /std/object/gb_object.c); using the definition in /obj/tomes/tome.c. before the end of file
+
+/obj/tomes/tobinspiritguide.c line 13: Warning: id() inherited from both /std/object/object.c (via /obj/tomes/tome.c) and /std/object/object.c (via /std/object/gb_object.c); using the definition in /obj/tomes/tome.c. before the end of file
+
+/obj/tomes/tobinspiritguide.c line 13: Warning: remove() inherited from both /std/object/object.c (via /obj/tomes/tome.c) and /std/object/object.c (via /std/object/gb_object.c); using the definition in /obj/tomes/tome.c. before the end of file
+
+/obj/tomes/tobinspiritguide.c line 13: Warning: delete() inherited from both /std/object/ob_prop.c (via /obj/tomes/tome.c) and /std/object/ob_prop.c (via /std/object/gb_object.c); using the definition in /obj/tomes/tome.c. before the end of file
+
+/obj/tomes/tobinspiritguide.c line 13: Warning: init_ob() inherited from both /std/object/ob_prop.c (via /obj/tomes/tome.c) and /std/object/ob_prop.c (via /std/object/gb_object.c); using the definition in /obj/tomes/tome.c. before the end of file
+
+/obj/tomes/tobinspiritguide.c line 13: Warning: add() inherited from both /std/object/ob_prop.c (via /obj/tomes/tome.c) and /std/object/ob_prop.c (via /std/object/gb_object.c); using the definition in /obj/tomes/tome.c. before the end of file
+
+/obj/tomes/tobinspiritguide.c line 13: Warning: set() inherited from both /std/object/ob_prop.c (via /obj/tomes/tome.c) and /std/object/ob_prop.c (via /std/object/gb_object.c); using the definition in /obj/tomes/tome.c. before the end of file
+
+/obj/tomes/tobinspiritguide.c line 13: Warning: query() inherited from both /std/object/ob_prop.c (via /obj/tomes/tome.c) and /std/object/ob_prop.c (via /std/object/gb_object.c); using the definition in /obj/tomes/tome.c. before the end of file
+
+/obj/containmentunit.c line 46: Warning: Previous function prototype for get_ghosts does not match current function in return type ( int vs array ) before the end of line
+
+/cmds/std/ask.c line 43: Warning: Unused local variable 'output' before the end of line
+
+/std/area/mobiles/npc.c line 85: Undefined variable 'ask' before key]=value;
+
+/std/area/mobiles/npc.c line 85: Illegal lvalue before value;
+
+/std/area/mobiles/npc.c line 92: Undefined variable 'ask' before the end of line
+
+/cmds/std/ask.c line 43: Warning: Unused local variable 'output' before the end of line
+
+/cmds/std/ask.c line 43: Warning: Unused local variable 'output' before the end of line
+
+/cmds/std/ask.c line 52: syntax error before  i++)
+
+/cmds/std/ask.c line 43: Warning: Unused local variable 'output' before the end of line
+
+/cmds/std/ask.c line 56: Undefined variable 'replies' before m[i]] + "\n");
+
+/cmds/std/ask.c line 43: Warning: Unused local variable 'output' before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Undefined function askOk before ;
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Undefined function askOk before ;
+
+/cmds/std/ask.c line 43: Warning: Unused local variable 'output' before the end of line
+
+/cmds/std/ask.c line 43: Warning: Unused local variable 'output' before the end of line
+
+/cmds/std/ask.c line 43: Bad type for argument 1 of ask ( object vs string ) before ;
+
+/areas/cemetery/cemetery2.c line 19: syntax error before : ({"areas/cemetery/
+
+/obj/containmentunit.c line 31: "#pragma strict_types" requires type of function before )
+
+/obj/containmentunit.c line 56: Warning: Previous function prototype for get_ghosts does not match current function in return type ( int vs array ) before the end of line
+
+/cmds/adm/nuke.c line 83: Type of returned value doesn't match function return type ( int vs void ) before the end of line
+
+/cmds/std/clean.c line 25: Reserved type name unexpected. before ( string arg )
+
+/cmds/std/clean.c line 25: syntax error before ( string arg )
+
+/cmds/std/clean.c line 25: Reserved type name unexpected. before ( string arg )
+
+/cmds/std/clean.c line 25: syntax error before ( string arg )
+
+/cmds/std/clean.c line 25: Reserved type name unexpected. before ( string arg )
+
+/cmds/std/clean.c line 25: syntax error before ( string arg )
+
+/cmds/std/clean.c line 25: Reserved type name unexpected. before ( string arg )
+
+/cmds/std/clean.c line 25: syntax error before ( string arg )
+
+/cmds/std/clean.c line 25: Reserved type name unexpected. before ( string arg )
+
+/cmds/std/clean.c line 25: syntax error before ( string arg )
+
+/cmds/std/clean.c line 25: Reserved type name unexpected. before ( string arg )
+
+/cmds/std/clean.c line 25: syntax error before ( string arg )
+
+/cmds/std/clean.c line 25: Reserved type name unexpected. before ( string arg )
+
+/cmds/std/clean.c line 25: syntax error before ( string arg )
+
+/obj/containmentunit.c line 72: Left argument of -> is not a class before  arg;
+
+/obj/containmentunit.c line 72: Illegal lvalue before  arg;
+
+/obj/containmentunit.c line 111: Illegal to inherit after defining functions. before the end of line
+
+/obj/containmentunit.c line 111: Illegal to inherit after defining global variables. before the end of line
+
+/obj/containmentunit.c line 75: syntax error before the end of line
+
+/cmds/std/firstaid.c line 96: Warning: Unused local variable 'victim' before the end of line
+
+/cmds/npc/ghostblast.c line 36: Undefined variable 'ghostPower' before  3 );
+
+/cmds/npc/ghostblast.c line 41: Undefined function query_cap_name before  ) );
+
+/cmds/npc/ghostblast.c line 41: Undefined function query_cap_name before  ) );
+
+/cmds/npc/ghostblast.c line 41: Undefined function query_cap_name before  ) );
+
+/cmds/adm/nuke.c line 83: Type of returned value doesn't match function return type ( int vs void ) before the end of line
+
+/obj/containmentunit.c line 6: syntax error before  OBJECT;
+
+/obj/containmentunit.c line 8: syntax error before  OBJECT;
+
+/cmds/wiz/damage.c line 18: syntax error before the end of line
+
+/cmds/wiz/damage.c line 22: Illegal LHS before the end of line
+
+/cmds/wiz/damage.c line 45: Reserved type name unexpected. before ()
+
+/cmds/wiz/damage.c line 45: syntax error before ()
+
+/cmds/wiz/damage.c line 17: Warning: Non-void functions must return a value. before the end of line
+
+/areas/hospital/mobiles/ERDocter.c line 14: Undefined function set_name before ;
+
+/areas/hospital/mobiles/ERDocter.c line 15: Undefined function set_short before ;
+
+/areas/hospital/mobiles/ERDocter.c line 18: Undefined function set_long before ;
+
+/areas/hospital/mobiles/ERDocter.c line 19: Undefined function set_id before ;
+
+/areas/hospital/mobiles/ERDocter.c line 23: Undefined function setReplies before ;
+
+/areas/hospital/mobiles/ERDocter.c line 44: Undefined function get_statues before );
+
+/areas/hospital/mobiles/ERDocter.c line 23: Undefined function setReplies before ;
+
+/areas/hospital/mobiles/ERDocter.c line 44: Undefined function get_statues before );
+
+/areas/hospital/mobiles/ERDocter.c line 84: syntax error before the end of line
+
+/areas/hospital/mobiles/ERDoctor.c line 23: Undefined function setReplies before ;
+
+/areas/hospital/mobiles/ERDoctor.c line 44: Undefined function get_statuses before );
+
+/areas/hospital/mobiles/ERDoctor.c line 129: syntax error before the end of line
+
+/areas/hospital/mobiles/ERDoctor.c line 138: syntax error before the end of line
+
+/areas/hospital/mobiles/ERDoctor.c line 23: Undefined function setReplies before ;
+
+/areas/hospital/mobiles/ERDoctor.c line 44: Undefined function get_statuses before );
+
+/areas/hospital/mobiles/ERDoctor.c line 23: Undefined function setReplies before ;
+
+/cmds/npc/ghostblast.c line 32: Undefined variable 'this_object' before GetGhostPower();
+
+/cmds/npc/ghostblast.c line 47: syntax error before the end of line
+
+/cmds/npc/ghostblast.c line 49: Illegal LHS before 	
+
+/cmds/npc/ghostblast.c line 49: syntax error before 	
+
+/cmds/npc/ghostblast.c line 52: Illegal LHS before the end of line
+
+/cmds/npc/ghostblast.c line 52: syntax error before the end of line
+
+/cmds/npc/ghostblast.c line 64: Illegal LHS before ;
+
+/cmds/npc/ghostblast.c line 65: Warning: Expression has no side effects, and the value is unused before (damholder<1)
+
+/cmds/npc/ghostslime.c line 43: syntax error before the end of line
+
+/cmds/npc/ghostslime.c line 45: Illegal LHS before 	
+
+/cmds/npc/ghostslime.c line 45: syntax error before 	
+
+/cmds/npc/ghostslime.c line 49: Illegal LHS before the end of line
+
+/cmds/npc/ghostslime.c line 49: syntax error before the end of line
+
+/cmds/std/stand.c line 55: Undefined variable 'wasKD' before 1)
+
+/cmds/std/stand.c line 15: syntax error before  wasKD=0;
+
+/cmds/npc/ghostblast.c line 56: syntax error before  Target }) );
+
+/cmds/npc/ghostblast.c line 70: Illegal LHS before ;
+
+/cmds/npc/ghostblast.c line 79: syntax error before  Target }) );
+
+/cmds/npc/ghostblast.c line 81: Illegal LHS before the end of line
+
+/cmds/npc/ghostblast.c line 81: syntax error before the end of line
+
+/cmds/npc/ghostslime.c line 61: syntax error before  + Target->query_cap
+
+/cmds/npc/ghostslime.c line 61: syntax error before  Target }) );
+
+/cmds/npc/ghostslime.c line 74: syntax error before );
+
+/cmds/npc/ghostslime.c line 51: syntax error before ->query_cap_name(), 
+
+/cmds/std/test2.c line 6: Undefined variable 'announce' before 10);
+
+/cmds/std/test2.c line 6: Undefined function callout before ;
+
+/cmds/std/test2.c line 7: Undefined function callout before ;
+
+/cmds/std/setshort.c line 5: syntax error before  main(string arg)
+
+/std/ghosts/ghost.c line 424: Warning: Unused local variable 'Target' before the end of line
+
+/std/ghosts/ghost.c line 424: Warning: Unused local variable 'Target' before the end of line
+
+/std/ghosts/ghost.c line 403: Undefined variable 'GetGhostClass' before 0)
+
+/std/ghosts/ghost.c line 433: Warning: Unused local variable 'Target' before the end of line
+
+/std/ghosts/ghost.c line 406: syntax error before the end of line
+
+/std/ghosts/ghost.c line 408: Illegal LHS before         
+
+/std/ghosts/ghost.c line 408: Warning: Expression has no side effects, and the value is unused before         
+
+/cmds/std/look.c line 216: syntax error before the end of line
+
+/cmds/std/look.c line 284: Illegal LHS before the end of line
+
+/cmds/std/look.c line 218: syntax error before the end of line
+
+/cmds/std/look.c line 284: Illegal LHS before the end of line
+
+/cmds/std/look.c line 216: syntax error before the end of line
+
+/cmds/std/look.c line 278: Illegal LHS before the end of line
+
+/areas/demo/demo6.c line 38: Warning: Number of arguments disagrees with previous definition. before the end of line
+
+/areas/demo/demo6.c line 78: syntax error before (!skills)
+
+/areas/demo/demo6.c line 82: Warning: Unused local variable 'total' before the end of line
+
+/areas/demo/demo6.c line 89: Invalid argument types to '+' ( int vs array ) before 	
+
+/areas/demo/demo6.c line 161: syntax error before (!skills)
+
+/areas/demo/demo6.c line 165: Warning: Unused local variable 'total' before the end of line
+
+/areas/demo/demo6.c line 165: Warning: Unused local variable 'newtotal' before the end of line
+
+/areas/demo/demo6.c line 79: Undefined variable 'skills' before  values(mskills);	
+
+/areas/demo/demo6.c line 79: Illegal lvalue before  values(mskills);	
+
+/areas/demo/demo6.c line 159: Undefined variable 'skills' before  values(mskills);	
+
+/areas/demo/demo6.c line 159: Illegal lvalue before  values(mskills);	
+
+/areas/demo/demo6.c line 176: syntax error before  1;	
+
+/areas/demo/demo6.c line 180: Illegal LHS before the end of line
+
+/areas/hospital/mobiles/ERDoctor.c line 53: syntax error before n");
+
+/areas/hospital/mobiles/ERDoctor.c line 59: Illegal LHS before  i < sizeof(injuries
+
+/areas/hospital/mobiles/ERDoctor.c line 94: Illegal LHS before the end of line
+
+/areas/hospital/mobiles/ERDoctor.c line 94: syntax error before the end of line
+
+/areas/hospital/mobiles/ERDoctor.c line 137: Illegal LHS before the end of line
+
+/areas/hospital/hospitalER.c line 16: syntax error before  "/areas/street.c"})
+
+/areas/hospital/hospitalER.c line 17: Illegal LHS before the end of line
+
+/areas/hospital/hospitalER.c line 17: syntax error before the end of line
+
+/areas/hospital/hospitalER.c line 16: syntax error before  "/areas/street.c"})
+
+/areas/hospital/hospitalER.c line 17: Illegal LHS before the end of line
+
+/areas/hospital/hospitalER.c line 17: syntax error before the end of line
+
+/cmds/npc/ghostmblast.c line 4: Missing type for argument before  *targets );
+
+/cmds/npc/ghostmblast.c line 4: syntax error before targets );
+
+/cmds/npc/ghostshriek.c line 15: Undefined variable 'Target' before query_cap_name() + "
+
+/cmds/npc/ghostshriek.c line 84: syntax error before the end of line
+
+/cmds/npc/ghostshriek.c line 16: Undefined variable 'Target' before "An ethereal wind be
+
+/cmds/npc/ghostshriek.c line 84: syntax error before the end of line
+
+/obj/status/towel.c line 25: Undefined function callout before ;
+
+/obj/status/towel.c line 25: Undefined function callout before ;
+
+/obj/status/towel.c line 25: Undefined function callout before ;
+
+/obj/status/towel.c line 43: Illegal to inherit after defining functions. before the end of line
+
+/cmds/npc/ghostrage.c line 8: Undefined function IsGhost before )
+
+/std/ghosts/ghost.c line 377: syntax error before ( sizeof (targets ) 
+
+/std/ghosts/ghost.c line 396: Illegal LHS before     
+
+/std/ghosts/ghost.c line 396: syntax error before     
+
+/std/ghosts/ghost.c line 397: Illegal LHS before the end of line
+
+/std/ghosts/ghost.c line 397: syntax error before the end of line
+
+/std/ghosts/ghost.c line 416: Illegal LHS before the end of line
+
+/cmds/npc/ghostscare.c line 19: "#pragma strict_types" requires type of function before object Target )
+
+/cmds/npc/ghostscare.c line 19: Warning: Previous function prototype for DoScareAttack does not match current function in return type ( void vs unknown ) before the end of line
+
+/cmds/npc/ghostscare.c line 35: Undefined function exits before );	
+
+/cmds/npc/ghostscare.c line 35: Undefined function exits before );	
+
+/obj/gadgets/ghostwall.c line 86: Undefined variable 'this_player' before query_cap_name() + "
+
+/cmds/std/look.c line 228: Undefined variable 'ghost' before !
+
+/cmds/std/look.c line 228: syntax error before !
+
+/cmds/std/look.c line 272: syntax error before the end of line
+
+/std/ghosts/ghost.c line 44: syntax error before  SetStun( int num )
+
+/std/ghosts/ghost.c line 47: syntax error before  SetRage( int num );
+
+/obj/gadgets/pkegrenade.c line 30: Too few arguments to explode before ;
+
+/obj/gadgets/pkegrenade.c line 30: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/obj/gadgets/pkegrenade.c line 57: Undefined variable 'arg' before the end of line
+
+/obj/gadgets/pkegrenade.c line 74: Undefined variable 'ob' before set_heart_beat(30);
+
+/obj/gadgets/pkegrenade.c line 85: syntax error before  i < sizeof(targets)
+
+/obj/gadgets/pkegrenade.c line 113: Undefined variable 'num' before the end of line
+
+/obj/gadgets/pkegrenade.c line 113: Illegal LHS before the end of line
+
+/obj/gadgets/pkegrenade.c line 58: Undefined variable 'arg' before the end of line
+
+/obj/gadgets/pkegrenade.c line 75: Undefined variable 'ob' before set_heart_beat(30);
+
+/obj/gadgets/pkegrenade.c line 86: syntax error before  i < sizeof(targets)
+
+/obj/gadgets/pkegrenade.c line 114: Undefined variable 'num' before the end of line
+
+/obj/gadgets/pkegrenade.c line 114: Illegal LHS before the end of line
+
+/obj/gadgets/pkegrenade.c line 115: syntax error before the end of line
+
+/obj/gadgets/pkegrenade.c line 70: Undefined variable 'ob' before set_heart_beat(30);
+
+/obj/gadgets/pkegrenade.c line 81: syntax error before  i < sizeof(targets)
+
+/obj/gadgets/pkegrenade.c line 109: Undefined variable 'num' before the end of line
+
+/obj/gadgets/pkegrenade.c line 109: Illegal LHS before the end of line
+
+/obj/gadgets/pkegrenade.c line 110: syntax error before the end of line
+
+/obj/gadgets/pkegrenade.c line 82: syntax error before  i < sizeof(targets)
+
+/obj/gadgets/pkegrenade.c line 110: Undefined variable 'num' before the end of line
+
+/obj/gadgets/pkegrenade.c line 110: Illegal LHS before the end of line
+
+/obj/gadgets/pkegrenade.c line 111: syntax error before the end of line
+
+/obj/gadgets/pkegrenade.c line 81: syntax error before  i < sizeof(targets)
+
+/obj/gadgets/pkegrenade.c line 108: Undefined variable 'num' before the end of line
+
+/obj/gadgets/pkegrenade.c line 108: Illegal LHS before the end of line
+
+/obj/gadgets/pkegrenade.c line 109: syntax error before the end of line
+
+/obj/gadgets/pkegrenade.c line 81: syntax error before  i < sizeof(targets)
+
+/obj/gadgets/pkegrenade.c line 108: Undefined variable 'num' before the end of line
+
+/obj/gadgets/pkegrenade.c line 108: Illegal LHS before the end of line
+
+/obj/gadgets/pkegrenade.c line 109: syntax error before the end of line
+
+/obj/gadgets/pkegrenade.c line 81: syntax error before  i < sizeof(targets)
+
+/obj/gadgets/pkegrenade.c line 108: Undefined variable 'num' before the end of line
+
+/obj/gadgets/pkegrenade.c line 108: Illegal LHS before the end of line
+
+/obj/gadgets/pkegrenade.c line 109: syntax error before the end of line
+
+/std/area/rooms/room.c line 2: syntax error before std/area/rooms/room.
+
+/std/area/rooms/room.c line 18: Type mismatch ( string array vs string ) when initializing tossables before "drink","rock";
+
+/std/area/rooms/room.c line 18: syntax error before ,"rock";
+
+/std/area/rooms/room.c line 499: Type of returned value doesn't match function return type ( string array vs string ) before the end of line
+
+/cmds/npc/ghosttoss.c line 27: syntax error before  tossobject;
+
+/cmds/npc/ghosttoss.c line 31: Illegal LHS before the end of line
+
+/cmds/npc/ghosttoss.c line 31: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/cmds/npc/ghosttoss.c line 50: syntax error before the end of line
+
+/cmds/npc/ghosttoss.c line 52: Illegal LHS before the end of line
+
+/cmds/npc/ghosttoss.c line 52: syntax error before the end of line
+
+/cmds/npc/ghosttoss.c line 53: Illegal LHS before the end of line
+
+/cmds/npc/ghosttoss.c line 50: syntax error before the end of line
+
+/cmds/npc/ghosttoss.c line 52: Illegal LHS before the end of line
+
+/cmds/npc/ghosttoss.c line 52: syntax error before the end of line
+
+/cmds/npc/ghosttoss.c line 53: Illegal LHS before the end of line
+
+/cmds/npc/ghosttoss.c line 53: syntax error before the end of line
+
+/cmds/npc/ghosttoss.c line 54: Illegal LHS before the end of line
+
+/cmds/npc/ghosttoss.c line 50: syntax error before the end of line
+
+/cmds/npc/ghosttoss.c line 51: Illegal LHS before    
+
+/cmds/npc/ghosttoss.c line 51: syntax error before    
+
+/cmds/npc/ghosttoss.c line 53: Illegal LHS before the end of line
+
+/cmds/npc/ghosttoss.c line 53: syntax error before the end of line
+
+/cmds/npc/ghosttoss.c line 54: Illegal LHS before the end of line
+
+/cmds/npc/ghosttoss.c line 50: syntax error before the end of line
+
+/cmds/npc/ghosttoss.c line 51: Illegal LHS before    
+
+/cmds/npc/ghosttoss.c line 51: syntax error before    
+
+/cmds/npc/ghosttoss.c line 53: Illegal LHS before the end of line
+
+/cmds/npc/ghosttoss.c line 53: syntax error before the end of line
+
+/cmds/npc/ghosttoss.c line 54: Illegal LHS before the end of line
+
+/cmds/npc/ghosttoss.c line 50: syntax error before the end of line
+
+/cmds/npc/ghosttoss.c line 51: Illegal LHS before    
+
+/cmds/npc/ghosttoss.c line 51: syntax error before    
+
+/cmds/npc/ghosttoss.c line 53: Illegal LHS before the end of line
+
+/cmds/npc/ghosttoss.c line 53: syntax error before the end of line
+
+/cmds/npc/ghosttoss.c line 54: Illegal LHS before the end of line
+
+/cmds/npc/ghosttoss.c line 75: Undefined variable 'damholder' before (roll*(-1)/10));
+
+/cmds/npc/ghosttoss.c line 75: Illegal lvalue before (roll*(-1)/10));
+
+/std/area/rooms/room.c line 512: Undefined variable 'objects' before inv;
+
+/std/area/rooms/room.c line 512: Undefined variable 'inv' before the end of line
+
+/std/area/rooms/room.c line 512: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/cmds/npc/ghosthurl.c line 63: Undefined variable 'hurableobject' before the end of line
+
+/obj/shower.c line 1: Warning: ^M before the end of line
+
+/obj/shower.c line 2: Warning: ^M before the end of line
+
+/obj/shower.c line 3: Warning: ^M before the end of line
+
+/obj/shower.c line 4: Warning: ^M before the end of line
+
+/obj/shower.c line 5: Warning: ^M before the end of line
+
+/obj/shower.c line 6: Warning: ^M before the end of line
+
+/obj/shower.c line 7: Warning: ^M before the end of line
+
+/obj/shower.c line 8: Warning: ^M before the end of line
+
+/obj/shower.c line 9: Warning: ^M before the end of line
+
+/obj/shower.c line 10: Warning: ^M before the end of line
+
+/obj/shower.c line 11: Warning: ^M before the end of line
+
+/obj/shower.c line 12: Warning: ^M before the end of line
+
+/obj/shower.c line 13: Warning: ^M before the end of line
+
+/obj/shower.c line 14: Warning: ^M before the end of line
+
+/obj/shower.c line 15: Warning: ^M before the end of line
+
+/obj/shower.c line 16: Warning: ^M before the end of line
+
+/obj/shower.c line 17: Warning: ^M before the end of line
+
+/obj/shower.c line 18: Warning: ^M before the end of line
+
+/obj/shower.c line 19: Warning: ^M before the end of line
+
+/obj/shower.c line 20: Warning: ^M before the end of line
+
+/obj/shower.c line 21: Warning: ^M before the end of line
+
+/obj/shower.c line 22: Warning: ^M before the end of line
+
+/obj/shower.c line 23: Warning: ^M before the end of line
+
+/obj/shower.c line 24: Warning: ^M before the end of line
+
+/obj/shower.c line 25: Warning: ^M before the end of line
+
+/obj/shower.c line 26: Warning: ^M before the end of line
+
+/obj/shower.c line 27: Warning: ^M before the end of line
+
+/obj/shower.c line 28: Warning: ^M before the end of line
+
+/obj/shower.c line 29: Warning: ^M before the end of line
+
+/obj/shower.c line 30: Warning: ^M before the end of line
+
+/obj/shower.c line 31: Warning: ^M before the end of line
+
+/obj/shower.c line 32: Warning: ^M before the end of line
+
+/obj/shower.c line 33: Warning: ^M before the end of line
+
+/obj/shower.c line 34: Warning: ^M before the end of line
+
+/obj/shower.c line 35: Warning: ^M before the end of line
+
+/obj/shower.c line 36: Warning: ^M before the end of line
+
+/obj/shower.c line 37: Warning: ^M before the end of line
+
+/obj/shower.c line 38: Warning: ^M before the end of line
+
+/obj/shower.c line 39: Warning: ^M before the end of line
+
+/obj/shower.c line 40: Warning: ^M before the end of line
+
+/obj/shower.c line 41: Warning: ^M before the end of line
+
+/obj/shower.c line 42: Warning: ^M before the end of line
+
+/obj/shower.c line 43: Warning: ^M before the end of line
+
+/obj/shower.c line 44: Warning: ^M before the end of line
+
+/obj/shower.c line 45: Warning: ^M before the end of line
+
+/obj/shower.c line 46: Warning: ^M before the end of line
+
+/obj/shower.c line 47: Warning: ^M before the end of line
+
+/obj/shower.c line 48: Warning: ^M before the end of line
+
+/obj/shower.c line 49: Warning: ^M before the end of line
+
+/obj/shower.c line 50: Warning: ^M before the end of line
+
+/obj/shower.c line 51: Warning: ^M before the end of line
+
+/obj/pkemeter/pkemeter.c line 151: Undefined variable 'scan' before Your readings tell y
+
+/obj/pkemeter/pkemeter.c line 151: syntax error before Your readings tell y
+
+/obj/pkemeter/pkemeter.c line 171: End of file in string at the end of the file
+
+/obj/trap/trap.c line 124: Undefined variable 'this_object' before set_long(this_object
+
+/obj/trap/trap.c line 132: Undefined variable 'this_object' before );	
+
+/obj/trap/trap.c line 132: Undefined variable 'this_object' before );	
+
+/obj/trap/trap.c line 114: Invalid argument types to '+' ( void vs string ) before the end of line
+
+/obj/trap/trap.c line 115: syntax error before ;
+
+/obj/trap/trap.c line 116: Illegal LHS before the end of line
+
+/obj/trap/trap.c line 116: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/obj/trap/trap.c line 130: Undefined variable 'this_object' before );	
+
+/obj/trap/trap.c line 129: Undefined variable 'this_object' before );	
+
+/obj/shower.c line 1: Warning: ^M before the end of line
+
+/obj/shower.c line 2: Warning: ^M before the end of line
+
+/obj/shower.c line 3: Warning: ^M before the end of line
+
+/obj/shower.c line 4: Warning: ^M before the end of line
+
+/obj/shower.c line 5: Warning: ^M before the end of line
+
+/obj/shower.c line 6: Warning: ^M before the end of line
+
+/obj/shower.c line 7: Warning: ^M before the end of line
+
+/obj/shower.c line 8: Warning: ^M before the end of line
+
+/obj/shower.c line 9: Warning: ^M before the end of line
+
+/obj/shower.c line 10: Warning: ^M before the end of line
+
+/obj/shower.c line 11: Warning: ^M before the end of line
+
+/obj/shower.c line 12: Warning: ^M before the end of line
+
+/obj/shower.c line 13: Warning: ^M before the end of line
+
+/obj/shower.c line 14: Warning: ^M before the end of line
+
+/obj/shower.c line 15: Warning: ^M before the end of line
+
+/obj/shower.c line 16: Warning: ^M before the end of line
+
+/obj/shower.c line 17: Warning: ^M before the end of line
+
+/obj/shower.c line 18: Warning: ^M before the end of line
+
+/obj/shower.c line 19: Warning: ^M before the end of line
+
+/obj/shower.c line 20: Warning: ^M before the end of line
+
+/obj/shower.c line 21: Warning: ^M before the end of line
+
+/obj/shower.c line 22: Warning: ^M before the end of line
+
+/obj/shower.c line 23: Warning: ^M before the end of line
+
+/obj/shower.c line 24: Warning: ^M before the end of line
+
+/obj/shower.c line 25: Warning: ^M before the end of line
+
+/obj/shower.c line 26: Warning: ^M before the end of line
+
+/obj/shower.c line 27: Warning: ^M before the end of line
+
+/obj/shower.c line 28: Warning: ^M before the end of line
+
+/obj/shower.c line 29: Warning: ^M before the end of line
+
+/obj/shower.c line 30: Warning: ^M before the end of line
+
+/obj/shower.c line 31: Warning: ^M before the end of line
+
+/obj/shower.c line 32: Warning: ^M before the end of line
+
+/obj/shower.c line 33: Warning: ^M before the end of line
+
+/obj/shower.c line 34: Warning: ^M before the end of line
+
+/obj/shower.c line 35: Warning: ^M before the end of line
+
+/obj/shower.c line 36: Warning: ^M before the end of line
+
+/obj/shower.c line 37: Warning: ^M before the end of line
+
+/obj/shower.c line 38: Warning: ^M before the end of line
+
+/obj/shower.c line 39: Warning: ^M before the end of line
+
+/obj/shower.c line 40: Warning: ^M before the end of line
+
+/obj/shower.c line 41: Warning: ^M before the end of line
+
+/obj/shower.c line 42: Warning: ^M before the end of line
+
+/obj/shower.c line 43: Warning: ^M before the end of line
+
+/obj/shower.c line 44: Warning: ^M before the end of line
+
+/obj/shower.c line 45: Warning: ^M before the end of line
+
+/obj/shower.c line 46: Warning: ^M before the end of line
+
+/obj/shower.c line 47: Warning: ^M before the end of line
+
+/obj/shower.c line 48: Warning: ^M before the end of line
+
+/obj/shower.c line 49: Warning: ^M before the end of line
+
+/obj/shower.c line 50: Warning: ^M before the end of line
+
+/obj/shower.c line 51: Warning: ^M before the end of line
+
+/obj/shower.c line 1: Warning: ^M before the end of line
+
+/obj/shower.c line 2: Warning: ^M before the end of line
+
+/obj/shower.c line 3: Warning: ^M before the end of line
+
+/obj/shower.c line 4: Warning: ^M before the end of line
+
+/obj/shower.c line 5: Warning: ^M before the end of line
+
+/obj/shower.c line 6: Warning: ^M before the end of line
+
+/obj/shower.c line 7: Warning: ^M before the end of line
+
+/obj/shower.c line 8: Warning: ^M before the end of line
+
+/obj/shower.c line 9: Warning: ^M before the end of line
+
+/obj/shower.c line 10: Warning: ^M before the end of line
+
+/obj/shower.c line 11: Warning: ^M before the end of line
+
+/obj/shower.c line 12: Warning: ^M before the end of line
+
+/obj/shower.c line 13: Warning: ^M before the end of line
+
+/obj/shower.c line 14: Warning: ^M before the end of line
+
+/obj/shower.c line 15: Warning: ^M before the end of line
+
+/obj/shower.c line 16: Warning: ^M before the end of line
+
+/obj/shower.c line 17: Warning: ^M before the end of line
+
+/obj/shower.c line 18: Warning: ^M before the end of line
+
+/obj/shower.c line 19: Warning: ^M before the end of line
+
+/obj/shower.c line 20: Warning: ^M before the end of line
+
+/obj/shower.c line 21: Warning: ^M before the end of line
+
+/obj/shower.c line 22: Warning: ^M before the end of line
+
+/obj/shower.c line 23: Warning: ^M before the end of line
+
+/obj/shower.c line 24: Warning: ^M before the end of line
+
+/obj/shower.c line 25: Warning: ^M before the end of line
+
+/obj/shower.c line 26: Warning: ^M before the end of line
+
+/obj/shower.c line 27: Warning: ^M before the end of line
+
+/obj/shower.c line 28: Warning: ^M before the end of line
+
+/obj/shower.c line 29: Warning: ^M before the end of line
+
+/obj/shower.c line 30: Warning: ^M before the end of line
+
+/obj/shower.c line 31: Warning: ^M before the end of line
+
+/obj/shower.c line 32: Warning: ^M before the end of line
+
+/obj/shower.c line 33: Warning: ^M before the end of line
+
+/obj/shower.c line 34: Warning: ^M before the end of line
+
+/obj/shower.c line 35: Warning: ^M before the end of line
+
+/obj/shower.c line 36: Warning: ^M before the end of line
+
+/obj/shower.c line 37: Warning: ^M before the end of line
+
+/obj/shower.c line 38: Warning: ^M before the end of line
+
+/obj/shower.c line 39: Warning: ^M before the end of line
+
+/obj/shower.c line 40: Warning: ^M before the end of line
+
+/obj/shower.c line 41: Warning: ^M before the end of line
+
+/obj/shower.c line 42: Warning: ^M before the end of line
+
+/obj/shower.c line 43: Warning: ^M before the end of line
+
+/obj/shower.c line 44: Warning: ^M before the end of line
+
+/obj/shower.c line 45: Warning: ^M before the end of line
+
+/obj/shower.c line 46: Warning: ^M before the end of line
+
+/obj/shower.c line 47: Warning: ^M before the end of line
+
+/obj/shower.c line 48: Warning: ^M before the end of line
+
+/obj/shower.c line 49: Warning: ^M before the end of line
+
+/obj/shower.c line 50: Warning: ^M before the end of line
+
+/cmds/std/look.c line 149: Undefined function query_env before =="off")
+
+/cmds/std/look.c line 149: Bad argument number 1 to '-': "object " before "off")
+
+/cmds/std/look.c line 151: Too few arguments to tell_object before ;
+
+/cmds/std/look.c line 151: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/cmds/std/look.c line 152: Too few arguments to tell_object before ;
+
+/cmds/std/look.c line 152: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/cmds/std/look.c line 151: Too few arguments to tell_object before ;
+
+/cmds/std/look.c line 151: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/cmds/std/look.c line 152: Too few arguments to tell_object before ;
+
+/cmds/std/look.c line 152: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/obj/pkemeter/pkemeter.c line 21: syntax error before ( ({ "PKE", "Meter",
+
+/obj/pkemeter/pkemeter.c line 24: Illegal LHS before the end of line
+
+/obj/pkemeter/pkemeter.c line 24: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/areas/franchise/franchise7.c line 24: Type mismatch ( unknown vs object ) when initializing shower before the end of line
+
+/areas/franchise/franchise7.c line 24: Warning: Redeclaration of global variable 'shower'. before the end of line
+
+/areas/franchise/franchise7.c line 24: Missing type for global variable declaration before the end of line
+
+/areas/franchise/franchise7.c line 25: Warning: Redeclaration of global variable 'shower'. before move("/areas/franchi
+
+/areas/franchise/franchise7.c line 25: syntax error before move("/areas/franchi
+
+/areas/franchise/franchise7.c line 24: Type mismatch ( unknown vs object ) when initializing shower before the end of line
+
+/areas/franchise/franchise7.c line 24: Warning: Redeclaration of global variable 'shower'. before the end of line
+
+/areas/franchise/franchise7.c line 24: Missing type for global variable declaration before the end of line
+
+/areas/franchise/franchise7.c line 25: Warning: Redeclaration of global variable 'shower'. before move("/areas/franchi
+
+/areas/franchise/franchise7.c line 25: syntax error before move("/areas/franchi
+
+/home/c/critical/tmp_eval_file.c line 1: syntax error before  this_player()->get_
+
+/cmds/std/health.c line 12: syntax error before ("Your covered in sl
+
+/cmds/std/health.c line 12: syntax error before ("Your covered in sl
+
+/cmds/std/ask.c line 52: Warning: Unused local variable 'room' before the end of line
+
+/cmds/std/ask.c line 52: Warning: Unused local variable 'reply' before the end of line
+
+/areas/franchise/mobiles/bizagent.c line 15: Undefined function set_name before ;
+
+/areas/franchise/mobiles/bizagent.c line 16: Undefined function set_short before ;
+
+/areas/franchise/mobiles/bizagent.c line 17: Undefined function set_long before ;
+
+/areas/franchise/mobiles/bizagent.c line 18: Undefined function set_id before ;
+
+/areas/franchise/mobiles/bizagent.c line 19: Undefined function isShop before ;
+
+/areas/franchise/mobiles/bizagent.c line 27: Undefined function setReplies before ;
+
+/areas/franchise/mobiles/bizagent.c line 20: Undefined function isShop before ;
+
+/areas/franchise/mobiles/bizagent.c line 28: Undefined function setReplies before ;
+
+/areas/franchise/mobiles/bizagent.c line 34: Too few arguments to add_action before ;
+
+/areas/franchise/mobiles/bizagent.c line 34: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/areas/franchise/mobiles/bizagent.c line 46: Undefined function callout before ;
+
+/areas/franchise/mobiles/bizagent.c line 27: Undefined function setReplies before ;
+
+/std/user/gb_player.c line 656: Undefined variable 'currentime' before >3600)
+
+/std/user/gb_player.c line 664: Warning: Unused local variable 'currenttime' before the end of line
+
+/areas/franchise/mobiles/bizagent.c line 58: syntax error before  i<sizeof(inv),i++)
+
+/areas/franchise/mobiles/bizagent.c line 85: Illegal LHS before the end of line
+
+/areas/franchise/mobiles/bizagent.c line 88: Undefined variable 'ghost' before clone_object("/obj/n
+
+/areas/franchise/mobiles/bizagent.c line 88: Illegal lvalue before clone_object("/obj/n
+
+/areas/franchise/mobiles/bizagent.c line 88: syntax error before the end of line
+
+/areas/franchise/mobiles/bizagent.c line 67: Undefined function dest before ;
+
+/cmds/demo/outfit.c line 46: syntax error before  hasUniform )
+
+/cmds/demo/outfit.c line 57: Illegal LHS before the end of line
+
+/cmds/demo/outfit.c line 57: syntax error before the end of line
+
+/cmds/demo/outfit.c line 64: Illegal LHS before the end of line
+
+/cmds/demo/outfit.c line 64: syntax error before the end of line
+
+/cmds/demo/outfit.c line 71: Illegal LHS before the end of line
+
+/cmds/demo/outfit.c line 78: Undefined function move before ;
+
+/areas/franchise/mobiles/bizagent.c line 68: Left argument of -> is not a class before 1);
+
+/areas/franchise/mobiles/bizagent.c line 68: Left argument of -> is not a class before 1);
+
+/areas/franchise/mobiles/bizagent.c line 89: Warning: query_wait_time() inherited from both /std/command/command.c and /std/user/gb_mobile.c (via /std/area/mobiles/npc.c); using the definition in /std/command/command.c. before the end of file
+
+/areas/franchise/mobiles/bizagent.c line 89: Warning: query_wait_time() inherited from both /std/command/command.c and /std/user/gb_mobile.c (via /std/area/mobiles/npc.c); using the definition in /std/command/command.c. before the end of file
+
+/areas/franchise/mobiles/bizagent.c line 21: Undefined function set_health before ;
+
+/cmds/std/look.c line 395: break statement outside loop before the end of line
+
+/home/c/critical/tmp_eval_file.c line 2: syntax error before the end of file
+
+/cmds/std/ask.c line 52: Warning: Unused local variable 'room' before the end of line
+
+/cmds/std/ask.c line 52: Warning: Unused local variable 'reply' before the end of line
+
+/cmds/std/look.c line 400: syntax error before ->get_health());
+
+/cmds/std/look.c line 424: Undefined variable 'target' before the end of line
+
+/cmds/std/look.c line 424: Illegal LHS before the end of line
+
+/home/c/critical/tmp_eval_file.c line 1: syntax error before ; }
+
+/home/c/critical/tmp_eval_file.c line 1: syntax error before );}; }
+
+/obj/gadgets/pkegrenade.c line 16: Undefined function setvalue before ;
+
+/obj/pkemeter/pkemeter.c line 59: syntax error before the end of line
+
+/obj/pkemeter/pkemeter.c line 59: syntax error before the end of line
+
+/obj/pkemeter/pkemeter.c line 59: syntax error before the end of line
+
+/obj/pkemeter/pkemeter.c line 94: Reserved type name unexpected. before obArray = all_invent
+
+/obj/pkemeter/pkemeter.c line 94: syntax error before obArray = all_invent
+
+/obj/pkemeter/pkemeter.c line 95: Illegal LHS before the end of line
+
+/obj/pkemeter/pkemeter.c line 95: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/obj/pkemeter/pkemeter.c line 101: Undefined variable 'obArray' before ; i++ )
+
+/obj/pkemeter/pkemeter.c line 108: Undefined variable 'ghostRange' before  obArray[i]->GetFreq
+
+/obj/pkemeter/pkemeter.c line 110: Undefined variable 'ghostFrequency' before  obArray[i]->GetFreq
+
+/obj/pkemeter/pkemeter.c line 89: Undefined variable 'ghostPresent' before the end of line
+
+/obj/pkemeter/pkemeter.c line 92: syntax error before  1;
+
+/obj/pkemeter/pkemeter.c line 96: Warning: Expression has no side effects, and the value is unused before ( int i = 0; i < siz
+
+/obj/pkemeter/pkemeter.c line 92: syntax error before  1;
+
+/home/c/critical/tmp_eval_file.c line 1: Warning: Extra ';'. Ignored. before  }
+
+/home/c/critical/tmp_eval_file.c line 1: syntax error before the end of line
+
+/obj/gadgets/handradio.c line 37: syntax error before  i<sizeof(radios); i
+
+/obj/gadgets/handradio.c line 64: Undefined variable 'num' before the end of line
+
+/obj/gadgets/handradio.c line 64: Illegal LHS before the end of line
+
+/obj/gadgets/handradio.c line 65: syntax error before  1;
+
+/obj/gadgets/handradio.c line 38: syntax error before  i < sizeof(radios )
+
+/obj/gadgets/handradio.c line 82: Undefined variable 'num' before the end of line
+
+/obj/gadgets/handradio.c line 82: Illegal LHS before the end of line
+
+/obj/gadgets/handradio.c line 83: syntax error before the end of line
+
+/obj/gadgets/handradio.c line 38: syntax error before  i < sizeof(radios);
+
+/obj/gadgets/handradio.c line 83: Undefined variable 'num' before the end of line
+
+/obj/gadgets/handradio.c line 83: Illegal LHS before the end of line
+
+/obj/gadgets/handradio.c line 84: syntax error before the end of line
+
+/obj/gadgets/handradio.c line 40: Undefined variable 'radio' before i]->getchannel()==ge
+
+/obj/gadgets/handradio.c line 65: Arguments to > do not have compatible types : ( string vs int ) before the end of line
+
+/obj/gadgets/handradio.c line 68: Bad type for argument 1 of setchannel ( int vs string ) before ;
+
+/obj/gadgets/handradio.c line 68: Undefined variable 'cha' before  65)

@@ -1,0 +1,3729 @@
+
+/home/j/janine/public/cmds/jstartdemo.c line 10: syntax error before  main( string arg )
+
+/home/j/janine/public/cmds/jstartdemo.c line 10: syntax error before  main( string arg )
+
+/cmds/std/jstartdemo.c line 10: syntax error before  main( string arg )
+
+/cmds/std/jstartdemo.c line 10: syntax error before  main( string arg )
+
+/cmds/std/jstartdemo.c line 10: syntax error before  main( )
+
+/cmds/std/jstartdemo.c line 10: syntax error before  main( )
+
+/cmds/std/jstartdemo.c line 10: syntax error before  main( )
+
+/home/j/janine/public/cmds/jstartdemo.c line 10: syntax error before  main ( string arg )
+
+/home/j/janine/public/cmds/jstartdemo.c line 10: syntax error before  main ( string arg )
+
+/home/j/janine/public/cmds/jstartdemo.c line 10: syntax error before  main ( string arg )
+
+/home/j/janine/public/cmds/jstartdemo.c line 10: syntax error before  main ( string arg )
+
+/home/j/janine/public/cmds/jstartdemo.c line 10: syntax error before  main ( string arg )
+
+/home/j/janine/public/cmds/jstartdemo.c line 10: syntax error before  main ( string arg )
+
+/home/j/janine/public/slimer.c line 4: syntax error before ("slimer")
+---
+Error: *Error in loading object '/home/j/janine/public/slimer'
+
+Current object: OBJECT(/home/j/janine/public/cmds/jstartdemo)
+Current Program: "/home/j/janine/public/cmds/jstartdemo.c"
+Line:    13, File: /home/j/janine/public/cmds/jstartdemo.c
+
+Traceback:
+Line:    99, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#21)
+ Program: /std/user/gb_player.c
+Line:   157, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#21)
+ Program: /std/user/gb_player.c
+Line:    13, File: /home/j/janine/public/cmds/jstartdemo.c
+ Object: OBJECT(/home/j/janine/public/cmds/jstartdemo)
+ Program: /home/j/janine/public/cmds/jstartdemo.c
+
+/home/j/janine/public/jghost.c line 82: syntax error before  ( ghostPower );
+
+/home/j/janine/public/jghost.c line 82: "#pragma strict_types" requires type of function before ghostPower );
+
+/home/j/janine/public/jghost.c line 82: Missing type for argument before  );
+
+/home/j/janine/public/jghost.c line 83: syntax error before the end of line
+
+/home/j/janine/public/cmds/temp.c line 16: Undefined function query_cap_name before ;
+
+/home/j/janine/public/cmds/temp.c line 16: Bad left argument to '>' : "object " before the end of line
+
+/home/j/janine/public/cmds/temp.c line 16: Bad assignment ( string vs int ). before the end of line
+
+/home/j/janine/public/cmds/temp.c line 18: Warning: Unused local variable 'target' before the end of line
+
+/home/j/janine/public/cmds/temp.c line 18: Warning: Unused local variable 'action' before the end of line
+
+/home/j/janine/public/cmds/temp.c line 18: Warning: Unused local variable 'victim' before the end of line
+
+/home/j/janine/public/cmds/temp.c line 18: Warning: Unused local variable 'room' before the end of line
+
+/home/j/janine/public/cmds/temp.c line 16: Undefined variable 'this_player' before query_cap_name();
+
+/home/j/janine/public/cmds/temp.c line 18: syntax error before );
+
+/home/j/janine/public/cmds/temp.c line 18: Undefined variable 'roominv' before  i ]);
+
+/home/j/janine/public/cmds/temp.c line 18: Undefined variable 'roominv' before  i ] ))
+
+/home/j/janine/public/cmds/temp.c line 19: syntax error before query_cap_name());
+
+/home/j/janine/public/cmds/temp.c line 19: syntax error before query_cap_name());
+
+/home/j/janine/public/cmds/firstaid.c line 3: syntax error before  main (string arg)
+
+/home/j/janine/public/cmds/firstaid.c line 11: Illegal to redeclare local name 'arg' before ;
+
+/home/j/janine/public/cmds/firstaid.c line 14: syntax error before , target);
+
+/home/j/janine/public/cmds/firstaid.c line 15: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 15: syntax error before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 16: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 16: syntax error before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 13: syntax error before , target);
+
+/home/j/janine/public/cmds/firstaid.c line 14: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 14: syntax error before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 15: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 15: syntax error before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 31: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 14: syntax error before , target);
+
+/home/j/janine/public/cmds/firstaid.c line 15: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 15: syntax error before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 16: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 16: syntax error before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 32: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 13: syntax error before , target);
+
+/home/j/janine/public/cmds/firstaid.c line 14: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 14: syntax error before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 15: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 15: syntax error before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 31: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 16: syntax error before );
+
+/home/j/janine/public/cmds/firstaid.c line 31: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 31: syntax error before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 32: Illegal LHS before  i < sizeof( room );
+
+/home/j/janine/public/cmds/firstaid.c line 18: Undefined function targetInRoom before ){
+
+/home/j/janine/public/cmds/firstaid.c line 19: syntax error before )
+
+/home/j/janine/public/cmds/firstaid.c line 31: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 31: syntax error before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 32: Illegal LHS before  i < sizeof( room );
+
+/home/j/janine/public/cmds/firstaid.c line 8: syntax error before  main (string arg)
+
+/home/j/janine/public/cmds/firstaid.c line 24: syntax error before )
+
+/home/j/janine/public/cmds/firstaid.c line 36: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 36: syntax error before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 37: Illegal LHS before  i < sizeof( room );
+
+/home/j/janine/public/cmds/firstaid.c line 24: syntax error before )
+
+/home/j/janine/public/cmds/firstaid.c line 36: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 36: syntax error before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 37: Illegal LHS before  i < sizeof( room );
+
+/home/j/janine/public/cmds/firstaid.c line 27: syntax error before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 34: Reserved type name unexpected. before (string target)
+
+/home/j/janine/public/cmds/firstaid.c line 34: syntax error before (string target)
+
+/home/j/janine/public/cmds/firstaid.c line 36: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 36: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 37: Undefined variable 'room' before ; i++ )
+
+/home/j/janine/public/cmds/firstaid.c line 41: Undefined variable 'target' before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 10: Illegal to redeclare local name 'arg' before ;
+
+/home/j/janine/public/cmds/firstaid.c line 13: syntax error before , target);
+
+/home/j/janine/public/cmds/firstaid.c line 14: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 14: syntax error before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 15: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 15: syntax error before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 19: syntax error before );
+
+/home/j/janine/public/cmds/firstaid.c line 35: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 35: syntax error before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 36: Illegal LHS before  i < sizeof( room );
+
+/home/j/janine/public/cmds/firstaid.c line 20: syntax error before (target){
+
+/home/j/janine/public/cmds/firstaid.c line 22: Warning: Unused local variable 'room' before else{
+
+/home/j/janine/public/cmds/firstaid.c line 28: Warning: Non-void functions must return a value. before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 29: Warning: Unused local variable 'room' before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 34: Undefined variable 'room' before  all_inventory( envi
+
+/home/j/janine/public/cmds/firstaid.c line 34: Illegal lvalue before  all_inventory( envi
+
+/home/j/janine/public/cmds/firstaid.c line 34: Undefined variable 'player' before );
+
+/home/j/janine/public/cmds/firstaid.c line 32: syntax error before  *room;
+
+/home/j/janine/public/cmds/firstaid.c line 33: syntax error before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 16: syntax error before (arg,"%s %s", action
+
+/home/j/janine/public/cmds/firstaid.c line 24: Warning: Unused local variable 'target' before else{
+
+/home/j/janine/public/cmds/firstaid.c line 24: Warning: Unused local variable 'action' before else{
+
+/home/j/janine/public/cmds/firstaid.c line 24: Warning: Unused local variable 'player' before else{
+
+/home/j/janine/public/cmds/firstaid.c line 24: Warning: Unused local variable 'temp' before else{
+
+/home/j/janine/public/cmds/firstaid.c line 24: Warning: Unused local variable 'targetHealth' before else{
+
+/home/j/janine/public/cmds/firstaid.c line 16: syntax error before (arg,"%s %s", action
+
+/home/j/janine/public/cmds/firstaid.c line 24: Warning: Unused local variable 'target' before else{
+
+/home/j/janine/public/cmds/firstaid.c line 24: Warning: Unused local variable 'action' before else{
+
+/home/j/janine/public/cmds/firstaid.c line 24: Warning: Unused local variable 'player' before else{
+
+/home/j/janine/public/cmds/firstaid.c line 24: Warning: Unused local variable 'temp' before else{
+
+/home/j/janine/public/cmds/firstaid.c line 24: Warning: Unused local variable 'targetHealth' before else{
+
+/home/j/janine/public/cmds/firstaid.c line 16: syntax error before (arg,"%s %s", action
+
+/home/j/janine/public/cmds/firstaid.c line 24: Warning: Unused local variable 'target' before else{
+
+/home/j/janine/public/cmds/firstaid.c line 24: Warning: Unused local variable 'action' before else{
+
+/home/j/janine/public/cmds/firstaid.c line 24: Warning: Unused local variable 'player' before else{
+
+/home/j/janine/public/cmds/firstaid.c line 24: Warning: Unused local variable 'temp' before else{
+
+/home/j/janine/public/cmds/firstaid.c line 24: Warning: Unused local variable 'targetHealth' before else{
+
+/home/j/janine/public/cmds/firstaid2.c line 31: Warning: Unused local variable 'player' before the end of line
+
+/home/j/janine/public/cmds/firstaid2.c line 31: Warning: Unused local variable 'temp' before the end of line
+
+/home/j/janine/public/cmds/firstaid2.c line 31: Warning: Unused local variable 'targetHealth' before the end of line
+
+/home/j/janine/public/cmds/firstaid3.c line 31: Warning: Unused local variable 'player' before the end of line
+
+/home/j/janine/public/cmds/firstaid3.c line 31: Warning: Unused local variable 'temp' before the end of line
+---
+Error: *call_other() couldn't find object
+
+Current object: OBJECT(/home/j/janine/public/cmds/firstaid3)
+Current Program: "/home/j/janine/public/cmds/firstaid3.c"
+Line:    22, File: /home/j/janine/public/cmds/firstaid3.c
+
+Traceback:
+Line:    99, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#23)
+ Program: /std/user/gb_player.c
+Line:   157, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#23)
+ Program: /std/user/gb_player.c
+Line:    22, File: /home/j/janine/public/cmds/firstaid3.c
+ Object: OBJECT(/home/j/janine/public/cmds/firstaid3)
+ Program: /home/j/janine/public/cmds/firstaid3.c
+
+/home/j/janine/public/cmds/firstaid4.c line 32: Warning: Unused local variable 'player' before the end of line
+
+/home/j/janine/public/cmds/firstaid4.c line 32: Warning: Unused local variable 'temp' before the end of line
+---
+Error: *call_other() couldn't find object
+
+Current object: OBJECT(/home/j/janine/public/cmds/firstaid4)
+Current Program: "/home/j/janine/public/cmds/firstaid4.c"
+Line:    23, File: /home/j/janine/public/cmds/firstaid4.c
+
+Traceback:
+Line:    99, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#23)
+ Program: /std/user/gb_player.c
+Line:   157, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#23)
+ Program: /std/user/gb_player.c
+Line:    23, File: /home/j/janine/public/cmds/firstaid4.c
+ Object: OBJECT(/home/j/janine/public/cmds/firstaid4)
+ Program: /home/j/janine/public/cmds/firstaid4.c
+
+/home/j/janine/public/cmds/firstaid5.c line 32: Warning: Unused local variable 'player' before the end of line
+
+/home/j/janine/public/cmds/firstaid5.c line 32: Warning: Unused local variable 'temp' before the end of line
+---
+Error: *Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Current object: OBJECT(/home/j/janine/public/cmds/firstaid5)
+Current Program: "/home/j/janine/public/cmds/firstaid5.c"
+Line:    23, File: /home/j/janine/public/cmds/firstaid5.c
+
+Traceback:
+Line:    99, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#23)
+ Program: /std/user/gb_player.c
+Line:   157, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#23)
+ Program: /std/user/gb_player.c
+Line:    23, File: /home/j/janine/public/cmds/firstaid5.c
+ Object: OBJECT(/home/j/janine/public/cmds/firstaid5)
+ Program: /home/j/janine/public/cmds/firstaid5.c
+
+/home/j/janine/public/cmds/firstaid.c line 32: Warning: Unused local variable 'player' before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 32: Warning: Unused local variable 'temp' before the end of line
+
+/home/j/janine/public/cmds/firstaid2.c line 30: syntax error before >100){
+
+/home/j/janine/public/cmds/firstaid2.c line 31: Left argument of -> is not a class before );
+
+/home/j/janine/public/cmds/firstaid2.c line 37: Left argument of -> is not a class before );
+
+/home/j/janine/public/cmds/firstaid2.c line 64: syntax error before  skillRole;
+
+/home/j/janine/public/cmds/firstaid2.c line 65: syntax error before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 1: "#pragma strict_types" requires type of function before printf("the target i
+
+/home/j/janine/public/cmds/firstaid.c line 1: Missing type for argument before ("the target is not 
+
+/home/j/janine/public/cmds/firstaid.c line 1: syntax error before "the target is not h
+
+/home/j/janine/public/cmds/firstaid.c line 1: "#pragma strict_types" requires type of function before printf("the target i
+
+/home/j/janine/public/cmds/firstaid.c line 1: Missing type for argument before ("the target is not 
+
+/home/j/janine/public/cmds/firstaid.c line 1: syntax error before "the target is not h
+
+/home/j/janine/public/cmds/firstaid.c line 1: "#pragma strict_types" requires type of function before printf("the target i
+
+/home/j/janine/public/cmds/firstaid.c line 1: Missing type for argument before ("the target is not 
+
+/home/j/janine/public/cmds/firstaid.c line 1: syntax error before "the target is not h
+
+/home/j/janine/public/cmds/firstaid.c line 31: Left argument of -> is not a class before );
+
+/home/j/janine/public/cmds/firstaid.c line 37: Left argument of -> is not a class before );
+
+/home/j/janine/public/cmds/firstaid.c line 64: syntax error before  skillRole;
+
+/home/j/janine/public/cmds/firstaid.c line 65: syntax error before the end of line
+
+/home/j/janine/public/cmds/firstaid2.c line 64: syntax error before  skillRole;
+
+/home/j/janine/public/cmds/firstaid2.c line 65: syntax error before the end of line
+
+/home/j/janine/public/cmds/fa3.c line 67: Undefined variable 'victim' before get_heatlh());
+
+/home/j/janine/public/cmds/fa3.c line 67: Undefined function DoSkillRoll before ;
+
+/home/j/janine/public/cmds/fa3.c line 68: syntax error before the end of line
+
+/home/j/janine/public/cmds/fa2.c line 66: Undefined function DoSkillRoll before ;
+
+/home/j/janine/public/cmds/fa2.c line 67: syntax error before the end of line
+
+/home/j/janine/public/cmds/fa2.c line 66: Undefined function DoSkillRoll before ;
+
+/home/j/janine/public/cmds/fa2.c line 67: syntax error before the end of line
+
+/home/j/janine/public/cmds/fa2.c line 66: Undefined function DoSkillRoll before ;
+
+/home/j/janine/public/cmds/fa2.c line 67: syntax error before the end of line
+
+/home/j/janine/public/cmds/fa2.c line 66: Undefined function DoSkillRoll before ;
+
+/home/j/janine/public/cmds/fa2.c line 67: syntax error before the end of line
+
+/home/j/janine/public/cmds/fa3.c line 68: syntax error before the end of line
+
+/home/j/janine/public/cmds/fa3.c line 68: syntax error before the end of line
+
+/home/j/janine/public/cmds/fa2.c line 68: syntax error before the end of line
+---
+Error: *Array index out of bounds.
+
+Current object: OBJECT(/home/j/janine/public/cmds/fa3)
+Current Program: "/home/j/janine/public/cmds/fa3.c"
+Line:    50, File: /home/j/janine/public/cmds/fa3.c
+
+Traceback:
+Line:    99, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#23)
+ Program: /std/user/gb_player.c
+Line:   157, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#23)
+ Program: /std/user/gb_player.c
+Line:    22, File: /home/j/janine/public/cmds/fa3.c
+ Object: OBJECT(/home/j/janine/public/cmds/fa3)
+ Program: /home/j/janine/public/cmds/fa3.c
+Line:    50, File: /home/j/janine/public/cmds/fa3.c
+ Object: OBJECT(/home/j/janine/public/cmds/fa3)
+ Program: /home/j/janine/public/cmds/fa3.c
+---
+Error: *Array index out of bounds.
+
+Current object: OBJECT(/home/j/janine/public/cmds/fa2)
+Current Program: "/home/j/janine/public/cmds/fa2.c"
+Line:    50, File: /home/j/janine/public/cmds/fa2.c
+
+Traceback:
+Line:    99, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#23)
+ Program: /std/user/gb_player.c
+Line:   157, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#23)
+ Program: /std/user/gb_player.c
+Line:    22, File: /home/j/janine/public/cmds/fa2.c
+ Object: OBJECT(/home/j/janine/public/cmds/fa2)
+ Program: /home/j/janine/public/cmds/fa2.c
+Line:    50, File: /home/j/janine/public/cmds/fa2.c
+ Object: OBJECT(/home/j/janine/public/cmds/fa2)
+ Program: /home/j/janine/public/cmds/fa2.c
+---
+Error: *Array index out of bounds.
+
+Current object: OBJECT(/home/j/janine/public/cmds/fa3)
+Current Program: "/home/j/janine/public/cmds/fa3.c"
+Line:    50, File: /home/j/janine/public/cmds/fa3.c
+
+Traceback:
+Line:    99, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#23)
+ Program: /std/user/gb_player.c
+Line:   157, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#23)
+ Program: /std/user/gb_player.c
+Line:    22, File: /home/j/janine/public/cmds/fa3.c
+ Object: OBJECT(/home/j/janine/public/cmds/fa3)
+ Program: /home/j/janine/public/cmds/fa3.c
+Line:    50, File: /home/j/janine/public/cmds/fa3.c
+ Object: OBJECT(/home/j/janine/public/cmds/fa3)
+ Program: /home/j/janine/public/cmds/fa3.c
+
+/home/j/janine/public/cmds/fa4.c line 18: Undefined variable 'tadev' before );
+
+/home/j/janine/public/cmds/fa4.c line 18: syntax error before );
+
+/home/j/janine/public/cmds/fa4.c line 24: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/fa4.c line 24: syntax error before the end of line
+
+/home/j/janine/public/cmds/fa4.c line 48: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/fa4.c line 48: syntax error before the end of line
+---
+Error: *Array index out of bounds.
+
+Current object: OBJECT(/home/j/janine/public/cmds/fa2)
+Current Program: "/home/j/janine/public/cmds/fa2.c"
+Line:    50, File: /home/j/janine/public/cmds/fa2.c
+
+Traceback:
+Line:    99, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#23)
+ Program: /std/user/gb_player.c
+Line:   157, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#23)
+ Program: /std/user/gb_player.c
+Line:    22, File: /home/j/janine/public/cmds/fa2.c
+ Object: OBJECT(/home/j/janine/public/cmds/fa2)
+ Program: /home/j/janine/public/cmds/fa2.c
+Line:    50, File: /home/j/janine/public/cmds/fa2.c
+ Object: OBJECT(/home/j/janine/public/cmds/fa2)
+ Program: /home/j/janine/public/cmds/fa2.c
+
+/home/j/janine/public/cmds/fa.c line 23: syntax error before }) );
+
+/home/j/janine/public/cmds/fa.c line 24: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/fa.c line 24: syntax error before the end of line
+
+/home/j/janine/public/cmds/fa.c line 47: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/fa.c line 47: syntax error before the end of line
+
+/home/j/janine/public/cmds/fa.c line 48: Illegal LHS before  i < sizeof( room );
+
+/home/j/janine/public/cmds/fa2.c line 30: Too few arguments to tell_object before , "the target is not
+
+/home/j/janine/public/cmds/fa2.c line 30: Warning: Expression has no side effects, and the value is unused before ;
+
+/home/j/janine/public/cmds/fa2.c line 30: syntax error before ;
+
+/home/j/janine/public/cmds/fa2.c line 35: Too few arguments to tell_object before , "target needs to b
+
+/home/j/janine/public/cmds/fa2.c line 35: Warning: Expression has no side effects, and the value is unused before ;
+
+/home/j/janine/public/cmds/fa2.c line 35: syntax error before ;
+
+/home/j/janine/public/cmds/fa2.c line 40: syntax error before {        
+
+/home/j/janine/public/cmds/fa2.c line 71: Undefined variable 'this_player' before DoSkillRoll("firstai
+
+/home/j/janine/public/cmds/fa.c line 70: Illegal to declare local variable of type void. before (int skillRole)
+
+/home/j/janine/public/cmds/fa.c line 70: syntax error before int skillRole)
+
+/home/j/janine/public/cmds/fa.c line 72: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/fa.c line 72: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/home/j/janine/public/cmds/fa.c line 76: Undefined function heal before ;
+
+/home/j/janine/public/cmds/fa.c line 79: Undefined variable 'this_player' before query_cap_name + " f
+
+/home/j/janine/public/cmds/fa.c line 79: No class in scope has no member 'query_cap_name' before  " fails to heal " +
+
+/home/j/janine/public/cmds/fa2.c line 70: Illegal to declare local variable of type void. before (int skillRole);
+
+/home/j/janine/public/cmds/fa2.c line 70: syntax error before int skillRole);
+
+/home/j/janine/public/cmds/fa2.c line 72: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/fa2.c line 72: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/home/j/janine/public/cmds/fa2.c line 76: Undefined function heal before ;
+
+/home/j/janine/public/cmds/fa2.c line 79: Left argument of -> is not a class before  " fails to heal " +
+
+/home/j/janine/public/cmds/fa2.c line 79: Left argument of -> is not a class before  "\n");
+
+/home/j/janine/public/cmds/fa2.c line 82: Warning: Unused local variable 'heal' before the end of line
+
+/home/j/janine/public/cmds/fa2.c line 70: Illegal to declare local variable of type void. before (int skillRole);
+
+/home/j/janine/public/cmds/fa2.c line 70: syntax error before int skillRole);
+
+/home/j/janine/public/cmds/fa2.c line 72: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/fa2.c line 72: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/home/j/janine/public/cmds/fa2.c line 76: Undefined function heal before ;
+
+/home/j/janine/public/cmds/fa2.c line 79: Left argument of -> is not a class before  " fails to heal " +
+
+/home/j/janine/public/cmds/fa2.c line 79: Left argument of -> is not a class before  "\n");
+
+/home/j/janine/public/cmds/fa2.c line 82: Warning: Unused local variable 'heal' before the end of line
+
+/home/j/janine/public/cmds/fa.c line 70: Illegal to declare local variable of type void. before (int skillRole);
+
+/home/j/janine/public/cmds/fa.c line 70: syntax error before int skillRole);
+
+/home/j/janine/public/cmds/fa.c line 72: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/fa.c line 72: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/home/j/janine/public/cmds/fa.c line 76: Undefined function heal before ;
+
+/home/j/janine/public/cmds/fa.c line 83: Warning: Unused local variable 'heal' before the end of line
+
+/home/j/janine/public/cmds/fa.c line 84: syntax error before the end of line
+
+/home/j/janine/public/cmds/fa.c line 84: syntax error before the end of line
+
+/home/j/janine/public/cmds/fa.c line 80: Left argument of -> is not a class before  " fails to heal " +
+
+/home/j/janine/public/cmds/fa.c line 80: Left argument of -> is not a class before  "\n");
+
+/home/j/janine/public/cmds/fa2.c line 42: Too many arguments to environment before ;
+
+/home/j/janine/public/cmds/fa2.c line 42: syntax error before the end of line
+
+/home/j/janine/public/cmds/fa2.c line 53: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/fa2.c line 53: syntax error before the end of line
+
+/home/j/janine/public/cmds/fa2.c line 54: Illegal LHS before  i < sizeof( room );
+
+/home/j/janine/public/cmds/fa2.c line 72: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/fa3.c line 80: Left argument of -> is not a class before  " fails to heal " +
+
+/home/j/janine/public/cmds/fa3.c line 80: Left argument of -> is not a class before  "\n");
+
+/home/j/janine/public/cmds/fa.c line 86: syntax error before  heal.\n");
+
+/home/j/janine/public/cmds/fa.c line 96: End of file in string at the end of the file
+
+/home/j/janine/public/cmds/fafail.c line 118: Illegal to inherit after defining functions. before the end of line
+
+/home/j/janine/public/cmds/fafail.c line 27: Undefined function tolower before ; 
+
+/home/j/janine/public/cmds/fafail.c line 27: Undefined function toLowerCase before ; 
+
+/home/j/janine/public/cmds/fafail.c line 54: Undefined variable 'action' before  target);
+
+/home/j/janine/public/cmds/fafail.c line 54: Illegal lvalue before  target);
+
+/home/j/janine/public/cmds/fafail.c line 54: Undefined variable 'target' before ;
+
+/home/j/janine/public/cmds/fafail.c line 54: Illegal lvalue before ;
+
+/home/j/janine/public/cmds/fafail.c line 55: Undefined variable 'action' before  target);
+
+/home/j/janine/public/cmds/fafail.c line 55: Illegal lvalue before  target);
+
+/home/j/janine/public/cmds/fafail.c line 55: Undefined variable 'target' before ;
+
+/home/j/janine/public/cmds/fafail.c line 55: Illegal lvalue before ;
+
+/home/j/janine/public/cmds/fafail.c line 55: Undefined variable 'action' before  "" || target == "")
+
+/home/j/janine/public/cmds/fafail.c line 55: Undefined variable 'target' before  ""){
+---
+Error: *Bad argument 1 to sscanf
+Expected: string Got: 0.
+
+Current object: OBJECT(/home/j/janine/public/cmds/fafail)
+Current Program: "/home/j/janine/public/cmds/fafail.c"
+Line:    21, File: /home/j/janine/public/cmds/fafail.c
+
+Traceback:
+Line:    99, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#17)
+ Program: /std/user/gb_player.c
+Line:   157, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#17)
+ Program: /std/user/gb_player.c
+Line:    21, File: /home/j/janine/public/cmds/fafail.c
+ Object: OBJECT(/home/j/janine/public/cmds/fafail)
+ Program: /home/j/janine/public/cmds/fafail.c
+---
+Error: *Bad argument 1 to sscanf
+Expected: string Got: 0.
+
+Current object: OBJECT(/home/j/janine/public/cmds/fafail)
+Current Program: "/home/j/janine/public/cmds/fafail.c"
+Line:    21, File: /home/j/janine/public/cmds/fafail.c
+
+Traceback:
+Line:    99, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#17)
+ Program: /std/user/gb_player.c
+Line:   157, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#17)
+ Program: /std/user/gb_player.c
+Line:    21, File: /home/j/janine/public/cmds/fafail.c
+ Object: OBJECT(/home/j/janine/public/cmds/fafail)
+ Program: /home/j/janine/public/cmds/fafail.c
+---
+Error: *Bad argument 1 to sscanf
+Expected: string Got: 0.
+
+Current object: OBJECT(/home/j/janine/public/cmds/fafail)
+Current Program: "/home/j/janine/public/cmds/fafail.c"
+Line:    21, File: /home/j/janine/public/cmds/fafail.c
+
+Traceback:
+Line:    99, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#17)
+ Program: /std/user/gb_player.c
+Line:   157, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#17)
+ Program: /std/user/gb_player.c
+Line:    21, File: /home/j/janine/public/cmds/fafail.c
+ Object: OBJECT(/home/j/janine/public/cmds/fafail)
+ Program: /home/j/janine/public/cmds/fafail.c
+---
+Error: *Bad argument 1 to sscanf
+Expected: string Got: 0.
+
+Current object: OBJECT(/home/j/janine/public/cmds/fafail)
+Current Program: "/home/j/janine/public/cmds/fafail.c"
+Line:    21, File: /home/j/janine/public/cmds/fafail.c
+
+Traceback:
+Line:    99, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#17)
+ Program: /std/user/gb_player.c
+Line:   157, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#17)
+ Program: /std/user/gb_player.c
+Line:    21, File: /home/j/janine/public/cmds/fafail.c
+ Object: OBJECT(/home/j/janine/public/cmds/fafail)
+ Program: /home/j/janine/public/cmds/fafail.c
+---
+Error: *Bad argument 1 to sscanf
+Expected: string Got: 0.
+
+Current object: OBJECT(/home/j/janine/public/cmds/fafail)
+Current Program: "/home/j/janine/public/cmds/fafail.c"
+Line:    25, File: /home/j/janine/public/cmds/fafail.c
+
+Traceback:
+Line:    99, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#17)
+ Program: /std/user/gb_player.c
+Line:   157, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#17)
+ Program: /std/user/gb_player.c
+Line:    25, File: /home/j/janine/public/cmds/fafail.c
+ Object: OBJECT(/home/j/janine/public/cmds/fafail)
+ Program: /home/j/janine/public/cmds/fafail.c
+---
+Error: *Bad argument 1 to sscanf
+Expected: string Got: 0.
+
+Current object: OBJECT(/home/j/janine/public/cmds/fafail)
+Current Program: "/home/j/janine/public/cmds/fafail.c"
+Line:    25, File: /home/j/janine/public/cmds/fafail.c
+
+Traceback:
+Line:    99, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#17)
+ Program: /std/user/gb_player.c
+Line:   157, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#17)
+ Program: /std/user/gb_player.c
+Line:    25, File: /home/j/janine/public/cmds/fafail.c
+ Object: OBJECT(/home/j/janine/public/cmds/fafail)
+ Program: /home/j/janine/public/cmds/fafail.c
+---
+Error: *Bad argument 1 to sscanf
+Expected: string Got: 0.
+
+Current object: OBJECT(/home/j/janine/public/cmds/fafail)
+Current Program: "/home/j/janine/public/cmds/fafail.c"
+Line:    25, File: /home/j/janine/public/cmds/fafail.c
+
+Traceback:
+Line:    99, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#17)
+ Program: /std/user/gb_player.c
+Line:   157, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#17)
+ Program: /std/user/gb_player.c
+Line:    25, File: /home/j/janine/public/cmds/fafail.c
+ Object: OBJECT(/home/j/janine/public/cmds/fafail)
+ Program: /home/j/janine/public/cmds/fafail.c
+
+/home/j/janine/public/cmds/fafail.c line 23: Undefined variable 'end' before the end of line
+
+/home/j/janine/public/cmds/fafail.c line 23: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/home/j/janine/public/cmds/fafail.c line 29: Undefined function LowerCase before ; 
+
+/home/j/janine/public/cmds/fafail.c line 108: Undefined variable 'victim' before set_health(victim->g
+
+/home/j/janine/public/cmds/fafail.c line 108: syntax error before the end of line
+
+/home/j/janine/public/cmds/fafail.c line 117: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/fafail.c line 118: Undefined variable 'base' before  "\n");
+
+/home/j/janine/public/cmds/fafail.c line 125: Type of returned value doesn't match function return type ( int vs void ) before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 110: Undefined variable 'victim' before get_health()+healAmo
+
+/home/j/janine/public/cmds/firstaid.c line 118: syntax error before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 124: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 124: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 125: Undefined variable 'base' before  "\n");
+
+/home/j/janine/public/cmds/firstaid.c line 132: Type of returned value doesn't match function return type ( int vs void ) before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 110: Undefined variable 'victim' before get_health()+healAmo
+
+/home/j/janine/public/cmds/firstaid.c line 118: syntax error before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 124: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 124: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 125: Undefined variable 'base' before  "\n");
+
+/home/j/janine/public/cmds/firstaid.c line 132: Type of returned value doesn't match function return type ( int vs void ) before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 118: syntax error before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 124: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 124: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 125: Undefined variable 'base' before  "\n");
+
+/home/j/janine/public/cmds/firstaid.c line 132: Type of returned value doesn't match function return type ( int vs void ) before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 13: Warning: Number of arguments disagrees with previous definition. before ;
+
+/home/j/janine/public/cmds/firstaid.c line 62: syntax error before the end of line
+
+/home/j/janine/public/cmds/firstaid.c line 111: syntax error before  skillRole){
+
+/home/j/janine/public/samp.c line 102: Undefined variable 'vessel' before the end of line
+
+/home/j/janine/public/samp.c line 107: Undefined variable 'researchVessel' before  vessel;
+
+/home/j/janine/public/samp.c line 107: Illegal lvalue before  vessel;
+
+/home/j/janine/public/samp.c line 111: syntax error before the end of line
+
+/home/j/janine/public/jslime.c line 1: syntax error before ;
+
+/home/j/janine/public/jslime.c line 1: syntax error before .c;
+
+/home/j/janine/public/jslime.c line 1: syntax error before home/j/janine/public
+
+/home/j/janine/public/vessel.c line 1: syntax error before ;
+
+/home/j/janine/public/vessel.c line 11: Undefined variable 'fill' before the end of line
+
+/home/j/janine/public/vessel.c line 16: Undefined variable 'fille' before amount;
+
+/home/j/janine/public/vessel.c line 16: Illegal lvalue before amount;
+
+/home/j/janine/public/cmds/col.c line 37: Left argument of -> is not a class before  ".\n")
+
+/home/j/janine/public/cmds/col.c line 38: syntax error before the end of line
+
+/home/j/janine/public/cmds/col.c line 43: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/col.c line 43: syntax error before the end of line
+
+/home/j/janine/public/cmds/col.c line 52: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/col.c line 52: syntax error before the end of line
+
+/home/j/janine/public/cmds/col.c line 38: syntax error before the end of line
+
+/home/j/janine/public/cmds/col.c line 43: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/col.c line 43: syntax error before the end of line
+
+/home/j/janine/public/cmds/col.c line 52: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/col.c line 52: syntax error before the end of line
+
+/home/j/janine/public/cmds/col.c line 67: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/col.c line 37: syntax error before the end of line
+
+/home/j/janine/public/cmds/col.c line 44: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/col.c line 44: syntax error before the end of line
+
+/home/j/janine/public/cmds/col.c line 53: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/col.c line 53: syntax error before the end of line
+
+/home/j/janine/public/cmds/col.c line 68: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/col.c line 37: syntax error before the end of line
+
+/home/j/janine/public/cmds/col.c line 45: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/col.c line 45: syntax error before the end of line
+
+/home/j/janine/public/cmds/col.c line 54: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/col.c line 54: syntax error before the end of line
+
+/home/j/janine/public/cmds/col.c line 69: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/col.c line 38: syntax error before the end of line
+
+/home/j/janine/public/cmds/col.c line 46: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/col.c line 46: syntax error before the end of line
+
+/home/j/janine/public/cmds/col.c line 55: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/col.c line 55: syntax error before the end of line
+
+/home/j/janine/public/cmds/col.c line 70: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/col.c line 77: Warning: Unused local variable 'playerInv' before the end of line
+
+/home/j/janine/public/cmds/col.c line 83: Undefined function allInventory before ;
+
+/home/j/janine/public/cmds/col.c line 85: syntax error before (i) == ob->gGetVesse
+
+/home/j/janine/public/cmds/col.c line 77: Warning: Unused local variable 'playerInv' before the end of line
+
+/home/j/janine/public/cmds/col.c line 85: syntax error before (i) == ob->gGetVesse
+
+/home/j/janine/public/cmds/col.c line 81: syntax error before (i) == ob->GetVessel
+
+/home/j/janine/public/cmds/col.c line 81: syntax error before (i) == ob->GetVessel
+
+/home/j/janine/public/cmds/col.c line 81: Undefined function playerInv before  == ob->GetVessel())
+
+/home/j/janine/public/cmds/col.c line 81: Undefined variable 'ob' before GetVessel()){
+
+/home/j/janine/public/cmds/col.c line 86: No class in scope has no member 'GetVessel' before  "in your inventory!
+
+/home/j/janine/public/cmds/col.c line 13: syntax error before ;
+
+/home/j/janine/public/cmds/col.c line 81: syntax error before i] == ob->GetVessel(
+
+/home/j/janine/public/cmds/col.c line 86: Left argument of -> is not a class before  "in your inventory!
+
+/home/j/janine/public/samp.c line 107: Warning: Previous function prototype for SetVessel does not match current function in return type ( void vs string ) before the end of line
+
+/home/j/janine/public/cmds/col.c line 87: syntax error before {
+---
+Error: *Bad argument 2 to tell_object()
+Expected: string Got: 0.
+
+Current object: OBJECT(/home/j/janine/public/cmds/col)
+Current Program: "/home/j/janine/public/cmds/col.c"
+Line:    82, File: /home/j/janine/public/cmds/col.c
+
+Traceback:
+Line:   102, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#629)
+ Program: /std/user/gb_player.c
+Line:   162, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#629)
+ Program: /std/user/gb_player.c
+Line:    36, File: /home/j/janine/public/cmds/col.c
+ Object: OBJECT(/home/j/janine/public/cmds/col)
+ Program: /home/j/janine/public/cmds/col.c
+Line:    82, File: /home/j/janine/public/cmds/col.c
+ Object: OBJECT(/home/j/janine/public/cmds/col)
+ Program: /home/j/janine/public/cmds/col.c
+
+/home/j/janine/public/cmds/col.c line 82: Bad argument 2 to efun tell_object() before ;
+---
+Error: *Bad argument 2 to tell_object()
+Expected: string Got: 0.
+
+Current object: OBJECT(/home/j/janine/public/cmds/col)
+Current Program: "/home/j/janine/public/cmds/col.c"
+Line:    82, File: /home/j/janine/public/cmds/col.c
+
+Traceback:
+Line:   102, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#665)
+ Program: /std/user/gb_player.c
+Line:   162, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#665)
+ Program: /std/user/gb_player.c
+Line:    36, File: /home/j/janine/public/cmds/col.c
+ Object: OBJECT(/home/j/janine/public/cmds/col)
+ Program: /home/j/janine/public/cmds/col.c
+Line:    82, File: /home/j/janine/public/cmds/col.c
+ Object: OBJECT(/home/j/janine/public/cmds/col)
+ Program: /home/j/janine/public/cmds/col.c
+---
+Error: *Bad argument 2 to tell_object()
+Expected: string Got: 0.
+
+Current object: OBJECT(/home/j/janine/public/cmds/col)
+Current Program: "/home/j/janine/public/cmds/col.c"
+Line:    82, File: /home/j/janine/public/cmds/col.c
+
+Traceback:
+Line:   102, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#665)
+ Program: /std/user/gb_player.c
+Line:   162, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#665)
+ Program: /std/user/gb_player.c
+Line:    36, File: /home/j/janine/public/cmds/col.c
+ Object: OBJECT(/home/j/janine/public/cmds/col)
+ Program: /home/j/janine/public/cmds/col.c
+Line:    82, File: /home/j/janine/public/cmds/col.c
+ Object: OBJECT(/home/j/janine/public/cmds/col)
+ Program: /home/j/janine/public/cmds/col.c
+
+/home/j/janine/public/cmds/col.c line 93: Undefined function dump_array before the end of line
+
+/home/j/janine/public/cmds/col.c line 94: syntax error before the end of line
+
+/home/j/janine/public/cmds/col.c line 82: Bad argument 2 to efun tell_object() before ;
+
+/home/j/janine/public/cmds/col.c line 85: Left argument of -> is not a class before  "in your inventory!
+---
+Error: *Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Current object: OBJECT(/home/j/janine/public/cmds/col)
+Current Program: "/home/j/janine/public/cmds/col.c"
+Line:    86, File: /home/j/janine/public/cmds/col.c
+
+Traceback:
+Line:   102, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#665)
+ Program: /std/user/gb_player.c
+Line:   162, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#665)
+ Program: /std/user/gb_player.c
+Line:    36, File: /home/j/janine/public/cmds/col.c
+ Object: OBJECT(/home/j/janine/public/cmds/col)
+ Program: /home/j/janine/public/cmds/col.c
+Line:    86, File: /home/j/janine/public/cmds/col.c
+ Object: OBJECT(/home/j/janine/public/cmds/col)
+ Program: /home/j/janine/public/cmds/col.c
+
+/home/j/janine/public/cmds/col.c line 95: Warning: Unused local variable 'thing' before the end of line
+
+/home/j/janine/public/cmds/col.c line 85: syntax error before {
+
+/home/j/janine/public/cmds/col.c line 95: Warning: Unused local variable 'thing' before the end of line
+
+/home/j/janine/public/vial.c line 18: Undefined function set_type before ;
+
+/home/j/janine/public/vial.c line 18: Undefined function set_type before ;
+
+/home/j/janine/public/cmds/res.c line 58: Undefined function length before  > (this_player()->g
+
+/home/j/janine/public/cmds/res.c line 58: syntax error before the end of line
+
+/home/j/janine/public/cmds/res.c line 76: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/res.c line 80: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/res.c line 85: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/res.c line 89: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/col.c line 95: Warning: Unused local variable 'thing' before the end of line
+
+/home/j/janine/public/cmds/res.c line 58: Undefined function length before  > (this_player()->g
+
+/home/j/janine/public/cmds/res.c line 58: syntax error before the end of line
+
+/home/j/janine/public/cmds/res.c line 76: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/res.c line 80: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/res.c line 85: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/res.c line 89: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/res.c line 58: syntax error before the end of line
+
+/home/j/janine/public/cmds/res.c line 76: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/res.c line 80: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/res.c line 85: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/res.c line 89: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/res.c line 90: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/res.c line 58: Left argument of -> is not a class before  > (this_player()->g
+
+/home/j/janine/public/cmds/res.c line 58: syntax error before the end of line
+
+/home/j/janine/public/cmds/res.c line 76: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/res.c line 80: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/res.c line 85: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/res.c line 89: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/res.c line 28: Left argument of -> is not a class before the end of line
+
+/home/j/janine/public/cmds/res.c line 64: Left argument of -> is not a class before  > (this_player()->g
+
+/home/j/janine/public/cmds/res.c line 64: syntax error before the end of line
+
+/home/j/janine/public/cmds/res.c line 82: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/res.c line 86: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/res.c line 91: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/res.c line 61: Undefined variable 'this_player' before projects) > (this_pl
+
+/home/j/janine/public/cmds/res.c line 61: syntax error before projects) > (this_pl
+
+/home/j/janine/public/cmds/res.c line 79: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/res.c line 83: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/res.c line 88: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/res.c line 92: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/res.c line 61: syntax error before projects) > (this_pl
+
+/home/j/janine/public/cmds/res.c line 79: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/res.c line 83: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/res.c line 88: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/res.c line 92: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/res.c line 93: Illegal LHS before the end of line
+
+/cmds/std/bid.c line 19: Reserved type name unexpected. before , string arg2);
+
+/cmds/std/bid.c line 19: syntax error before , string arg2);
+
+/cmds/std/bid.c line 19: Reserved type name unexpected. before , string arg2);
+
+/cmds/std/bid.c line 19: syntax error before , string arg2);
+
+/home/j/janine/public/cmds/res.c line 61: syntax error before projects) > (this_pl
+
+/home/j/janine/public/cmds/res.c line 79: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/res.c line 83: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/res.c line 88: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/res.c line 92: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/res.c line 93: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/res.c line 61: syntax error before the end of line
+
+/home/j/janine/public/cmds/res.c line 79: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/res.c line 83: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/res.c line 88: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/res.c line 92: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/res.c line 93: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/res.c line 103: Left argument of -> is not a class before  + " samples\n"
+
+/home/j/janine/public/cmds/res.c line 104: syntax error before  +=
+
+/home/j/janine/public/cmds/res.c line 105: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/res.c line 105: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/home/j/janine/public/cmds/res.c line 103: Left argument of -> is not a class before  + " samples\n";
+
+/home/j/janine/public/cmds/col.c line 95: Warning: Unused local variable 'thing' before the end of line
+
+/home/j/janine/public/cmds/eres.c line 185: Undefined variable 'RESEARCH_D' before AddProject("in resea
+
+/include/mudlib.h line 1: Illegal terminator before LPUniversity
+
+/include/mudlib.h line 1: syntax error before LPUniversity
+
+/include/mudlib.h line 1: Illegal terminator before LPUniversity
+
+/include/mudlib.h line 1: syntax error before LPUniversity
+
+/home/j/janine/public/cmds/col.c line 95: Warning: Unused local variable 'thing' before the end of line
+
+/home/j/janine/public/cmds/eres.c line 219: syntax error before the end of line
+
+/home/j/janine/public/cmds/eres.c line 224: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/eres.c line 224: syntax error before the end of line
+
+/home/j/janine/public/cmds/eres.c line 260: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/eres.c line 260: syntax error before the end of line
+
+/home/j/janine/public/cmds/eres.c line 261: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/eres.c line 219: Type of returned value doesn't match function return type ( int vs object ) before the end of line
+
+/home/j/janine/public/cmds/eres.c line 228: Type of returned value doesn't match function return type ( int vs object ) before the end of line
+
+/home/j/janine/public/cmds/r.c line 40: Bad argument 2 to efun tell_object() before ;
+
+/home/j/janine/public/cmds/r.c line 82: Warning: Unused local variable 'commandString' before the end of line
+
+/home/j/janine/public/cmds/r.c line 82: Warning: Unused local variable 'commandString' before the end of line
+---
+Error: *Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Current object: OBJECT(/home/j/janine/public/cmds/r)
+Current Program: "/home/j/janine/public/cmds/r.c"
+Line:    40, File: /home/j/janine/public/cmds/r.c
+
+Traceback:
+Line:   107, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#3)
+ Program: /std/user/gb_player.c
+Line:   168, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#3)
+ Program: /std/user/gb_player.c
+Line:    40, File: /home/j/janine/public/cmds/r.c
+ Object: OBJECT(/home/j/janine/public/cmds/r)
+ Program: /home/j/janine/public/cmds/r.c
+---
+Error: *Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Current object: OBJECT(/home/j/janine/public/cmds/r)
+Current Program: "/home/j/janine/public/cmds/r.c"
+Line:    40, File: /home/j/janine/public/cmds/r.c
+
+Traceback:
+Line:   107, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#3)
+ Program: /std/user/gb_player.c
+Line:   168, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#3)
+ Program: /std/user/gb_player.c
+Line:    40, File: /home/j/janine/public/cmds/r.c
+ Object: OBJECT(/home/j/janine/public/cmds/r)
+ Program: /home/j/janine/public/cmds/r.c
+---
+Error: *Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Current object: OBJECT(/home/j/janine/public/cmds/r)
+Current Program: "/home/j/janine/public/cmds/r.c"
+Line:    40, File: /home/j/janine/public/cmds/r.c
+
+Traceback:
+Line:   107, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#3)
+ Program: /std/user/gb_player.c
+Line:   168, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#3)
+ Program: /std/user/gb_player.c
+Line:    40, File: /home/j/janine/public/cmds/r.c
+ Object: OBJECT(/home/j/janine/public/cmds/r)
+ Program: /home/j/janine/public/cmds/r.c
+
+/home/j/janine/public/cmds/r.c line 82: Warning: Unused local variable 'commandString' before the end of line
+---
+Error: *Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Current object: OBJECT(/home/j/janine/public/cmds/r)
+Current Program: "/home/j/janine/public/cmds/r.c"
+Line:    40, File: /home/j/janine/public/cmds/r.c
+
+Traceback:
+Line:   107, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#3)
+ Program: /std/user/gb_player.c
+Line:   168, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#3)
+ Program: /std/user/gb_player.c
+Line:    40, File: /home/j/janine/public/cmds/r.c
+ Object: OBJECT(/home/j/janine/public/cmds/r)
+ Program: /home/j/janine/public/cmds/r.c
+
+/home/j/janine/public/cmds/r.c line 82: Warning: Unused local variable 'commandString' before the end of line
+---
+Error: *Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Current object: OBJECT(/home/j/janine/public/cmds/r)
+Current Program: "/home/j/janine/public/cmds/r.c"
+Line:    40, File: /home/j/janine/public/cmds/r.c
+
+Traceback:
+Line:   107, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#3)
+ Program: /std/user/gb_player.c
+Line:   168, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#3)
+ Program: /std/user/gb_player.c
+Line:    40, File: /home/j/janine/public/cmds/r.c
+ Object: OBJECT(/home/j/janine/public/cmds/r)
+ Program: /home/j/janine/public/cmds/r.c
+---
+Error: *Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Current object: OBJECT(/home/j/janine/public/cmds/r)
+Current Program: "/home/j/janine/public/cmds/r.c"
+Line:    40, File: /home/j/janine/public/cmds/r.c
+
+Traceback:
+Line:   107, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#3)
+ Program: /std/user/gb_player.c
+Line:   168, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#3)
+ Program: /std/user/gb_player.c
+Line:    40, File: /home/j/janine/public/cmds/r.c
+ Object: OBJECT(/home/j/janine/public/cmds/r)
+ Program: /home/j/janine/public/cmds/r.c
+---
+Error: *Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Current object: OBJECT(/home/j/janine/public/cmds/r)
+Current Program: "/home/j/janine/public/cmds/r.c"
+Line:    40, File: /home/j/janine/public/cmds/r.c
+
+Traceback:
+Line:   107, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#3)
+ Program: /std/user/gb_player.c
+Line:   168, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#3)
+ Program: /std/user/gb_player.c
+Line:    40, File: /home/j/janine/public/cmds/r.c
+ Object: OBJECT(/home/j/janine/public/cmds/r)
+ Program: /home/j/janine/public/cmds/r.c
+
+/home/j/janine/public/cmds/r.c line 82: Warning: Unused local variable 'commandString' before the end of line
+
+/home/j/janine/public/cmds/r.c line 82: Warning: Unused local variable 'commandString' before the end of line
+---
+Error: *Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Current object: OBJECT(/home/j/janine/public/cmds/r)
+Current Program: "/home/j/janine/public/cmds/r.c"
+Line:    45, File: /home/j/janine/public/cmds/r.c
+
+Traceback:
+Line:   107, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#3)
+ Program: /std/user/gb_player.c
+Line:   168, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#3)
+ Program: /std/user/gb_player.c
+Line:    45, File: /home/j/janine/public/cmds/r.c
+ Object: OBJECT(/home/j/janine/public/cmds/r)
+ Program: /home/j/janine/public/cmds/r.c
+
+/home/j/janine/public/cmds/res.c line 43: Undefined variable 'researchItem' before GetVessel()));	
+
+/home/j/janine/public/cmds/res.c line 80: Warning: Unused local variable 'commandString' before the end of line
+
+/home/j/janine/public/cmds/res.c line 80: Warning: Unused local variable 'commandString' before the end of line
+---
+Error: *Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Current object: OBJECT(/home/j/janine/public/cmds/res)
+Current Program: "/home/j/janine/public/cmds/res.c"
+Line:    43, File: /home/j/janine/public/cmds/res.c
+
+Traceback:
+Line:   107, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#3)
+ Program: /std/user/gb_player.c
+Line:   168, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#3)
+ Program: /std/user/gb_player.c
+Line:    43, File: /home/j/janine/public/cmds/res.c
+ Object: OBJECT(/home/j/janine/public/cmds/res)
+ Program: /home/j/janine/public/cmds/res.c
+
+/home/j/janine/public/slimer.c line 2: syntax error before home/j/janine/public
+
+/home/j/janine/public/slime.c line 18: Undefined function SetVessel before ;
+
+/home/j/janine/public/slime.c line 18: Undefined function SetVessel before ;
+
+/obj/research/jar.c line 9: Warning: Redeclaration of global variable 'name'. before the end of line
+
+/obj/research/jar.c line 33: Undefined variable 'fille' before amount;
+
+/obj/research/jar.c line 33: Illegal lvalue before amount;
+
+/home/j/janine/public/cmds/col.c line 95: Warning: Unused local variable 'thing' before the end of line
+
+/home/j/janine/public/cmds/collect.c line 66: Undefined function dest before ;
+
+/cmds/std/collect.c line 82: Type of returned value doesn't match function return type ( int vs object ) before the end of line
+
+/cmds/std/collect.c line 71: Warning: Previous function prototype for HasContainer does not match current function in return type ( object vs int ) before {
+
+/cmds/std/collect.c line 67: syntax error before  1;
+
+/cmds/std/collect.c line 76: Illegal LHS before the end of line
+
+/cmds/std/collect.c line 76: syntax error before the end of line
+
+/cmds/std/collect.c line 77: Illegal LHS before  i < sizeof( playerI
+
+/cmds/std/collect.c line 66: syntax error before the end of line
+
+/cmds/std/collect.c line 76: Illegal LHS before the end of line
+
+/cmds/std/collect.c line 76: syntax error before the end of line
+
+/cmds/std/collect.c line 77: Illegal LHS before  i < sizeof( playerI
+
+/adm/daemons/research_d.c line 6: Warning: redefinition of #define PLAYER before #define TYPE        
+
+/adm/daemons/research_d.c line 15: syntax error before  AddJob(string test)
+---
+Error: *Error in loading object '/adm/daemons/research_d'
+
+Current object: OBJECT(/home/j/janine/public/cmds/res)
+Current Program: "/home/j/janine/public/cmds/res.c"
+Line:   106, File: /home/j/janine/public/cmds/res.c
+
+Traceback:
+Line:   107, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#25)
+ Program: /std/user/gb_player.c
+Line:   168, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#25)
+ Program: /std/user/gb_player.c
+Line:    65, File: /home/j/janine/public/cmds/res.c
+ Object: OBJECT(/home/j/janine/public/cmds/res)
+ Program: /home/j/janine/public/cmds/res.c
+Line:   106, File: /home/j/janine/public/cmds/res.c
+ Object: OBJECT(/home/j/janine/public/cmds/res)
+ Program: /home/j/janine/public/cmds/res.c
+
+/adm/daemons/research_d.c line 15: syntax error before  AddJob(string test)
+---
+Error: *Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Current object: OBJECT(/home/j/janine/public/cmds/res)
+Current Program: "/home/j/janine/public/cmds/res.c"
+Line:   191, File: /home/j/janine/public/cmds/res.c
+
+Traceback:
+Line:   107, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#25)
+ Program: /std/user/gb_player.c
+Line:   171, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#25)
+ Program: /std/user/gb_player.c
+Line:    31, File: /std/command/command.c
+ Object: OBJECT(/home/j/janine/public/cmds/res)
+ Program: /std/command/command.c
+Line:   191, File: /home/j/janine/public/cmds/res.c
+ Object: OBJECT(/home/j/janine/public/cmds/res)
+ Program: /home/j/janine/public/cmds/res.c
+---
+Error: *Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Current object: OBJECT(/home/j/janine/public/cmds/res)
+Current Program: "/home/j/janine/public/cmds/res.c"
+Line:   191, File: /home/j/janine/public/cmds/res.c
+
+Traceback:
+Line:   107, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#25)
+ Program: /std/user/gb_player.c
+Line:   171, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#25)
+ Program: /std/user/gb_player.c
+Line:    31, File: /std/command/command.c
+ Object: OBJECT(/home/j/janine/public/cmds/res)
+ Program: /std/command/command.c
+Line:   191, File: /home/j/janine/public/cmds/res.c
+ Object: OBJECT(/home/j/janine/public/cmds/res)
+ Program: /home/j/janine/public/cmds/res.c
+
+/home/j/janine/public/cmds/res.c line 36: Bad argument 2 to efun tell_object() before ;
+
+/home/j/janine/public/cmds/res.c line 188: Undefined variable 'arg' before ;
+
+/home/j/janine/public/cmds/res.c line 34: Undefined variable 'sample' before  GetItem( arg );
+
+/home/j/janine/public/cmds/res.c line 34: Illegal lvalue before  GetItem( arg );
+
+/home/j/janine/public/cmds/res.c line 34: Undefined variable 'sample' before  GetItem( arg );
+
+/home/j/janine/public/cmds/res.c line 34: Illegal lvalue before  GetItem( arg );
+
+/home/j/janine/public/cmds/res.c line 39: Undefined variable 'researchItem' before the end of line
+
+/adm/daemons/research_d.c line 51: Warning: Number of arguments disagrees with previous definition. before {
+
+/adm/daemons/research_d.c line 58: Illegal to redeclare local name 'playerOnlineTime' before  = 100;
+
+/adm/daemons/research_d.c line 62: Bad assignment ( string vs int ). before the end of line
+
+/adm/daemons/research_d.c line 73: Warning: Unused local variable 'playerOnlineTime' before the end of line
+
+/adm/daemons/research_d.c line 73: Warning: Unused local variable 'playerOnlineTime' before the end of line
+
+/adm/daemons/research_d.c line 73: Warning: Unused local variable 'playerOnlineTime2' before the end of line
+
+/adm/daemons/research_d.c line 85: Undefined variable 'jobs' before UID] ) )
+
+/adm/daemons/research_d.c line 91: Type of returned value doesn't match function return type ( string vs int ) before the end of line
+
+/adm/daemons/research_d.c line 114: Warning: Unused local variable 'playerOnlineTime' before the end of line
+
+/adm/daemons/research_d.c line 114: Warning: Unused local variable 'playerOnlineTime2' before the end of line
+
+/adm/daemons/research_d.c line 143: Undefined function GetCommand before ;
+
+/adm/daemons/research_d.c line 144: Undefined function GetItem before ;
+
+/adm/daemons/research_d.c line 174: Warning: Number of arguments disagrees with previous definition. before ;
+
+/adm/daemons/research_d.c line 177: Warning: Number of arguments disagrees with previous definition. before {
+
+/adm/daemons/research_d.c line 39: Wrong number of arguments to AddProject
+    Expected: 2  Got: 0 before ;    
+
+/adm/daemons/research_d.c line 59: Bad assignment ( string vs int ). before the end of line
+
+/adm/daemons/research_d.c line 74: Warning: Previous function prototype for GetProjectID does not match current function in return type ( int vs string ) before {
+
+/adm/daemons/research_d.c line 111: Warning: Unused local variable 'playerOnlineTime' before the end of line
+
+/adm/daemons/research_d.c line 111: Warning: Unused local variable 'playerOnlineTime2' before the end of line
+
+/adm/daemons/research_d.c line 140: Undefined function GetCommand before ;
+
+/adm/daemons/research_d.c line 141: Undefined function GetItem before ;
+
+/adm/daemons/research_d.c line 112: Warning: Unused local variable 'playerOnlineTime' before the end of line
+
+/adm/daemons/research_d.c line 112: Warning: Unused local variable 'playerOnlineTime2' before the end of line
+
+/adm/daemons/research_d.c line 141: Undefined function GetCommand before ;
+
+/adm/daemons/research_d.c line 142: Undefined function GetItem before ;
+
+/adm/daemons/research_d.c line 117: Warning: Unused local variable 'playerOnlineTime' before the end of line
+
+/adm/daemons/research_d.c line 117: Warning: Unused local variable 'playerOnlineTime2' before the end of line
+
+/adm/daemons/research_d.c line 117: Warning: Unused local variable 'playerOnlineTime' before the end of line
+
+/adm/daemons/research_d.c line 117: Warning: Unused local variable 'playerOnlineTime2' before the end of line
+
+/home/j/janine/public/research_d.c line 117: Warning: Unused local variable 'playerOnlineTime' before the end of line
+
+/home/j/janine/public/research_d.c line 117: Warning: Unused local variable 'playerOnlineTime2' before the end of line
+---
+**Error Caught
+Error: *Value being indexed is zero.
+
+Current object: OBJECT(/home/j/janine/public/research_d)
+Current Program: "/home/j/janine/public/research_d.c"
+Line:    68, File: /home/j/janine/public/research_d.c
+
+Traceback:
+Line:   107, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#141)
+ Program: /std/user/gb_player.c
+Line:   168, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#141)
+ Program: /std/user/gb_player.c
+Line:   108, File: /cmds/object/update.c
+ Object: OBJECT(/cmds/object/update)
+ Program: /cmds/object/update.c
+Line:   159, File: /cmds/object/update.c
+ Object: OBJECT(/cmds/object/update)
+ Program: /cmds/object/update.c
+Line:   159, File: /cmds/object/update.c
+ Object: OBJECT(/cmds/object/update)
+ Program: /cmds/object/update.c
+Line:    47, File: /home/j/janine/public/research_d.c
+ Object: OBJECT(/home/j/janine/public/research_d)
+ Program: /home/j/janine/public/research_d.c
+Line:    68, File: /home/j/janine/public/research_d.c
+ Object: OBJECT(/home/j/janine/public/research_d)
+ Program: /home/j/janine/public/research_d.c
+
+/home/j/janine/public/research_d.c line 117: Warning: Unused local variable 'playerOnlineTime' before the end of line
+
+/home/j/janine/public/research_d.c line 117: Warning: Unused local variable 'playerOnlineTime2' before the end of line
+---
+**Error Caught
+Error: *Value being indexed is zero.
+
+Current object: OBJECT(/home/j/janine/public/research_d)
+Current Program: "/home/j/janine/public/research_d.c"
+Line:    68, File: /home/j/janine/public/research_d.c
+
+Traceback:
+Line:   107, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#161)
+ Program: /std/user/gb_player.c
+Line:   168, File: /std/user/gb_player.c
+ Object: OBJECT(janine /std/user/gb_player#161)
+ Program: /std/user/gb_player.c
+Line:   108, File: /cmds/object/update.c
+ Object: OBJECT(/cmds/object/update)
+ Program: /cmds/object/update.c
+Line:   159, File: /cmds/object/update.c
+ Object: OBJECT(/cmds/object/update)
+ Program: /cmds/object/update.c
+Line:   159, File: /cmds/object/update.c
+ Object: OBJECT(/cmds/object/update)
+ Program: /cmds/object/update.c
+Line:    47, File: /home/j/janine/public/research_d.c
+ Object: OBJECT(/home/j/janine/public/research_d)
+ Program: /home/j/janine/public/research_d.c
+Line:    68, File: /home/j/janine/public/research_d.c
+ Object: OBJECT(/home/j/janine/public/research_d)
+ Program: /home/j/janine/public/research_d.c
+
+/home/j/janine/public/cmds/res.c line 56: == always false because of incompatible types ( object vs string ). before the end of line
+
+/home/j/janine/public/cmds/res.c line 231: Undefined variable 'research_d' before c->DisplayPreps()
+
+/home/j/janine/public/cmds/res.c line 231: syntax error before c->DisplayPreps()
+
+/home/j/janine/public/cmds/res.c line 234: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/res.c line 234: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/home/j/janine/public/cmds/res.c line 298: syntax error before the end of file
+
+/home/j/janine/public/cmds/res.c line 232: syntax error before the end of line
+
+/home/j/janine/public/cmds/res.c line 234: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/res.c line 234: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/home/j/janine/public/cmds/res.c line 297: syntax error before the end of file
+
+/adm/daemons/research_d.c line 116: Undefined variable 'researchString' before ;
+
+/adm/daemons/research_d.c line 117: Warning: Unused local variable 'playerOnlineTime' before the end of line
+
+/adm/daemons/research_d.c line 117: Warning: Unused local variable 'playerOnlineTime2' before the end of line
+
+/adm/daemons/research_d.c line 117: Warning: Unused local variable 'playerOnlineTime' before the end of line
+
+/adm/daemons/research_d.c line 117: Warning: Unused local variable 'playerOnlineTime2' before the end of line
+
+/adm/daemons/research_d.c line 117: Warning: Unused local variable 'playerOnlineTime' before the end of line
+
+/adm/daemons/research_d.c line 117: Warning: Unused local variable 'playerOnlineTime2' before the end of line
+
+/std/user/gb_player.c line 612: syntax error before the end of line
+
+/std/user/gb_player.c line 613: Illegal LHS before the end of line
+
+/std/user/gb_player.c line 615: Illegal LHS before the end of line
+
+/std/user/gb_player.c line 615: syntax error before the end of line
+
+/std/user/gb_player.c line 635: Illegal LHS before the end of line
+
+/std/user/gb_player.c line 638: Illegal LHS before the end of line
+
+/adm/daemons/research_d.c line 50: Warning: Unused local variable 'type' before the end of line
+
+/adm/daemons/research_d.c line 50: Warning: Unused local variable 'sample' before the end of line
+
+/adm/daemons/research_d.c line 68: Bad type for argument 1 of CalcResearchPoints ( object vs string ) before ;
+
+/adm/daemons/research_d.c line 126: Warning: Unused local variable 'playerOnlineTime' before the end of line
+
+/adm/daemons/research_d.c line 126: Warning: Unused local variable 'playerOnlineTime2' before the end of line
+
+/adm/daemons/research_d.c line 133: Left argument of -> is not a class before the end of line
+
+/adm/daemons/research_d.c line 50: Warning: Unused local variable 'type' before the end of line
+
+/adm/daemons/research_d.c line 50: Warning: Unused local variable 'sample' before the end of line
+
+/adm/daemons/research_d.c line 126: Warning: Unused local variable 'playerOnlineTime' before the end of line
+
+/adm/daemons/research_d.c line 126: Warning: Unused local variable 'playerOnlineTime2' before the end of line
+
+/adm/daemons/research_d.c line 50: Warning: Unused local variable 'type' before the end of line
+
+/adm/daemons/research_d.c line 50: Warning: Unused local variable 'sample' before the end of line
+
+/adm/daemons/research_d.c line 126: Warning: Unused local variable 'playerOnlineTime' before the end of line
+
+/adm/daemons/research_d.c line 126: Warning: Unused local variable 'playerOnlineTime2' before the end of line
+
+/adm/daemons/research_d.c line 50: Warning: Unused local variable 'type' before the end of line
+
+/adm/daemons/research_d.c line 50: Warning: Unused local variable 'sample' before the end of line
+
+/adm/daemons/research_d.c line 126: Warning: Unused local variable 'playerOnlineTime' before the end of line
+
+/adm/daemons/research_d.c line 126: Warning: Unused local variable 'playerOnlineTime2' before the end of line
+
+/home/j/janine/public/cmds/res.c line 50: Warning: Unused local variable 'type' before the end of line
+
+/home/j/janine/public/cmds/res.c line 50: Warning: Unused local variable 'sample' before the end of line
+
+/home/j/janine/public/cmds/res.c line 126: Warning: Unused local variable 'playerOnlineTime' before the end of line
+
+/home/j/janine/public/cmds/res.c line 126: Warning: Unused local variable 'playerOnlineTime2' before the end of line
+
+/adm/daemons/research_d.c line 50: Warning: Unused local variable 'type' before the end of line
+
+/adm/daemons/research_d.c line 50: Warning: Unused local variable 'sample' before the end of line
+
+/adm/daemons/research_d.c line 126: Warning: Unused local variable 'playerOnlineTime' before the end of line
+
+/adm/daemons/research_d.c line 126: Warning: Unused local variable 'playerOnlineTime2' before the end of line
+
+/adm/daemons/research_d.c line 50: Warning: Unused local variable 'type' before the end of line
+
+/adm/daemons/research_d.c line 50: Warning: Unused local variable 'sample' before the end of line
+
+/adm/daemons/research_d.c line 126: Warning: Unused local variable 'playerOnlineTime' before the end of line
+
+/adm/daemons/research_d.c line 126: Warning: Unused local variable 'playerOnlineTime2' before the end of line
+
+/adm/daemons/research_d.c line 50: Warning: Unused local variable 'type' before the end of line
+
+/adm/daemons/research_d.c line 50: Warning: Unused local variable 'sample' before the end of line
+
+/adm/daemons/research_d.c line 128: Warning: Unused local variable 'playerOnlineTime' before the end of line
+
+/adm/daemons/research_d.c line 128: Warning: Unused local variable 'playerOnlineTime2' before the end of line
+
+/adm/daemons/research_d.c line 50: Warning: Unused local variable 'type' before the end of line
+
+/adm/daemons/research_d.c line 50: Warning: Unused local variable 'sample' before the end of line
+
+/adm/daemons/research_d.c line 77: Undefined variable 'jobs' before +1;
+
+/adm/daemons/research_d.c line 133: Warning: Unused local variable 'playerOnlineTime' before the end of line
+
+/adm/daemons/research_d.c line 133: Warning: Unused local variable 'playerOnlineTime2' before the end of line
+
+/adm/daemons/research_d.c line 50: Warning: Unused local variable 'type' before the end of line
+
+/adm/daemons/research_d.c line 50: Warning: Unused local variable 'sample' before the end of line
+
+/adm/daemons/research_d.c line 133: Warning: Unused local variable 'playerOnlineTime' before the end of line
+
+/adm/daemons/research_d.c line 133: Warning: Unused local variable 'playerOnlineTime2' before the end of line
+
+/adm/daemons/research_d.c line 278: Warning: Redeclaration of global variable 'projects'. before the end of line
+
+/adm/daemons/research_d.c line 290: Redeclaration of function create. before the end of line
+
+/adm/daemons/research_d.c line 290: Warning: Unused local variable 'type' before the end of line
+
+/adm/daemons/research_d.c line 290: Warning: Unused local variable 'sample' before the end of line
+
+/adm/daemons/research_d.c line 297: Redeclaration of function ResearchShout. before the end of line
+
+/adm/daemons/research_d.c line 317: Undefined variable 'jobs' before +1;
+
+/adm/daemons/research_d.c line 329: Redeclaration of function AddProject. before the end of line
+
+/adm/daemons/research_d.c line 348: Redeclaration of function GetProjectID. before the end of line
+
+/adm/daemons/research_d.c line 373: Redeclaration of function DisplayPreps. before the end of line
+
+/adm/daemons/research_d.c line 373: Warning: Unused local variable 'playerOnlineTime' before the end of line
+
+/adm/daemons/research_d.c line 373: Warning: Unused local variable 'playerOnlineTime2' before the end of line
+
+/adm/daemons/research_d.c line 50: Warning: Unused local variable 'type' before the end of line
+
+/adm/daemons/research_d.c line 50: Warning: Unused local variable 'sample' before the end of line
+
+/adm/daemons/research_d.c line 133: Warning: Unused local variable 'playerOnlineTime' before the end of line
+
+/adm/daemons/research_d.c line 133: Warning: Unused local variable 'playerOnlineTime2' before the end of line
+
+/adm/daemons/research_d.c line 51: Warning: Unused local variable 'type' before the end of line
+
+/adm/daemons/research_d.c line 51: Warning: Unused local variable 'sample' before the end of line
+
+/adm/daemons/research_d.c line 134: Warning: Unused local variable 'playerOnlineTime' before the end of line
+
+/adm/daemons/research_d.c line 134: Warning: Unused local variable 'playerOnlineTime2' before the end of line
+
+/home/j/janine/public/cmds/res.c line 64: syntax error before (this_player()->GetR
+
+/home/j/janine/public/cmds/res.c line 86: syntax error before  0;
+
+/home/j/janine/tmp_eval_file.c line 1: syntax error before ); }
+
+/adm/daemons/research_d.c line 52: Warning: Unused local variable 'type' before the end of line
+
+/adm/daemons/research_d.c line 52: Warning: Unused local variable 'sample' before the end of line
+
+/adm/daemons/research_d.c line 135: Warning: Unused local variable 'playerOnlineTime' before the end of line
+
+/adm/daemons/research_d.c line 135: Warning: Unused local variable 'playerOnlineTime2' before the end of line
+
+/adm/daemons/research_d.c line 52: Warning: Unused local variable 'type' before the end of line
+
+/adm/daemons/research_d.c line 52: Warning: Unused local variable 'sample' before the end of line
+
+/adm/daemons/research_d.c line 137: Warning: Unused local variable 'playerOnlineTime' before the end of line
+
+/adm/daemons/research_d.c line 137: Warning: Unused local variable 'playerOnlineTime2' before the end of line
+
+/adm/daemons/research_d.c line 52: Warning: Unused local variable 'type' before the end of line
+
+/adm/daemons/research_d.c line 52: Warning: Unused local variable 'sample' before the end of line
+
+/adm/daemons/research_d.c line 137: Only '=' is legal in initializers. before the end of line
+
+/adm/daemons/research_d.c line 137: Type mismatch ( unknown vs string ) when initializing prepString before the end of line
+
+/adm/daemons/research_d.c line 137: Missing type for global variable declaration before the end of line
+
+/adm/daemons/research_d.c line 139: "#pragma strict_types" requires type of function before prepString);
+
+/adm/daemons/research_d.c line 139: Missing type for argument before );
+
+/adm/daemons/research_d.c line 140: syntax error before the end of line
+
+/adm/daemons/research_d.c line 52: Warning: Unused local variable 'type' before the end of line
+
+/adm/daemons/research_d.c line 52: Warning: Unused local variable 'sample' before the end of line
+
+/adm/daemons/research_d.c line 52: Warning: Unused local variable 'type' before the end of line
+
+/adm/daemons/research_d.c line 52: Warning: Unused local variable 'sample' before the end of line
+
+/adm/daemons/research_d.c line 52: Warning: Unused local variable 'type' before the end of line
+
+/adm/daemons/research_d.c line 52: Warning: Unused local variable 'sample' before the end of line
+
+/adm/daemons/research_d.c line 128: Undefined variable 'projectKeys' before  keys( projects );
+
+/adm/daemons/research_d.c line 128: Illegal lvalue before  keys( projects );
+
+/adm/daemons/research_d.c line 143: Warning: Unused local variable 'ProjectKeys' before the end of line
+
+/adm/daemons/research_d.c line 52: Warning: Unused local variable 'type' before the end of line
+
+/adm/daemons/research_d.c line 52: Warning: Unused local variable 'sample' before the end of line
+
+/adm/daemons/research_d.c line 52: Warning: Unused local variable 'type' before the end of line
+
+/adm/daemons/research_d.c line 52: Warning: Unused local variable 'sample' before the end of line
+
+/adm/daemons/research_d.c line 52: Warning: Unused local variable 'type' before the end of line
+
+/adm/daemons/research_d.c line 52: Warning: Unused local variable 'sample' before the end of line
+
+/adm/daemons/research_d.c line 56: Warning: Unused local variable 'type' before the end of line
+
+/adm/daemons/research_d.c line 56: Warning: Unused local variable 'sample' before the end of line
+
+/adm/daemons/research_d.c line 56: Warning: Unused local variable 'type' before the end of line
+
+/adm/daemons/research_d.c line 56: Warning: Unused local variable 'sample' before the end of line
+
+/adm/daemons/research_d.c line 63: Missing type for argument before ){
+
+/adm/daemons/research_d.c line 63: Warning: Number of arguments disagrees with previous definition. before {
+
+/adm/daemons/research_d.c line 66: Illegal to redeclare local name 'prepTime' before ;
+
+/adm/daemons/research_d.c line 63: Warning: Number of arguments disagrees with previous definition. before {
+
+/adm/daemons/research_d.c line 66: Illegal to redeclare local name 'prepTime' before ;
+
+/adm/daemons/research_d.c line 75: syntax error before ;
+
+/adm/daemons/research_d.c line 80: Illegal LHS before the end of line
+
+/adm/daemons/research_d.c line 80: syntax error before the end of line
+
+/adm/daemons/research_d.c line 83: Illegal LHS before the end of line
+
+/adm/daemons/research_d.c line 84: Illegal LHS before the end of line
+
+/adm/daemons/research_d.c line 84: syntax error before the end of line
+
+/adm/daemons/research_d.c line 75: syntax error before );
+
+/adm/daemons/research_d.c line 80: Illegal LHS before the end of line
+
+/adm/daemons/research_d.c line 80: syntax error before the end of line
+
+/adm/daemons/research_d.c line 83: Illegal LHS before the end of line
+
+/adm/daemons/research_d.c line 84: Illegal LHS before the end of line
+
+/adm/daemons/research_d.c line 84: syntax error before the end of line
+
+/adm/daemons/research_d.c line 302: Warning: Redeclaration of global variable 'projects'. before the end of line
+
+/adm/daemons/research_d.c line 310: Redeclaration of function create. before the end of line
+
+/adm/daemons/research_d.c line 317: Redeclaration of function ResearchShout. before the end of line
+
+/adm/daemons/research_d.c line 349: Redeclaration of function AddProject. before the end of line
+
+/adm/daemons/research_d.c line 368: Redeclaration of function GetProjectID. before the end of line
+
+/adm/daemons/research_d.c line 405: Redeclaration of function DisplayPreps. before the end of line
+
+/adm/daemons/research_d.c line 419: Redeclaration of function CalcResearchPoints. before the end of line
+
+/adm/daemons/research_d.c line 75: syntax error before ->GetWasFumbled(){
+
+/adm/daemons/research_d.c line 78: "#pragma strict_types" requires type of function before "This sample require
+
+/adm/daemons/research_d.c line 78: syntax error before + sample->GetPrepTim
+
+/cmds/std/collect.c line 44: syntax error before /
+
+/cmds/std/collect.c line 48: syntax error before the end of line
+
+/cmds/std/collect.c line 54: Illegal LHS before the end of line
+
+/cmds/std/collect.c line 54: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/adm/daemons/research_d.c line 55: Undefined function restore_map before ;
+
+/adm/daemons/research_d.c line 306: Undefined function save_map before ;
+
+/obj/train/trainer.c line 36: Reserved type name unexpected. before (0);
+
+/obj/train/trainer.c line 36: syntax error before (0);
+
+/obj/train/trainer.c line 49: Warning: Previous function prototype for GetDifficulty does not match current function in return type ( int vs string ) before {
+
+/obj/train/trainer.c line 50: Type of returned value doesn't match function return type ( int vs string ) before the end of line
+
+/obj/train/trainer.c line 54: Bad assignment ( int vs string ). before the end of line
+
+/obj/train/trainer.c line 55: Redeclaration of function SetTrainerSkill. before the end of line
+
+/obj/train/trainer.c line 36: Reserved type name unexpected. before (0);
+
+/obj/train/trainer.c line 36: syntax error before (0);
+
+/obj/train/trainer.c line 49: Warning: Previous function prototype for GetDifficulty does not match current function in return type ( int vs string ) before {
+
+/obj/train/trainer.c line 50: Type of returned value doesn't match function return type ( int vs string ) before the end of line
+
+/obj/train/trainer.c line 49: Warning: Previous function prototype for GetDifficulty does not match current function in return type ( int vs string ) before {
+
+/obj/train/trainer.c line 50: Type of returned value doesn't match function return type ( int vs string ) before the end of line
+
+/cmds/std/train.c line 22: Type of returned value doesn't match function return type ( int vs void ) before the end of line
+
+/cmds/std/train.c line 26: syntax error before  = find_object(train
+
+/cmds/std/train.c line 26: Illegal LHS before the end of line
+
+/cmds/std/train.c line 26: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/cmds/std/train.c line 31: syntax error before (){
+
+/cmds/std/train.c line 35: syntax error before the end of line
+
+/cmds/std/train.c line 22: syntax error before ;
+
+/cmds/std/train.c line 72: Undefined function targetInRoom before ){
+
+/cmds/std/train.c line 76: Type of returned value doesn't match function return type ( string vs int ) before the end of line
+
+/cmds/std/train.c line 81: Left argument of -> is not a class before  date() || (this_pla
+
+/cmds/std/train.c line 81: Undefined function date before  || (this_player()->
+
+/cmds/std/train.c line 77: syntax error before obj/train/trainer.c,
+
+/cmds/std/train.c line 86: Type of returned value doesn't match function return type ( string vs int ) before the end of line
+
+/cmds/std/train.c line 91: Left argument of -> is not a class before  date() || (this_pla
+
+/cmds/std/train.c line 91: Undefined function date before  || (this_player()->
+
+/cmds/std/train.c line 86: Type of returned value doesn't match function return type ( string vs int ) before the end of line
+
+/cmds/std/train.c line 91: Left argument of -> is not a class before  date() || (this_pla
+
+/cmds/std/train.c line 91: Undefined function date before  || (this_player()->
+
+/adm/daemons/research_d.c line 138: syntax error before {
+
+/adm/daemons/research_d.c line 139: Illegal LHS before the end of line
+
+/adm/daemons/research_d.c line 139: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/adm/daemons/research_d.c line 147: Only '=' is legal in initializers. before the end of line
+
+/adm/daemons/research_d.c line 147: Type mismatch ( unknown vs string ) when initializing prepString before the end of line
+
+/adm/daemons/research_d.c line 147: Missing type for global variable declaration before the end of line
+
+/adm/daemons/research_d.c line 149: "#pragma strict_types" requires type of function before prepString);
+
+/adm/daemons/research_d.c line 148: Only '=' is legal in initializers. before the end of line
+
+/adm/daemons/research_d.c line 148: Type mismatch ( unknown vs string ) when initializing prepString before the end of line
+
+/adm/daemons/research_d.c line 148: Missing type for global variable declaration before the end of line
+
+/adm/daemons/research_d.c line 150: "#pragma strict_types" requires type of function before prepString);
+
+/adm/daemons/research_d.c line 150: Missing type for argument before );
+
+/adm/daemons/research_d.c line 151: syntax error before the end of line
+
+/adm/daemons/research_d.c line 219: Undefined variable 'RTPYE' before  + "\n");
+
+/adm/daemons/research_d.c line 225: syntax error before the end of line
+
+/adm/daemons/research_d.c line 225: syntax error before the end of line
+
+/obj/train/trainer.c line 12: syntax error before  GetTrainerSkill()
+
+/obj/train/train.c line 10: syntax error before  GetTrainer( string 
+
+/obj/train/train.c line 11: syntax error before  DoTraining()
+
+/obj/train/train.c line 10: syntax error before  GetTrainer( string 
+
+/obj/train/train.c line 12: syntax error before  DoTraining()
+
+/obj/train/train.c line 57: Illegal lvalue before  this_player(skill) 
+
+/obj/train/train.c line 57: Invalid argument types to '+' ( object vs int ) before the end of line
+
+/obj/train/train.c line 58: syntax error before getSucMsg));
+
+/obj/train/train.c line 73: Illegal LHS before the end of line
+
+/obj/train/train.c line 73: syntax error before the end of line
+
+/obj/train/train.c line 74: Illegal LHS before  i < sizeof( room );
+
+/obj/train/train.c line 42: Undefined variable 'this_player' before get_skill(skill);
+
+/obj/train/train.c line 60: syntax error before getSucMsg));
+
+/obj/train/train.c line 75: Illegal LHS before the end of line
+
+/obj/train/train.c line 75: syntax error before the end of line
+
+/obj/train/train.c line 76: Illegal LHS before  i < sizeof( room );
+
+/obj/train/train.c line 60: Undefined function trainer before ->(getSucMsg));
+
+/obj/train/train.c line 60: syntax error before getSucMsg));
+
+/obj/train/train.c line 75: Illegal LHS before the end of line
+
+/obj/train/train.c line 75: syntax error before the end of line
+
+/obj/train/train.c line 76: Illegal LHS before  i < sizeof( room );
+
+/obj/train/trainer.c line 60: Undefined function trainer before ->(getSucMsg));
+
+/obj/train/trainer.c line 60: syntax error before getSucMsg));
+
+/obj/train/trainer.c line 75: Illegal LHS before the end of line
+
+/obj/train/trainer.c line 75: syntax error before the end of line
+
+/obj/train/trainer.c line 76: Illegal LHS before  i < sizeof( room );
+
+/obj/train/trainer.c line 28: Warning: Redeclaration of global variable 'CritSucMsg'. before  FailMsg, SucMsg;
+
+/obj/train/trainer.c line 35: Undefined function setTrainerSkill before ;
+
+/obj/train/trainer.c line 66: Undefined variable 'Msg' before the end of line
+
+/obj/train/trainer.c line 81: Undefined variable 'CritFailMsg' before  msg;
+
+/obj/train/trainer.c line 81: Illegal lvalue before  msg;
+
+/obj/train/trainer.c line 66: Undefined variable 'Msg' before the end of line
+
+/obj/train/train.c line 60: Undefined function trainer before ->(getSucMsg));
+
+/obj/train/train.c line 60: syntax error before getSucMsg));
+
+/obj/train/train.c line 75: Illegal LHS before the end of line
+
+/obj/train/train.c line 75: syntax error before the end of line
+
+/obj/train/train.c line 76: Illegal LHS before  i < sizeof( room );
+
+/obj/train/train.c line 60: syntax error before getSucMsg));
+
+/obj/train/train.c line 75: Illegal LHS before the end of line
+
+/obj/train/train.c line 75: syntax error before the end of line
+
+/obj/train/train.c line 76: Illegal LHS before  i < sizeof( room );
+
+/obj/train/train.c line 60: Undefined function trainer before ->(getSucMsg));
+
+/obj/train/train.c line 60: syntax error before getSucMsg));
+
+/obj/train/train.c line 75: Illegal LHS before the end of line
+
+/obj/train/train.c line 75: syntax error before the end of line
+
+/obj/train/train.c line 76: Illegal LHS before  i < sizeof( room );
+
+/obj/train/train.c line 45: Undefined function trainer before  -> GetTrainerSkill(
+
+/obj/train/train.c line 60: syntax error before getSucMsg));
+
+/obj/train/train.c line 75: Illegal LHS before the end of line
+
+/obj/train/train.c line 75: syntax error before the end of line
+
+/obj/train/train.c line 76: Illegal LHS before  i < sizeof( room );
+
+/obj/train/train.c line 60: Undefined function trainer before ->(getSucMsg));
+
+/obj/train/train.c line 60: syntax error before getSucMsg));
+
+/obj/train/train.c line 75: Illegal LHS before the end of line
+
+/obj/train/train.c line 75: syntax error before the end of line
+
+/obj/train/train.c line 76: Illegal LHS before  i < sizeof( room );
+
+/cmds/std/train.c line 86: Type of returned value doesn't match function return type ( string vs int ) before the end of line
+
+/cmds/std/train.c line 91: Left argument of -> is not a class before  date() || (this_pla
+
+/cmds/std/train.c line 91: Undefined function date before  || (this_player()->
+
+/cmds/std/train.c line 86: Type of returned value doesn't match function return type ( string vs int ) before the end of line
+
+/cmds/std/train.c line 91: Left argument of -> is not a class before  date() || (this_pla
+
+/cmds/std/train.c line 91: Undefined function date before  || (this_player()->
+
+/cmds/std/train.c line 86: Type of returned value doesn't match function return type ( string vs int ) before the end of line
+
+/cmds/std/train.c line 91: Left argument of -> is not a class before  date() || (this_pla
+
+/cmds/std/train.c line 91: Undefined function date before  || (this_player()->
+
+/cmds/std/train.c line 86: Type of returned value doesn't match function return type ( string vs int ) before the end of line
+
+/cmds/std/train.c line 91: Left argument of -> is not a class before  date() || (this_pla
+
+/cmds/std/train.c line 91: Undefined function date before  || (this_player()->
+
+/cmds/std/train.c line 61: Undefined function trainer before ->(getSucMsg));
+
+/cmds/std/train.c line 61: syntax error before getSucMsg));
+
+/cmds/std/train.c line 76: Illegal LHS before the end of line
+
+/cmds/std/train.c line 76: syntax error before the end of line
+
+/cmds/std/train.c line 77: Illegal LHS before  i < sizeof( room );
+
+/cmds/std/train.c line 61: syntax error before getSucMsg));
+
+/cmds/std/train.c line 77: Illegal LHS before the end of line
+
+/cmds/std/train.c line 77: syntax error before the end of line
+
+/cmds/std/train.c line 78: Illegal LHS before  i < sizeof( room );
+
+/cmds/std/train.c line 67: syntax error before /
+
+/cmds/std/train.c line 77: Illegal LHS before the end of line
+
+/cmds/std/train.c line 77: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/cmds/std/train.c line 78: Undefined variable 'room' before ; i++ )
+
+/cmds/std/train.c line 84: Type of returned value doesn't match function return type ( int vs void ) before the end of line
+
+/cmds/std/train.c line 94: Undefined function date before  || (this_player()->
+
+/cmds/std/train.c line 90: Undefined function date before  || (this_player()->
+
+/cmds/std/train.c line 90: Undefined function date before  || (this_player()->
+
+/home/j/janine/tmp_eval_file.c line 1: Undefined variable 'date' before  }
+
+/home/j/janine/tmp_eval_file.c line 1: Warning: Expression has no side effects, and the value is unused before  }
+
+/home/j/janine/tmp_eval_file.c line 1: Undefined function date before ; }
+
+/home/j/janine/tmp_eval_file.c line 1: Undefined variable 'time' before  }
+
+/home/j/janine/tmp_eval_file.c line 1: Warning: Expression has no side effects, and the value is unused before  }
+
+/home/j/janine/tmp_eval_file.c line 1: Undefined variable 'time' before ; }
+
+/std/user/gb_player.c line 695: Missing type for argument before ){ 
+
+/std/user/gb_player.c line 695: Missing type for argument before ){ 
+
+/cmds/std/train.c line 90: Undefined function date before  || (this_player()->
+
+/cmds/std/train.c line 89: Undefined variable 'time' before  this_player()->getL
+
+/cmds/std/train.c line 44: Left argument of -> is not a class before  1);
+
+/cmds/std/train.c line 31: Undefined variable 'trainerName' before ){
+
+/cmds/std/train.c line 31: Bad type for argument 1 of HasTrainer ( string vs object ) before ){
+
+/cmds/std/train.c line 51: Undefined variable 'triner' before getTrainerSkill();
+
+/cmds/std/train.c line 52: Reserved type name unexpected. before  = this_player()->ge
+
+/cmds/std/train.c line 52: syntax error before  = this_player()->ge
+
+/cmds/std/train.c line 52: Undefined variable 'skill' before ;
+
+/cmds/std/train.c line 52: Illegal LHS before the end of line
+
+/cmds/std/train.c line 52: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/cmds/std/train.c line 59: Undefined variable 'diff' before  (this_player()->Get
+
+/cmds/std/train.c line 52: syntax error before  = trainer->getTrain
+
+/cmds/std/train.c line 52: Illegal LHS before the end of line
+
+/cmds/std/train.c line 52: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/cmds/std/train.c line 73: Undefined variable 'skill_value' before  5));
+
+/cmds/std/train.c line 73: Undefined variable 'skill_value' before  5));
+
+/cmds/std/train.c line 133: syntax error before the end of line
+
+/cmds/std/train.c line 101: syntax error before  "  " + this_player(
+
+/cmds/std/train.c line 101: Too few arguments to tell_object before ;
+
+/cmds/std/train.c line 101: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/cmds/std/train.c line 103: syntax error before the end of line
+
+/cmds/std/train.c line 103: syntax error before the end of line
+
+/cmds/std/train.c line 107: syntax error before {
+
+/cmds/std/train.c line 58: syntax error before ()->setNumTrain ((nu
+
+/cmds/std/train.c line 63: Illegal LHS before the end of line
+
+/cmds/std/train.c line 63: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/cmds/std/train.c line 141: End of file in a comment before the end of file
+
+/cmds/std/train.c line 85: syntax error before  < -20){
+
+/cmds/std/train.c line 69: Undefined variable 'tell_room' before ( environment( this_
+
+/cmds/std/train.c line 69: syntax error before ( environment( this_
+
+/cmds/std/train.c line 71: Illegal LHS before the end of line
+
+/cmds/std/train.c line 71: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/home/j/janine/tmp_eval_file.c line 1: Undefined variable 'this_player' before set_skill( dodge, 20
+
+/home/j/janine/tmp_eval_file.c line 1: Undefined variable 'dodge' before  20 ); }
+
+/home/j/janine/tmp_eval_file.c line 1: Undefined variable 'dodge' before  20 ); }
+
+/areas/franchise/franchise3.c line 3: syntax error before ;
+
+/obj/train/dodgetrainer1.c line 14: Undefined variable 'set_id' before "Trainer", "trainer"
+
+/obj/train/dodgetrainer1.c line 14: syntax error before "Trainer", "trainer"
+
+/obj/train/dodgetrainer1.c line 14: Undefined variable 'set_id' before "Trainer", "trainer"
+
+/obj/train/dodgetrainer1.c line 14: syntax error before "Trainer", "trainer"
+
+/obj/train/dodgetrainer1.c line 14: Undefined variable 'set_id' before "Trainer", "trainer"
+
+/obj/train/dodgetrainer1.c line 14: syntax error before "Trainer", "trainer"
+
+/obj/train/dodgetrainer1.c line 14: Undefined variable 'set_id' before "Trainer", "trainer"
+
+/obj/train/dodgetrainer1.c line 14: syntax error before "Trainer", "trainer"
+
+/cmds/std/train.c line 70: Wrong number of arguments to DoRoll
+    Expected: 2  Got: 0 before ;
+
+/cmds/std/train.c line 132: syntax error before  value;
+
+/cmds/std/train.c line 136: Illegal LHS before the end of line
+
+/cmds/std/train.c line 136: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/cmds/std/train.c line 137: Warning: Unused local variable 'd100' before the end of line
+
+/cmds/std/train.c line 137: Warning: Unused local variable 'skillValue' before the end of line
+
+/cmds/std/train.c line 138: Type mismatch ( unknown vs int ) when initializing d100 before the end of line
+
+/cmds/std/train.c line 138: Missing type for global variable declaration before the end of line
+
+/cmds/std/train.c line 139: Undefined variable 'skill' before  diff;
+
+/cmds/std/train.c line 132: syntax error before  value;
+
+/cmds/std/train.c line 136: Illegal LHS before the end of line
+
+/cmds/std/train.c line 136: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/cmds/std/train.c line 137: Warning: Unused local variable 'd100' before the end of line
+
+/cmds/std/train.c line 137: Warning: Unused local variable 'skillValue' before the end of line
+
+/cmds/std/train.c line 139: Type mismatch ( unknown vs int ) when initializing d100 before the end of line
+
+/cmds/std/train.c line 139: Missing type for global variable declaration before the end of line
+
+/cmds/std/train.c line 140: Undefined variable 'skill' before  diff;
+
+/cmds/std/train.c line 140: Undefined variable 'diff' before the end of line
+
+/cmds/std/train.c line 132: syntax error before  value;
+
+/cmds/std/train.c line 136: Illegal LHS before the end of line
+
+/cmds/std/train.c line 136: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/cmds/std/train.c line 137: Warning: Unused local variable 'd100' before the end of line
+
+/cmds/std/train.c line 137: Warning: Unused local variable 'skillValue' before the end of line
+
+/cmds/std/train.c line 139: Type mismatch ( unknown vs int ) when initializing d100 before the end of line
+
+/cmds/std/train.c line 139: Missing type for global variable declaration before the end of line
+
+/cmds/std/train.c line 140: Undefined variable 'skill' before  diff;
+
+/cmds/std/train.c line 140: Undefined variable 'diff' before the end of line
+
+/cmds/std/train.c line 142: Undefined function get_skill before the end of line
+
+/cmds/std/train.c line 145: Undefined variable 'returnValue' before  ".\n");
+
+/cmds/std/train.c line 149: syntax error before the end of line
+
+/cmds/std/train.c line 179: Warning: Value of conditional expression is unused before the end of file
+
+/cmds/std/train.c line 150: Undefined variable 'returnvalue' before the end of line
+
+/home/j/janine/tmp_eval_file.c line 1: Undefined variable 'keavy' before setNumTrain(-10); }
+
+/cmds/std/drink.c line 12: syntax error before  main(string arg)
+
+/cmds/std/drink.c line 8: syntax error before  main(string arg)
+
+/cmds/std/drink.c line 30: syntax error before (inv[i]->query_name(
+
+/cmds/std/drink.c line 32: Illegal LHS before the end of line
+
+/cmds/std/drink.c line 32: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/cmds/std/drink.c line 36: syntax error before the end of line
+
+/cmds/std/drink.c line 81: syntax error before the end of file
+
+/obj/drink.c line 58: syntax error before  
+
+/cmds/std/drink.c line 36: syntax error before the end of line
+
+/cmds/std/train.c line 102: syntax error before the end of line
+
+/cmds/std/train.c line 134: Illegal LHS before the end of line
+
+/cmds/std/train.c line 137: Illegal LHS before the end of line
+
+/cmds/std/train.c line 137: syntax error before the end of line
+
+/cmds/std/train.c line 138: Undefined variable 'skill' before  diff;
+
+/cmds/std/train.c line 138: Undefined variable 'diff' before the end of line
+
+/cmds/std/train.c line 112: Warning: Unused local variable 'room' before the end of line
+
+/cmds/std/train.c line 112: Warning: Unused local variable 'room' before the end of line
+
+/cmds/std/train.c line 115: Warning: Unused local variable 'room' before the end of line
+
+/cmds/std/train.c line 41: Undefined variable 'calloutttest' before  5);
+
+/cmds/std/train.c line 115: Warning: Unused local variable 'room' before the end of line
+
+/cmds/std/train.c line 50: Too few arguments to tell_object before ;
+
+/cmds/std/train.c line 50: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/cmds/std/train.c line 115: Warning: Unused local variable 'room' before the end of line
+
+/cmds/std/train.c line 115: Warning: Unused local variable 'room' before the end of line
+
+/cmds/std/train.c line 117: Warning: Unused local variable 'room' before the end of line
+
+/cmds/std/test.c line 36: Illegal to inherit after defining functions. before the end of line
+
+/cmds/std/train.c line 117: Warning: Unused local variable 'room' before the end of line
+
+/cmds/std/train.c line 116: Warning: Unused local variable 'room' before the end of line
+
+/cmds/std/train.c line 115: Warning: Unused local variable 'room' before the end of line
+
+/cmds/std/train.c line 115: Warning: Unused local variable 'room' before the end of line
+
+/cmds/std/train.c line 42: Reserved type name unexpected. before  = 0;
+
+/cmds/std/train.c line 42: syntax error before  = 0;
+
+/cmds/std/train.c line 42: Illegal LHS before the end of line
+
+/cmds/std/train.c line 42: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/cmds/std/train.c line 43: Undefined variable 'i' before 5){
+
+/cmds/std/train.c line 118: Warning: Unused local variable 'room' before the end of line
+
+/cmds/std/train.c line 43: Reserved type name unexpected. before  = 0;
+
+/cmds/std/train.c line 43: syntax error before  = 0;
+
+/cmds/std/train.c line 43: Illegal LHS before the end of line
+
+/cmds/std/train.c line 43: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/cmds/std/train.c line 44: Undefined variable 'i' before 5){
+
+/cmds/std/train.c line 120: Warning: Unused local variable 'room' before the end of line
+
+/cmds/std/train.c line 121: Warning: Unused local variable 'room' before the end of line
+
+/cmds/std/train.c line 122: Warning: Unused local variable 'room' before the end of line
+
+/cmds/std/train.c line 122: Warning: Unused local variable 'room' before the end of line
+
+/cmds/std/train.c line 122: Warning: Unused local variable 'room' before the end of line
+
+/cmds/std/train.c line 122: Warning: Unused local variable 'room' before the end of line
+
+/cmds/std/train.c line 50: Undefined variable 'numSessions' before  1);
+
+/cmds/std/train.c line 124: Warning: Unused local variable 'room' before the end of line
+
+/cmds/std/train.c line 123: Warning: Unused local variable 'room' before the end of line
+
+/cmds/std/train.c line 123: Warning: Unused local variable 'room' before the end of line
+
+/cmds/std/train.c line 121: Warning: Unused local variable 'room' before the end of line
+
+/std/user/gb_player.c line 102: Undefined function alias_parse before , "%s %s", verb, arg
+
+/std/user/gb_player.c line 117: Undefined function query_name before , args ) );
+
+/std/user/gb_player.c line 125: Undefined function query_time_left_to_wait before  / 1000.0 ) );
+
+/std/user/gb_player.c line 147: Undefined function query_path before ;
+
+/std/user/gb_player.c line 179: Undefined function has_to_wait before  )
+
+/std/user/gb_player.c line 237: Undefined function moveAllowed before  )
+
+/cmds/std/train.c line 121: Warning: Unused local variable 'room' before the end of line
+
+/cmds/std/train.c line 117: Warning: Unused local variable 'room' before the end of line
+
+/cmds/std/train.c line 117: Warning: Unused local variable 'room' before the end of line
+
+/areas/motel0.c line 32: Undefined variable 'shopkeeper' before clone_object("/areas
+
+/areas/motel0.c line 32: Illegal lvalue before clone_object("/areas
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Undefined function askOk before ;
+
+/areas/motel/cashier.c line 19: Undefined function isShop before ;
+
+/areas/motel/motel0.c line 35: Undefined variable 'cahsier' before clone_object("/areas
+
+/areas/motel/motel0.c line 35: Illegal lvalue before clone_object("/areas
+
+/areas/motel/motel0.c line 35: Undefined variable 'cash' before =clone_object("/area
+
+/areas/motel/motel0.c line 35: syntax error before =clone_object("/area
+
+/areas/motel/motel0.c line 35: Illegal LHS before the end of line
+
+/areas/motel/motel0.c line 35: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/cmds/std/ask.c line 51: Warning: Unused local variable 'room' before the end of line
+
+/cmds/std/ask.c line 51: Warning: Unused local variable 'reply' before the end of line
+
+/std/area/mobiles/npc.c line 15: syntax error before (key);
+
+/std/area/mobiles/npc.c line 15: syntax error before (string key);
+
+/std/area/mobiles/npc.c line 15: syntax error before (string key);
+
+/std/area/mobiles/npc.c line 85: Warning: Number of arguments disagrees with previous definition. before the end of line
+
+/cmds/std/ask.c line 52: Warning: Unused local variable 'room' before the end of line
+
+/cmds/std/ask.c line 52: Warning: Unused local variable 'reply' before the end of line
+
+/std/area/mobiles/npc.c line 85: Warning: Number of arguments disagrees with previous definition. before the end of line
+
+/std/area/mobiles/npc.c line 89: Type of returned value doesn't match function return type ( int vs void ) before the end of line
+
+/std/area/mobiles/npc.c line 95: Undefined variable 'reply' before ;
+
+/std/area/mobiles/npc.c line 106: syntax error before (query){
+
+/std/area/mobiles/npc.c line 89: Type of returned value doesn't match function return type ( int vs void ) before the end of line
+
+/std/area/mobiles/npc.c line 95: Undefined variable 'reply' before ;
+
+/std/area/mobiles/npc.c line 106: syntax error before (query){
+
+/std/area/mobiles/npc.c line 94: Undefined variable 'response' before ) ]);
+
+/std/area/mobiles/npc.c line 95: syntax error before the end of line
+
+/std/area/mobiles/npc.c line 106: syntax error before (query){
+
+/std/area/mobiles/npc.c line 106: syntax error before (query){
+
+/std/area/mobiles/npc.c line 106: Undefined function replies before ){
+
+/std/area/mobiles/npc.c line 107: Undefined function replies before ;
+
+/cmds/std/ask.c line 52: Warning: Unused local variable 'room' before the end of line
+
+/cmds/std/ask.c line 52: Warning: Unused local variable 'reply' before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Undefined function askOk before ;
+
+/areas/franchise/mobiles/shopkeeper.c line 19: Wrong number of arguments to setReplies
+    Expected: 1  Got: 2 before ;
+
+/areas/franchise/mobiles/shopkeeper.c line 19: Bad type for argument 1 of setReplies ( mapping vs string ) before ;
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'ob_data'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'ids'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'name'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'short'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'long'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'value'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable '_x'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable '_y'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable '_z'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'xverb'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'alias'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'commandHistory'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'link'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'path'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'Earmuffed'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'title'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'pretitle'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'hb_time'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'issuedCommandTime'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'waitTime'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'waitTimeType'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'cash'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'positionPost'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'position'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'furniture'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'replies'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Illegal to redefine 'nomask' function "query_commandHistory" before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'ob_data'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'ids'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'name'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'short'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'long'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'value'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable '_x'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable '_y'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable '_z'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'xverb'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'alias'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'commandHistory'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'link'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'path'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'Earmuffed'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'title'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'pretitle'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'hb_time'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'issuedCommandTime'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'waitTime'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'waitTimeType'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'cash'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'positionPost'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'position'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'furniture'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Warning: Redeclaration of global variable 'replies'. before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Illegal to redefine 'nomask' function "query_commandHistory" before the end of line
+
+/areas/franchise/mobiles/shopkeeper.c line 19: Undefined function isShop before ;
+
+/std/area/rooms/room.c line 469: Reserved type name unexpected. before (int ok){
+
+/std/area/rooms/room.c line 469: syntax error before (int ok){
+
+/std/area/rooms/room.c line 471: Illegal LHS before the end of line
+
+/std/area/rooms/room.c line 471: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/std/area/rooms/room.c line 473: syntax error before  {
+
+/areas/demo/demo1.c line 17: Undefined function set_ghost_ok before ;
+
+/areas/demo/demo1.c line 17: Undefined function set_ghost_ok before ;
+
+/std/user/gb_mobile.c line 358: Undefined variable 'obj' before ;
+
+/std/user/gb_mobile.c line 358: syntax error before ;
+
+/std/user/gb_mobile.c line 360: Illegal LHS before the end of line
+
+/std/user/gb_mobile.c line 360: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/std/user/gb_mobile.c line 361: Undefined variable 'nextRoomName' before  env->query_exit(ver
+
+/std/user/gb_mobile.c line 361: Illegal lvalue before  env->query_exit(ver
+
+/std/user/gb_mobile.c line 362: Undefined variable 'nextRoom' before  find_object(nextRoo
+
+/std/user/gb_mobile.c line 361: Undefined variable 'nextRoomName' before  env->query_exit(ver
+
+/std/user/gb_mobile.c line 361: Illegal lvalue before  env->query_exit(ver
+
+/std/user/gb_mobile.c line 452: Warning: Unused local variable 'NextRoomName' before the end of line
+
+/home/j/janine/tmp_eval_file.c line 1: syntax error before areas/demo/demo2); }
+
+/home/j/janine/tmp_eval_file.c line 1: syntax error before areas/demo/demo2.c);
+
+/obj/pkemeter/pkemeter.c line 98: Reserved type name unexpected. before  = random(100);
+
+/obj/pkemeter/pkemeter.c line 98: syntax error before  = random(100);
+
+/obj/pkemeter/pkemeter.c line 98: Illegal LHS before the end of line
+
+/obj/pkemeter/pkemeter.c line 98: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/obj/pkemeter/pkemeter.c line 99: Undefined variable 'rnd' before 80){
+
+/obj/pkemeter/pkemeter.c line 103: Undefined variable 'scanRoll' before  20 )
+
+/obj/pkemeter/pkemeter.c line 105: Undefined variable 'scanRange' before  ghostRange * 0.8;
+
+/obj/pkemeter/pkemeter.c line 98: Reserved type name unexpected. before  = random(100);
+
+/obj/pkemeter/pkemeter.c line 98: syntax error before  = random(100);
+
+/obj/pkemeter/pkemeter.c line 98: Illegal LHS before the end of line
+
+/obj/pkemeter/pkemeter.c line 98: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/obj/pkemeter/pkemeter.c line 99: Undefined variable 'x' before 80){
+
+/obj/pkemeter/pkemeter.c line 103: Undefined variable 'scanRoll' before  20 )
+
+/obj/pkemeter/pkemeter.c line 105: Undefined variable 'scanRange' before  ghostRange * 0.8;
+
+/obj/pkemeter/pkemeter.c line 98: Reserved type name unexpected. before ;
+
+/obj/pkemeter/pkemeter.c line 98: syntax error before ;
+
+/obj/pkemeter/pkemeter.c line 99: Illegal LHS before the end of line
+
+/obj/pkemeter/pkemeter.c line 99: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/obj/pkemeter/pkemeter.c line 100: Undefined variable 'x' before 80){
+
+/obj/pkemeter/pkemeter.c line 104: Undefined variable 'scanRoll' before  20 )
+
+/obj/pkemeter/pkemeter.c line 106: Undefined variable 'scanRange' before  ghostRange * 0.8;
+
+/obj/pkemeter/pkemeter.c line 101: Undefined variable 'x' before 80){
+
+/obj/pkemeter/pkemeter.c line 122: Warning: Unused local variable 'xnum' before the end of line
+
+/obj/pkemeter/pkemeter.c line 31: Warning: Unknown \ escape. before ");
+
+/obj/pkemeter/pkemeter.c line 31: Warning: Unknown \ escape. before ");
+
+/obj/pkemeter/pkemeter.c line 66: Reserved type name unexpected. before obArray = all_invent
+
+/obj/pkemeter/pkemeter.c line 66: syntax error before obArray = all_invent
+
+/obj/pkemeter/pkemeter.c line 66: Illegal LHS before the end of line
+
+/obj/pkemeter/pkemeter.c line 66: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/obj/pkemeter/pkemeter.c line 68: Undefined variable 'obArray' before ; i++ )
+
+/obj/pkemeter/pkemeter.c line 75: Undefined variable 'ghostRange' before  obArray[i]->GetFreq
+
+/obj/pkemeter/pkemeter.c line 77: Undefined variable 'ghostFrequency' before  obArray[i]->GetFreq
+
+/obj/pkemeter/pkemeter.c line 66: Reserved type name unexpected. before obArray = all_invent
+
+/obj/pkemeter/pkemeter.c line 66: syntax error before obArray = all_invent
+
+/obj/pkemeter/pkemeter.c line 66: Illegal LHS before the end of line
+
+/obj/pkemeter/pkemeter.c line 66: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/obj/pkemeter/pkemeter.c line 68: Undefined variable 'obArray' before ; i++ )
+
+/obj/pkemeter/pkemeter.c line 75: Undefined variable 'ghostRange' before  obArray[i]->GetFreq
+
+/obj/pkemeter/pkemeter.c line 77: Undefined variable 'ghostFrequency' before  obArray[i]->GetFreq
+
+/obj/pkemeter/pkemeter.c line 57: Reserved type name unexpected. before ;
+
+/obj/pkemeter/pkemeter.c line 57: syntax error before ;
+
+/obj/pkemeter/pkemeter.c line 66: Illegal LHS before the end of line
+
+/obj/pkemeter/pkemeter.c line 66: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/obj/pkemeter/pkemeter.c line 71: Undefined variable 'obArray' before ; i++ )
+
+/obj/pkemeter/pkemeter.c line 78: Undefined variable 'ghostRange' before  obArray[i]->GetFreq
+
+/obj/pkemeter/pkemeter.c line 80: Undefined variable 'ghostFrequency' before  obArray[i]->GetFreq
+
+/obj/pkemeter/pkemeter.c line 57: Reserved type name unexpected. before ;
+
+/obj/pkemeter/pkemeter.c line 57: syntax error before ;
+
+/obj/pkemeter/pkemeter.c line 66: Illegal LHS before the end of line
+
+/obj/pkemeter/pkemeter.c line 66: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/obj/pkemeter/pkemeter.c line 71: Undefined variable 'obArray' before ; i++ )
+
+/obj/pkemeter/pkemeter.c line 78: Undefined variable 'ghostRange' before  obArray[i]->GetFreq
+
+/obj/pkemeter/pkemeter.c line 80: Undefined variable 'ghostFrequency' before  obArray[i]->GetFreq
+
+/obj/pkemeter/pkemeter.c line 40: syntax error before );
+
+/obj/pkemeter/pkemeter.c line 67: Illegal LHS before the end of line
+
+/obj/pkemeter/pkemeter.c line 67: syntax error before the end of line
+
+/obj/pkemeter/pkemeter.c line 68: Illegal LHS before the end of line
+
+/obj/pkemeter/pkemeter.c line 68: syntax error before the end of line
+
+/obj/pkemeter/pkemeter.c line 73: Illegal LHS before  i < sizeof( obArray
+
+/obj/pkemeter/pkemeter.c line 43: syntax error before the end of line
+
+/obj/pkemeter/pkemeter.c line 70: Illegal LHS before the end of line
+
+/obj/pkemeter/pkemeter.c line 76: Undefined variable 'obArray' before ; i++ )
+
+/obj/pkemeter/pkemeter.c line 83: Undefined variable 'ghostRange' before  obArray[i]->GetFreq
+
+/obj/pkemeter/pkemeter.c line 85: Undefined variable 'ghostFrequency' before  obArray[i]->GetFreq
+
+/obj/pkemeter/pkemeter.c line 85: Illegal lvalue before  obArray[i]->GetFreq
+
+/obj/pkemeter/pkemeter.c line 91: Undefined variable 'i' before  sizeof( obArray )){
+
+/obj/pkemeter/pkemeter.c line 38: Undefined variable 'ghostPresent' before {
+
+/obj/pkemeter/pkemeter.c line 160: syntax error before  ( int i = 0; i < si
+
+/obj/pkemeter/pkemeter.c line 160: Illegal LHS before  i < sizeof( obArray
+
+/obj/pkemeter/pkemeter.c line 160: Warning: Expression has no side effects, and the value is unused before  i < sizeof( obArray
+
+/obj/pkemeter/pkemeter.c line 160: Undefined variable 'i' before  sizeof( obArray ); 
+
+/obj/pkemeter/pkemeter.c line 160: syntax error before the end of line
+
+/obj/pkemeter/pkemeter.c line 160: syntax error before  ( int i = 0; i < si
+
+/obj/pkemeter/pkemeter.c line 160: Illegal LHS before  i < sizeof( obArray
+
+/obj/pkemeter/pkemeter.c line 160: Warning: Expression has no side effects, and the value is unused before  i < sizeof( obArray
+
+/obj/pkemeter/pkemeter.c line 160: Undefined variable 'i' before  sizeof( obArray ); 
+
+/obj/pkemeter/pkemeter.c line 160: syntax error before the end of line
+
+/obj/pkemeter/pkemeter.c line 159: syntax error before  i = 0;
+
+/obj/pkemeter/pkemeter.c line 159: Illegal LHS before the end of line
+
+/obj/pkemeter/pkemeter.c line 159: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/obj/pkemeter/pkemeter.c line 161: Undefined variable 'i' before  sizeof( obArray ))
+
+/cmds/std/firstaid.c line 96: Warning: Unused local variable 'victim' before the end of line
+
+/cmds/npc/ghosttrip.c line 69: syntax error before  Target }) ));
+
+/cmds/npc/ghosttrip.c line 69: Too many arguments to environment before );
+
+/cmds/npc/ghosttrip.c line 76: syntax error before  Target }) )); 
+
+/cmds/npc/ghosttrip.c line 76: syntax error before  Target }) ); 
+
+/home/j/janine/tmp_eval_file.c line 1: Undefined variable 'keavy' before ClearAllStatuses(); 
+
+/home/j/janine/tmp_eval_file.c line 1: Undefined variable 'Keavy' before ClearAllStatuses(); 
+
+/home/j/janine/tmp_eval_file.c line 1: syntax error before ; }; }
+
+/std/user/gb_player.c line 1: syntax error before  
+
+/std/area/rooms/vmaproom.c line 40: syntax error before the end of line
+
+/std/area/rooms/vmaproom.c line 40: syntax error before the end of line
+
+/home/j/janine/home.c line 25: Warning: Extra ';'. Ignored. before l
+
+/home/j/janine/home.c line 26: syntax error before the end of file
+
+/home/j/janine/tmp_eval_file.c line 1: Undefined variable 'this_player' before set_short("A petite 
+
+/std/ghosts/ghost.c line 339: Undefined variable 'NULL' before  || (sizeof( linkedB
+
+/std/ghosts/ghost.c line 460: syntax error before  
+
+/std/user/gb_player.c line 470: syntax error before ;
+
+/std/user/gb_player.c line 492: Illegal LHS before the end of line
+
+/std/user/gb_player.c line 492: syntax error before the end of line
+
+/std/user/gb_player.c line 63: Missing type for argument before  newStatus );
+
+/std/user/gb_player.c line 63: syntax error before  );
+
+/std/user/gb_player.c line 475: Undefined variable 'status' before newStatus]){
+
+/std/user/gb_player.c line 492: syntax error before the end of line
+
+/std/user/gb_player.c line 479: Undefined variable 'status' before sizeof(statuses)] = 
+
+/std/user/gb_player.c line 479: Illegal lvalue before  newStatus;
+
+/std/user/gb_player.c line 485: Invalid argument types to '+' ( string vs string array ) before  ".\n");
+
+/std/user/gb_player.c line 492: syntax error before ); 
+
+/std/user/gb_player.c line 513: Illegal LHS before the end of line
+
+/std/user/gb_player.c line 513: syntax error before the end of line
+
+/std/user/gb_player.c line 484: Undefined variable 'newstatus' before  ".\n");
+
+/std/user/gb_player.c line 521: Warning: Non-void functions must return a value. before the end of line
+
+/std/user/gb_player.c line 524: syntax error before the end of line
+---
+**Error Caught
+Error: *Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Current object: OBJECT(/home/j/janine/tmp_eval_file)
+Current Program: "/home/j/janine/tmp_eval_file.c"
+Line:     1, File: /home/j/janine/tmp_eval_file.c
+
+Traceback:
+Line:   263, File: /std/user/gb_mobile.c
+ Object: OBJECT(janine /std/user/gb_player#4)
+ Program: /std/user/gb_mobile.c
+Line:   325, File: /std/user/gb_mobile.c
+ Object: OBJECT(janine /std/user/gb_player#4)
+ Program: /std/user/gb_mobile.c
+Line:    24, File: /cmds/wiz/eval.c
+ Object: OBJECT(/cmds/wiz/eval)
+ Program: /cmds/wiz/eval.c
+Line:    24, File: /cmds/wiz/eval.c
+ Object: OBJECT(/cmds/wiz/eval)
+ Program: /cmds/wiz/eval.c
+Line:     1, File: /home/j/janine/tmp_eval_file.c
+ Object: OBJECT(/home/j/janine/tmp_eval_file)
+ Program: /home/j/janine/tmp_eval_file.c
+---
+**Error Caught
+Error: *Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Current object: OBJECT(/home/j/janine/tmp_eval_file)
+Current Program: "/home/j/janine/tmp_eval_file.c"
+Line:     1, File: /home/j/janine/tmp_eval_file.c
+
+Traceback:
+Line:   263, File: /std/user/gb_mobile.c
+ Object: OBJECT(janine /std/user/gb_player#12)
+ Program: /std/user/gb_mobile.c
+Line:   325, File: /std/user/gb_mobile.c
+ Object: OBJECT(janine /std/user/gb_player#12)
+ Program: /std/user/gb_mobile.c
+Line:    24, File: /cmds/wiz/eval.c
+ Object: OBJECT(/cmds/wiz/eval)
+ Program: /cmds/wiz/eval.c
+Line:    24, File: /cmds/wiz/eval.c
+ Object: OBJECT(/cmds/wiz/eval)
+ Program: /cmds/wiz/eval.c
+Line:     1, File: /home/j/janine/tmp_eval_file.c
+ Object: OBJECT(/home/j/janine/tmp_eval_file)
+ Program: /home/j/janine/tmp_eval_file.c
+---
+**Error Caught
+Error: *Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Current object: OBJECT(/home/j/janine/tmp_eval_file)
+Current Program: "/home/j/janine/tmp_eval_file.c"
+Line:     1, File: /home/j/janine/tmp_eval_file.c
+
+Traceback:
+Line:   263, File: /std/user/gb_mobile.c
+ Object: OBJECT(janine /std/user/gb_player#12)
+ Program: /std/user/gb_mobile.c
+Line:   325, File: /std/user/gb_mobile.c
+ Object: OBJECT(janine /std/user/gb_player#12)
+ Program: /std/user/gb_mobile.c
+Line:    24, File: /cmds/wiz/eval.c
+ Object: OBJECT(/cmds/wiz/eval)
+ Program: /cmds/wiz/eval.c
+Line:    24, File: /cmds/wiz/eval.c
+ Object: OBJECT(/cmds/wiz/eval)
+ Program: /cmds/wiz/eval.c
+Line:     1, File: /home/j/janine/tmp_eval_file.c
+ Object: OBJECT(/home/j/janine/tmp_eval_file)
+ Program: /home/j/janine/tmp_eval_file.c
+
+/home/j/janine/tmp_eval_file.c line 1: Undefined variable 'slimed' before ;}; }
+
+/std/user/gb_player.c line 511: Redeclaration of function CauseStatus_knockdown. before the end of line
+
+/obj/research/fluff.c line 14: Undefined function set_collect_diff before ;
+
+/cmds/std/collect.c line 51: Undefined variable 'collection' before ;
+
+/cmds/std/examine.c line 20: syntax error before  = present( arg, thi
+
+/cmds/std/examine.c line 20: Undefined variable 'arg' before  this_player() );
+
+/cmds/std/examine.c line 20: Type mismatch ( unknown vs object ) when initializing sample before the end of line
+
+/cmds/std/examine.c line 20: Warning: Redeclaration of global variable 'sample'. before the end of line
+
+/cmds/std/examine.c line 20: Missing type for global variable declaration before the end of line
+
+/cmds/std/examine.c line 22: syntax error before the end of line
+
+/adm/daemons/research_d.c line 145: Undefined function get_collect_value before );
+
+/cmds/std/examine.c line 50: Undefined variable 'item' before  this_player());
+
+/cmds/std/examine.c line 52: Warning: Unused local variable 'ResearchPointsAwarded' before the end of line
+
+/cmds/std/extract.c line 43: Undefined variable 'test' before 1)
+
+/cmds/std/extract.c line 52: syntax error before the end of line
+
+/cmds/std/extract.c line 67: Illegal LHS before the end of line
+
+/cmds/std/extract.c line 67: syntax error before the end of line
+
+/cmds/std/extract.c line 68: Illegal LHS before the end of line
+
+/cmds/std/extract.c line 68: syntax error before the end of line
+
+/cmds/std/extract.c line 52: syntax error before the end of line
+
+/cmds/std/extract.c line 67: Illegal LHS before the end of line
+
+/cmds/std/extract.c line 67: syntax error before the end of line
+
+/cmds/std/extract.c line 68: Illegal LHS before the end of line
+
+/cmds/std/extract.c line 68: syntax error before the end of line
+
+/cmds/std/extract.c line 70: syntax error before  >= (100 - chance)
+
+/obj/research/extractor.c line 12: Undefined function SetFill before ;
+
+/obj/research/extractor.c line 13: Undefined function set_type before ;
+
+/obj/research/extractor.c line 20: Illegal to inherit after defining functions. before the end of line
+
+/home/j/janine/tmp_eval_file.c line 1: Undefined function set_skill before ;; }
+
+/cmds/std/collect.c line 38: Left argument of -> is not a class before "jar", "sample", ob-
+
+/cmds/std/collect.c line 38: syntax error before "jar", "sample", ob-
+
+/cmds/std/collect.c line 48: Warning: Value of conditional expression is unused before  (test<20){
+
+/cmds/std/collect.c line 57: Left argument of -> is not a class before "jar", "sample", ob-
+
+/cmds/std/collect.c line 57: syntax error before "jar", "sample", ob-
+
+/cmds/std/extract.c line 63: syntax error before {
+
+/cmds/std/extract.c line 88: Warning: Previous function prototype for make_antislime_green does not match current function in return type ( object vs void ) before {
+
+/cmds/std/extract.c line 90: syntax error before obj/research/antisli
+
+/cmds/std/extract.c line 92: syntax error before obj/research/antisli
+
+/cmds/std/extract.c line 96: Undefined variable 'GreenSlime' before move(this_player());
+
+/cmds/std/extract.c line 92: Undefined variable 'GreenAntislimem' before  clone_object("/obj/
+
+/cmds/std/extract.c line 92: Illegal lvalue before  clone_object("/obj/
+
+/cmds/std/extract.c line 47: Undefined variable 'make_antislime_' before  "AntislimeType" + (
+
+/cmds/std/extract.c line 47: syntax error before ;
+
+/cmds/std/extract.c line 68: Illegal LHS before the end of line
+
+/cmds/std/extract.c line 68: syntax error before the end of line
+
+/cmds/std/extract.c line 69: Illegal LHS before the end of line
+
+/cmds/std/extract.c line 69: syntax error before the end of line
+
+/cmds/std/extract.c line 95: Undefined function setuid before ;
+
+/cmds/std/extract.c line 96: Undefined function getuid before );
+
+/cmds/std/extract.c line 96: Undefined function seteuid before ;
+
+/cmds/std/extract.c line 96: Undefined function setuid before ;
+
+/cmds/std/extract.c line 97: Undefined function getuid before );
+
+/cmds/std/extract.c line 97: Undefined function seteuid before ;
+
+/cmds/std/extract.c line 105: Type of returned value doesn't match function return type ( int vs void ) before the end of line
+
+/obj/research/collectedslime.c line 16: syntax error before the end of line
+
+/cmds/std/collect.c line 42: syntax error before ->move(this_player()
+
+/cmds/std/collect.c line 44: Illegal LHS before the end of line
+
+/cmds/std/collect.c line 44: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/obj/research/slime.c line 90: Illegal to inherit after defining functions. before the end of line
+
+/obj/research/slime.c line 90: Illegal to inherit after defining global variables. before the end of line
+
+/cmds/std/collect.c line 74: Warning: Unused local variable 'tempShort' before the end of line
+
+/cmds/std/collect.c line 69: Undefined variable 'value' before ;    
+
+/cmds/std/collect.c line 79: Warning: Unused local variable 'tempShort' before the end of line
+
+/cmds/std/collect.c line 79: Warning: Unused local variable 'tempShort' before the end of line
+
+/cmds/std/collect.c line 40: Undefined variable 'long' before ;
+
+/cmds/std/collect.c line 40: syntax error before ;
+
+/cmds/std/collect.c line 42: Illegal LHS before the end of line
+
+/cmds/std/collect.c line 42: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/cmds/std/collect.c line 43: Undefined variable 'value1' before  ".\n"); 
+
+/cmds/std/collect.c line 81: Warning: Unused local variable 'tempShort' before the end of line
+
+/cmds/std/collect.c line 81: Warning: Unused local variable 'tempShort' before the end of line
+
+/cmds/std/collect.c line 81: Warning: Unused local variable 'tempShort' before the end of line
+
+/cmds/std/collect.c line 80: Warning: Unused local variable 'tempShort' before the end of line
+
+/cmds/std/collect.c line 80: Warning: Unused local variable 'tempShort' before the end of line
+
+/cmds/std/collect.c line 80: Warning: Unused local variable 'tempShort' before the end of line
+
+/cmds/std/collect.c line 80: Warning: Unused local variable 'tempShort' before the end of line
+
+/cmds/std/collect.c line 80: Warning: Unused local variable 'tempShort' before the end of line
+
+/cmds/std/collect.c line 80: Warning: Unused local variable 'tempShort' before the end of line
+
+/cmds/std/collect.c line 81: Warning: Unused local variable 'tempShort' before the end of line
+
+/cmds/std/collect.c line 48: syntax error before c");
+
+/cmds/std/collect.c line 108: End of file in string at the end of the file
+
+/cmds/std/collect.c line 30: Left argument of -> is not a class before  this_player());
+
+/cmds/std/collect.c line 105: syntax error before the end of line
+
+/cmds/std/collect.c line 1: Undefined variable 'ob' before get_vessel(), this_p
+
+/cmds/std/collect.c line 1: Type mismatch ( unknown vs object ) when initializing vessel before the end of line
+
+/cmds/std/collect.c line 1: Missing type for global variable declaration before the end of line
+
+/cmds/std/collect.c line 8: Illegal to inherit after defining global variables. before the end of line
+
+/cmds/std/collect.c line 104: syntax error before the end of line
+
+/cmds/std/collect.c line 96: syntax error before the end of line
+
+/cmds/std/collect.c line 97: Illegal LHS before  i < sizeof( playerI
+
+/cmds/std/collect.c line 81: Undefined function destruc before ;
+
+/cmds/std/inventory.c line 26: syntax error before  ("/obj/armor.c", in
+
+/cmds/std/inventory.c line 33: "#pragma strict_types" requires type of function before "CLOTHING:\n");
+
+/cmds/std/inventory.c line 33: syntax error before );
+
+/cmds/std/inventory.c line 36: syntax error before  ("/obj/clothing.c",
+
+/cmds/std/inventory.c line 43: syntax error before  1;
+
+/cmds/std/inventory.c line 53: syntax error before  
+
+/cmds/std/fabricate.c line 23: Undefined function get_object before ;
+
+/home/j/janine/tmp_eval_file.c line 1: Undefined variable 'this_player' before set_skill( fabricate
+
+/home/j/janine/tmp_eval_file.c line 1: Undefined variable 'fabricate' before  40 ); }
+
+/home/j/janine/tmp_eval_file.c line 1: Undefined variable 'fabricate' before  40 ); }
+
+/home/j/janine/tmp_eval_file.c line 1: Undefined function set_skill before ; }
+
+/home/j/janine/tmp_eval_file.c line 1: Undefined variable 'this_player' before set_skill( fabricate
+
+/home/j/janine/tmp_eval_file.c line 1: Undefined variable 'fabricate' before  40 ); }
+
+/home/j/janine/tmp_eval_file.c line 1: Undefined variable 'fabricate' before  40); }; }
+
+/home/j/janine/tmp_eval_file.c line 1: Undefined variable 'this_player' before set_skill(fabricate,
+
+/home/j/janine/tmp_eval_file.c line 1: Undefined variable 'fabricate' before  20); }
+
+/home/j/janine/tmp_eval_file.c line 1: Undefined variable 'this_player' before  set_skill(fabricate
+
+/home/j/janine/tmp_eval_file.c line 1: Undefined variable 'fabricate' before  30); }
+
+/home/j/janine/tmp_eval_file.c line 1: Undefined variable 'fabricate' before  30); }
+
+/cmds/std/fabricate.c line 26: Undefined function item before ->query_short());
+
+/cmds/std/fabricate.c line 23: syntax error before );
+
+/cmds/std/fabricate.c line 25: Illegal LHS before the end of line
+
+/cmds/std/fabricate.c line 25: syntax error before the end of line
+
+/cmds/std/fabricate.c line 26: Illegal LHS before the end of line
+
+/cmds/std/fabricate.c line 26: syntax error before the end of line
+
+/cmds/std/fabricate.c line 53: Illegal LHS before the end of line
+
+/cmds/std/fabricate.c line 52: Warning: Unused local variable 'itemString' before the end of line
+
+/cmds/std/fabricate.c line 50: Warning: Unused local variable 'itemString' before the end of line
+
+/cmds/std/fabricate.c line 45: Warning: Unused local variable 'item' before the end of line
+
+/cmds/std/fabricate.c line 45: Warning: Unused local variable 'itemString' before the end of line
+
+/cmds/std/fabricate.c line 27: Type of returned value doesn't match function return type ( int vs void ) before the end of line
+
+/cmds/std/fabricate.c line 32: Type of returned value doesn't match function return type ( int vs void ) before the end of line
+
+/cmds/std/fabricate.c line 37: Type of returned value doesn't match function return type ( int vs void ) before the end of line
+
+/cmds/std/fabricate.c line 60: Warning: Unused local variable 'item' before the end of line
+
+/cmds/std/fabricate.c line 60: Warning: Unused local variable 'itemString' before the end of line
+
+/cmds/std/fabricate.c line 100: syntax error before this_player()->DoSki
+
+/cmds/std/fabricate.c line 100: Illegal LHS before the end of line
+
+/cmds/std/fabricate.c line 62: Warning: Unused local variable 'item' before the end of line
+
+/cmds/std/fabricate.c line 62: Warning: Unused local variable 'itemString' before the end of line
+
+/cmds/std/fabricate.c line 102: syntax error before this_player()->DoSki
+
+/cmds/std/fabricate.c line 102: Illegal LHS before the end of line
+
+/cmds/std/fabricate.c line 61: Warning: Unused local variable 'itemString' before the end of line
+
+/cmds/std/fabricate.c line 61: Warning: Unused local variable 'itemString' before the end of line
+
+/cmds/std/fabricate.c line 61: Warning: Unused local variable 'itemString' before the end of line
+
+/cmds/std/fabricate.c line 59: Warning: Unused local variable 'itemString' before the end of line
+
+/cmds/std/fabricate.c line 59: Warning: Unused local variable 'itemString' before the end of line
+
+/cmds/std/extract.c line 163: syntax error before the end of line
+
+/cmds/std/fabricate.c line 59: Warning: Unused local variable 'itemString' before the end of line
+
+/cmds/std/fabricate.c line 59: Warning: Unused local variable 'itemString' before the end of line
+
+/home/j/janine/tmp_eval_file.c line 1: Undefined variable 'sample' before ; }
+
+/home/j/janine/tmp_eval_file.c line 1: Undefined variable 'sample' before ;; }
+
+/cmds/std/extract.c line 61: Undefined variable 'Test' before this_player()->DoSki
+
+/cmds/std/extract.c line 61: Illegal lvalue before this_player()->DoSki
+
+/cmds/std/extract.c line 72: syntax error before ;
+
+/home/j/janine/workroom.c line 24: syntax error before  "/home/j/janine/lab
+
+/home/j/janine/workroom.c line 24: syntax error before  "/home/j/janine/lab
+
+/obj/research/computer.c line 8: No such inherited function ::create before ;
+
+/obj/research/computer.c line 10: Undefined function set_id before ;
+
+/obj/research/computer.c line 11: Undefined function set_short before ;
+
+/obj/research/computer.c line 16: Undefined function set_long before ;
+
+/cmds/std/order.c line 27: End of file in string at the end of the file
+
+/cmds/std/order.c line 27: syntax error at the end of the file
+
+/cmds/std/order.c line 34: Undefined variable 'equpiString' before  "Fabricating Machin
+
+/cmds/std/order.c line 34: Illegal lvalue before  "Fabricating Machin
+
+/cmds/std/order.c line 20: Undefined variable 'equipment' before  find_object(get_bas
+
+/cmds/std/order.c line 20: Illegal lvalue before  find_object(get_bas
+
+/cmds/std/order.c line 27: Undefined variable 'player' before get_cash()< equiptme
+
+/cmds/std/order.c line 27: Undefined variable 'equiptment' before get_cost())
+
+/cmds/std/order.c line 22: Undefined variable 'equpiment' before )
+
+/cmds/std/order.c line 27: Undefined variable 'player' before get_cash()< equiptme
+
+/cmds/std/order.c line 27: Undefined variable 'equiptment' before get_cost())
+
+/cmds/std/order.c line 27: Undefined function thie_player before ->get_cash()< equipm
+
+/cmds/std/order.c line 89: Undefined function objMap before ;
+
+/obj/research/equpiment.c line 12: syntax error before ();
+
+/cmds/std/order.c line 44: Undefined function callout before ;
+
+/cmds/std/order.c line 76: Undefined variable 'does_accept' before ;
+
+/cmds/std/order.c line 109: Warning: Number of arguments disagrees with previous definition. before the end of line
+
+/cmds/std/order.c line 33: Type of returned value doesn't match function return type ( int vs void ) before the end of line
+
+/cmds/std/order.c line 51: Undefined variable 'env' before query_exits("slime")
+
+/cmds/std/order.c line 59: syntax error before  1;
+
+/cmds/std/order.c line 35: syntax error before the end of line
+
+/cmds/std/order.c line 69: Illegal LHS before the end of line
+
+/cmds/std/order.c line 70: Undefined variable 'equipString' before  "Fabricating Machin
+
+/cmds/std/order.c line 70: Illegal lvalue before  "Fabricating Machin
+
+/cmds/std/order.c line 83: Reserved type name unexpected. before (object equipment){
+
+/cmds/std/order.c line 83: syntax error before (object equipment){
+
+/cmds/std/order.c line 60: syntax error before  1;
+
+/cmds/std/order.c line 60: syntax error before ;
+
+/cmds/std/order.c line 12: Missing type for argument before );
+
+/cmds/std/order.c line 108: Missing type for argument before ){
+
+/cmds/std/order.c line 109: Reserved type name unexpected. before (equipment);
+
+/cmds/std/order.c line 109: syntax error before (equipment);
+
+/cmds/std/order.c line 124: Undefined variable 'equpipment' before query_long());
+
+/cmds/std/order.c line 109: Reserved type name unexpected. before (equipment);
+
+/cmds/std/order.c line 109: syntax error before (equipment);
+
+/cmds/std/order.c line 124: Undefined variable 'equpipment' before query_long());
+
+/cmds/std/order.c line 109: Reserved type name unexpected. before (equipment);
+
+/cmds/std/order.c line 109: syntax error before (equipment);
+
+/cmds/std/order.c line 124: Undefined variable 'equpipment' before query_long());
+
+/cmds/std/order.c line 109: Undefined variable 'equipment' before ;
+
+/cmds/std/order.c line 124: Undefined variable 'equippment' before query_long());
+
+/cmds/std/order.c line 123: Undefined variable 'equippment' before query_long());
+
+/cmds/std/order.c line 121: Bad argument 1 to efun load_object() before ;
+
+/cmds/std/order.c line 121: Bad argument 1 to efun load_object() before ;
+
+/cmds/std/order.c line 122: syntax error before the end of line
+
+/cmds/std/order.c line 149: Illegal LHS before the end of line
+
+/cmds/std/order.c line 149: syntax error before the end of line
+
+/obj/research/fabricator.c line 15: Undefined function set_location before ;
+
+/cmds/std/order.c line 118: syntax error before ;    
+
+/areas/research/slimeroom.c line 29: Illegal to inherit after defining functions. before the end of line
+
+/home/j/janine/tmp_eval_file.c line 1: syntax error before obj/research/extract
+
+/cmds/std/order.c line 117: syntax error before ->get_short() == "fa
+
+/cmds/std/order.c line 117: syntax error before ->query_short() == "
+
+/cmds/std/order.c line 156: Bad argument 1 to efun load_object() before ;
+
+/obj/research/computer.c line 22: Undefined variable 'order' before  "order");
+
+/obj/research/computer.c line 7: syntax error before ;
+
+/obj/research/computer.c line 7: Cannot #include /cmds/std/order.h before the end of line
+
+/obj/research/computer.c line 22: Undefined variable 'order' before  "order");
+
+/obj/research/computer.c line 7: Missing leading " or < in #include before the end of line
+
+/obj/research/computer.c line 22: Undefined variable 'order' before  "order");
+
+/obj/research/computer.c line 7: Cannot #include /cmds/std/order.h before the end of line
+
+/obj/research/computer.c line 22: Undefined variable 'order' before  "order");
+
+/obj/research/computer.c line 6: Cannot #include /cmds/std/order.h before inherit OBJECT;
+
+/obj/research/computer.c line 8: Cannot #include /cmds/std/order.h before the end of line
+
+/obj/research/computer.c line 8: Cannot #include /cmds/std/order.h before the end of line
+
+/obj/research/computer.c line 8: Cannot #include /cmds/std/order.h before the end of line
+
+/obj/research/computer.c line 8: Cannot #include /cmds/std/order.h before the end of line
+
+/obj/research/computer.c line 22: Undefined variable 'order' before  "order");
+
+/obj/research/comp.c line 10: No such inherited function ::create before ;
+
+/obj/research/comp.c line 12: Undefined function set_id before ;
+
+/obj/research/comp.c line 13: Undefined function set_short before ;
+
+/obj/research/comp.c line 18: Undefined function set_long before ;
+
+/obj/research/comp.c line 7: Illegal to inherit after defining functions. before the end of line
+
+/obj/research/comp.c line 7: Illegal to inherit after defining global variables. before the end of line
+
+/obj/research/computer.c line 51: Undefined function to_lower before ;
+
+/obj/research/computer.c line 23: syntax error before 10000:6000, 
+
+/obj/research/computer.c line 61: Undefined variable 'arg' before ;
+
+/obj/research/computer.c line 61: Illegal LHS before the end of line
+
+/obj/research/computer.c line 61: syntax error before the end of line
+
+/obj/research/computer.c line 68: Illegal LHS before the end of line
+
+/obj/research/computer.c line 68: syntax error before the end of line
+
+/obj/research/computer.c line 23: syntax error before  10000 : 6000, 
+
+/obj/research/computer.c line 61: Undefined variable 'arg' before ;
+
+/obj/research/computer.c line 61: Illegal LHS before the end of line
+
+/obj/research/computer.c line 61: syntax error before the end of line
+
+/obj/research/computer.c line 68: Illegal LHS before the end of line
+
+/obj/research/computer.c line 68: syntax error before the end of line
+
+/obj/research/computer.c line 23: syntax error before 10000;6000, 
+
+/obj/research/computer.c line 61: Undefined variable 'arg' before ;
+
+/obj/research/computer.c line 61: Illegal LHS before the end of line
+
+/obj/research/computer.c line 61: syntax error before the end of line
+
+/obj/research/computer.c line 68: Illegal LHS before the end of line
+
+/obj/research/computer.c line 68: syntax error before the end of line
+
+/obj/research/computer.c line 23: syntax error before  10000; 6000, 
+
+/obj/research/computer.c line 61: Undefined variable 'arg' before ;
+
+/obj/research/computer.c line 61: Illegal LHS before the end of line
+
+/obj/research/computer.c line 61: syntax error before the end of line
+
+/obj/research/computer.c line 68: Illegal LHS before the end of line
+
+/obj/research/computer.c line 68: syntax error before the end of line
+
+/obj/research/computer.c line 23: syntax error before  10000; 6000,
+
+/obj/research/computer.c line 61: Undefined variable 'arg' before ;
+
+/obj/research/computer.c line 61: Illegal LHS before the end of line
+
+/obj/research/computer.c line 61: syntax error before the end of line
+
+/obj/research/computer.c line 68: Illegal LHS before the end of line
+
+/obj/research/computer.c line 68: syntax error before the end of line
+
+/obj/research/computer.c line 23: syntax error before  10000; 6000,
+
+/obj/research/computer.c line 61: Undefined variable 'arg' before ;
+
+/obj/research/computer.c line 61: Illegal LHS before the end of line
+
+/obj/research/computer.c line 61: syntax error before the end of line
+
+/obj/research/computer.c line 68: Illegal LHS before the end of line
+
+/obj/research/computer.c line 68: syntax error before the end of line
+
+/obj/research/computer.c line 228: Undefined variable 'cost' before  " and " + credits +
+
+/obj/research/computer.c line 230: Warning: Unused local variable 'certifications' before the end of line
+
+/obj/research/computer.c line 230: Warning: Unused local variable 'certifications' before the end of line
+
+/obj/research/computer.c line 230: Warning: Unused local variable 'certifications' before the end of line
+
+/obj/research/computer.c line 231: Warning: Unused local variable 'certifications' before the end of line
+
+/obj/research/computer.c line 229: Left argument of -> is not a class before  credits)
+
+/obj/research/computer.c line 229: Left argument of -> is not a class before  credits)
+
+/obj/research/computer.c line 229: Left argument of -> is not a class before  credits)
+
+/obj/research/computer.c line 248: syntax error before [arg][0] != "NONE" &
+
+/obj/research/computer.c line 254: "#pragma strict_types" requires type of function before )->set_skill(arg, 1)
+
+/obj/research/computer.c line 254: syntax error before set_skill(arg, 1);
+
+/areas/research/labroom.c line 35: syntax error before  "fabricating machin
+
+/areas/research/labroom.c line 102: Undefined variable 'arg' before the end of line
+
+/areas/research/labroom.c line 102: Illegal LHS before the end of line
+
+/areas/research/labroom.c line 124: Illegal LHS before the end of line
+
+/areas/research/labroom.c line 125: Illegal LHS before the end of line
+
+/areas/research/labroom.c line 126: Illegal LHS before the end of line
+
+/areas/research/labroom.c line 35: Warning: Expression has no side effects, and the value is unused before  "machine"):({"A fab
+
+/areas/research/labroom.c line 35: Warning: Expression has no side effects, and the value is unused before :({"A fabricting mac
+
+/areas/research/labroom.c line 38: syntax error before , "dismantling machi
+
+/areas/research/labroom.c line 102: Undefined variable 'arg' before the end of line
+
+/areas/research/labroom.c line 102: Illegal LHS before the end of line
+
+/areas/research/labroom.c line 124: Illegal LHS before the end of line
+
+/areas/research/labroom.c line 125: Illegal LHS before the end of line
+
+/areas/research/labroom.c line 126: Illegal LHS before the end of line
+
+/areas/research/labroom.c line 38: syntax error before , "dismantling machi
+
+/areas/research/labroom.c line 102: Undefined variable 'arg' before the end of line
+
+/areas/research/labroom.c line 102: Illegal LHS before the end of line
+
+/areas/research/labroom.c line 124: Illegal LHS before the end of line
+
+/areas/research/labroom.c line 125: Illegal LHS before the end of line
+
+/areas/research/labroom.c line 126: Illegal LHS before the end of line
+
+/areas/research/labroom.c line 38: syntax error before  "dismantler", "dism
+
+/areas/research/labroom.c line 102: Undefined variable 'arg' before the end of line
+
+/areas/research/labroom.c line 102: Illegal LHS before the end of line
+
+/areas/research/labroom.c line 124: Illegal LHS before the end of line
+
+/areas/research/labroom.c line 125: Illegal LHS before the end of line
+
+/areas/research/labroom.c line 126: Illegal LHS before the end of line
+
+/areas/research/labroom.c line 185: Undefined variable 'equipment' before query_short() == "fa
+
+/areas/research/labroom.c line 191: Undefined variable 'arg' before [2])
+
+/areas/research/labroom.c line 192: syntax error before the end of line
+
+/areas/research/labroom.c line 209: Illegal LHS before the end of line
+
+/areas/research/labroom.c line 209: syntax error before the end of line
+
+/areas/research/labroom.c line 214: Illegal LHS before the end of line
+
+/areas/research/labroom.c line 192: syntax error before the end of line
+
+/areas/research/labroom.c line 209: Illegal LHS before the end of line
+
+/areas/research/labroom.c line 209: syntax error before the end of line
+
+/areas/research/labroom.c line 214: Illegal LHS before the end of line
+
+/areas/research/labroom.c line 214: syntax error before the end of line
+
+/areas/research/labroom.c line 216: Undefined variable 'locationName' before ;
+
+/areas/research/labroom.c line 194: Undefined variable 'arg' before [2] + " annex.  Orde
+
+/areas/research/labroom.c line 218: Left argument of -> is not a class before the end of line
+
+/cmds/std/fabricate.c line 59: Warning: Unused local variable 'itemString' before the end of line
+
+/cmds/std/fabricate.c line 59: Warning: Unused local variable 'itemString' before the end of line
+
+/areas/research/labroom.c line 96: Undefined variable 'equipmentArray' before  ({ newEquip });
+
+/areas/research/labroom.c line 96: Illegal lvalue before  ({ newEquip });
+
+/areas/research/labroom.c line 103: Undefined variable 'equipmentArray' before ;
+
+/areas/research/labroom.c line 245: Undefined variable 'arg' before ;
+
+/areas/research/labroom.c line 247: Undefined variable 'equipment' before get_cost() * 100));
+
+/cmds/std/fabricate.c line 59: Warning: Unused local variable 'itemString' before the end of line
+
+/cmds/std/fabricate.c line 59: Warning: Unused local variable 'itemString' before the end of line
+
+/home/j/janine/tmp_eval_file.c line 1: Undefined variable 'this_player' before set_cash(100000000);
+
+/areas/research/slimeroom.c line 25: syntax error before  create()
+
+/areas/research/slimeroom.c line 25: syntax error before  create()
+
+/areas/research/slimeroom.c line 25: syntax error before  create()
+
+/areas/research/liquidroom.c line 99: Warning: Unused local variable 'Equipment' before the end of line
+
+/areas/labyrinth/green1.c line 7: Warning: redefinition of #define GHOST before #define HERE   "/are
+
+/areas/labyrinth/green1.c line 24: syntax error before  : ({ "/areas/labyri
+
+/areas/labyrinth/green1.c line 28: Illegal LHS before the end of line
+
+/areas/labyrinth/green1.c line 28: syntax error before the end of line
+
+/areas/labyrinth/green1.c line 29: Illegal LHS before the end of line
+
+/areas/labyrinth/green1.c line 29: syntax error before the end of line
+
+/areas/labyrinth/entry.c line 20: syntax error before  : ({ "/areas/labyri
+
+/obj/npcs/ghosts/squirrel.c line 14: Warning: Redeclaration of global variable 'value'. before the end of line
+
+/obj/npcs/ghosts/squirrel.c line 37: Undefined variable 'power' before  10 * (random[3]+1);
+
+/obj/npcs/ghosts/squirrel.c line 37: Undefined variable 'random' before 3]+1);
+
+/obj/npcs/ghosts/squirrel.c line 37: Undefined variable 'random' before 3]+1);
+
+/obj/trap/VerminTrap.c line 9: syntax error before  value;
+
+/obj/trap/VerminTrap.c line 9: syntax error before  value;
+
+/obj/trap/VerminTrap.c line 9: Warning: Redeclaration of global variable 'value'. before the end of line
+
+/areas/labyrinth/green1.c line 8: syntax error before  create()
+
+/areas/labyrinth/green2.c line 7: syntax error before  create()
+
+/areas/labyrinth/green_base.c line 29: syntax error before  );
+
+/areas/labyrinth/green_base.c line 42: Illegal LHS before the end of line
+
+/areas/labyrinth/green_base.c line 42: syntax error before the end of line
+
+/areas/labyrinth/green_base.c line 45: syntax error before  );
+
+/areas/labyrinth/green_base.c line 29: syntax error before  );
+
+/areas/labyrinth/green_base.c line 42: Illegal LHS before the end of line
+
+/areas/labyrinth/green_base.c line 42: syntax error before the end of line
+
+/areas/labyrinth/green_base.c line 45: syntax error before  );
+
+/areas/labyrinth/green1.c line 8: syntax error before  create()
+
+/areas/labyrinth/entry.c line 20: syntax error before  : ({ "/areas/labyri
+
+/areas/labyrinth/entry.c line 19: syntax error before the end of line
+
+/areas/labyrinth/entry.c line 19: syntax error before the end of line
+
+/areas/labyrinth/entry.c line 19: syntax error before the end of line
+
+/areas/labyrinth/entry.c line 31: Undefined variable 'groundskeeper' before clone_object("/areas
+
+/areas/labyrinth/entry.c line 31: Illegal lvalue before clone_object("/areas
+
+/areas/labyrinth/entry.c line 34: Undefined function addaction before ;
+
+/areas/labyrinth/entry.c line 37: Undefined function addaction before ;
+
+/areas/labyrinth/entry.c line 37: Undefined function addaction before ;
+
+/areas/labyrinth/groundskeeper.c line 21: syntax error before  "Well, now, I don't
+
+/cmds/std/ask.c line 52: Warning: Unused local variable 'room' before the end of line
+
+/cmds/std/ask.c line 52: Warning: Unused local variable 'reply' before the end of line

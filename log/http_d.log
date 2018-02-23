@@ -1,0 +1,3 @@
+Sun Aug  9 09:00:27 2015:Success [SOCKET_D/HTTP_D]: Created server socket (0)
+Sun Aug  9 09:00:27 2015:Success [SOCKET_D/HTTP_D]: Server socket bound to port 4225
+Sun Aug  9 09:00:27 2015:Success [SOCKET_D/HTTP_D]: Server listen callback set up.

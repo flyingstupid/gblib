@@ -1,0 +1,45 @@
+	string target;
+	string action;
+	object player;
+	object victim;
+	object *room;
+
+	
+	player=this_player();
+
+	sscanf(arg,"%s %s"action, target);
+
+	[Set victim](Must be in the room with player!)
+
+
+	if(action =="patch")
+	{
+		DoPatch();
+		return 1;
+	}
+	
+
+
+
+	return 1;
+
+}
+
+
+DoPatch()
+{
+	
+	[Check to see if victim's health is 100]
+	[if so, return 1 with write() saying they are fine]
+
+	[if less than 100 DoSkillRoll("firstaid",100-victim->get_heatlh())]
+	[if DoSkillRoll() is 10 or less heal a d10 [random(10)+1]]
+	[for every 10 more they roll do another d10, so if it returns 32, roll 3d10 {Random(28)+3)} if they roll 73, 7d10 {random(63)+7}. I'd do a big case statement or if you can figure out some kind of function for calculating it. Win for you! The healing fuction we have wont let you heal past 100 so let the whole number it generates through.]
+
+	[if DoSkillRoll() return's 0. Then display a failure message!]
+
+	[If ray is around ask him how to set roundtimes on commands. This command should have a 5 second RT]
+}
+
+
+

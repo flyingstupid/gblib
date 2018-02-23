@@ -1,0 +1,57 @@
+%^BOLD%^%cap_mud_name%^RESET%^
+
+
+== %^BOLD%^GREEN%^Message of the Day%^RESET%^ ==
+
+   Welcome to %^BOLD%^%^BLUE%^%mud_name%^RESET%^, please enjoy your stay.
+
+   %^BOLD%^YELLOW%^You logged in at:%^RESET%^ %date
+
+== %^BOLD%^Status: %^MAGENTA%^%open_status%^RESET%^ ==
+
+   There is currently %user_count user(s) logged in.
+   %users   
+
+== %^BOLD%^YELLOW%^In The Works%^RESET%^ ==
+
+   - Updated In the works section of the MOTD
+     - Does this update mean I can take this off the MOTD?
+     - Whoa head spin
+
+== %^BOLD%^WHITE%^NEWS%^RESET%^ ==
+
+--%^BOLD%^RED%^EQUIPMENT%^RESET%^
+
+Protonpacks, traps, and pkemeters should all be fixed now. They are using
+add_action and I kicked all the known bugs associated with add_action.  Things
+to note are:
+
+- Use of add_action does not automagically take into accout player status, or 
+  command timers. These are things you are going to have to do on your own.
+- There may still be bugs in place left from the removal of command_d please
+  continue to track your bugs as you find them.
+
+--%^BOLD%^RED%^BUG TRACKING%^RESET%^
+
+We are setting a bug tracking solution as I have never like ANYTHING that was
+a mud solution.  We'll need a mud solution once we have players but having a 
+web based interface with users and forms will be much nicer while we do our
+development leading up to alpha and beta.
+
+--%^BOLD%^RED%^WWW.GBMUD.COM%^RESET%^
+
+We have a word press blog!  Its something I amuse my self with thinking that
+people will just stumble accross it but I figured we could use it to keep track
+of the things we are doing etc.  Let me know if you want to have an account
+setup for you and I will get it done. Having an account will also allow you to
+see the private staff only posts that I will be posting with my progress on
+stuff.
+
+--%^BOLD%^RED%^WELCOME NEW FOLK%^RESET%^
+
+I wanted to say welcome welcom new staff of gbmud. I am happy you are here
+and hope we can all work together to make a kick ass mud for the 200 or so
+people that still mud :).  In all seriousness thank you for your support
+lets make something awesome.
+
+Emraef.

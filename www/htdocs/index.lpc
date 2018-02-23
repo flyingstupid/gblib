@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" dir="ltr">
+<head>
+<title><?lpc mixed main() { return mud_name(); } lpc?></title>
+<?lpc
+mixed main()
+{
+    if (strsrch(lower_case(_SERVER["HTTP_USER_AGENT"]), "msie") != -1)
+        return "<meta name=\"Content-Type\" content=\"application/xhtml+xml; charset=utf-8\" />";
+    else return 0;
+}
+lpc?>
+<style type="text/css">
+html {
+    background: black url('http://ebspso.dnsalias.org/images/rth-bg.jpg') fixed center no-repeat;
+}
+
+body {
+    color: #999;
+}
+
+img {
+    border: 0;
+}
+
+#main {
+    width: 800px;
+    margin: 0 auto;
+}
+
+#valid-xhtml {
+    position: fixed;
+    top: 8px;
+    right: 8px;
+}
+</style>
+</head>
+<body>
+<div id="main">
+<div id="valid-xhtml">
+  <a href="http://validator.w3.org/check?uri=referer"><img
+     src="http://www.w3.org/Icons/valid-xhtml10-blue"
+     title="Valid XHTML 1.0 Strict"
+     alt="" height="31" width="88" /></a>
+</div>
+<pre>
+<?lpc
+string replace_entities(string ents)
+{
+    ents = replace_string(ents, "&", "&amp;");
+    ents = replace_string(ents, "<", "&lt;");
+    ents = replace_string(ents, ">", "&gt;");
+    ents = replace_string(ents, "\"", "&quot;");
+
+    /* For some reason MSIE doesn't grok this entity. */
+    if (strsrch(lower_case(_SERVER["HTTP_USER_AGENT"]), "msie") == -1)
+        ents = replace_string(ents, "'", "&apos;");
+
+    return ents;
+}
+
+mixed main()
+{
+    string who = load_object("/cmds/std/who")->make_wholist();
+
+    who = TERMINAL_D->parse_pinkfish(who, "dumb");
+    return replace_entities(who);
+}
+lpc?>
+</pre>
+<p>The above was created using this inline lpc script...</p>
+<pre>
+&lt;?lpc
+string replace_entities(string ents)
+{
+    ents = replace_string(ents, &quot;&amp;&quot;, &quot;&amp;amp;&quot;);
+    ents = replace_string(ents, &quot;&lt;&quot;, &quot;&amp;lt;&quot;);
+    ents = replace_string(ents, &quot;&gt;&quot;, &quot;&amp;gt;&quot;);
+    ents = replace_string(ents, &quot;\&quot;&quot;, &quot;&amp;quot;&quot;);
+
+    /* For some reason MSIE doesn't grok this entity. */
+    if (strsrch(lower_case(_SERVER[&quot;HTTP_USER_AGENT&quot;]), &quot;msie&quot;) == -1)
+<?lpc
+mixed main()
+{
+    if (strsrch(lower_case(_SERVER["HTTP_USER_AGENT"]), "msie") == -1)
+        return "        ents = replace_string(ents, &quot;&apos;&quot;, &quot;&amp;apos;&quot;);";
+    else
+        return "        ents = replace_string(ents, &quot;'&quot;, &quot;&amp;apos;&quot;);";
+}
+lpc?>
+
+    return ents;
+}
+
+mixed main()
+{
+    string who = load_object(&quot;/cmds/std/who&quot;)->make_wholist();
+
+    who = TERMINAL_D->parse_pinkfish(who, &quot;dumb&quot;);
+    return replace_entities(who);
+}
+lpc?&gt;
+</pre>
+<p>
+...and this is the <a href="./index.lpcs">full script</a> for this page. The
+<?lpc
+mixed main()
+{
+    if (strsrch(lower_case(_SERVER["HTTP_USER_AGENT"]), "msie") == -1)
+        return "real filename is &apos;index.lpc&apos; - adding a &apos;s&apos; to the end";
+    else
+        return "real filename is 'index.lpc' - adding a 's' to the end";
+}
+lpc?>
+tells the server to send the file back as text/plain without parsing it.
+</p>
+</div>
+</body>
+</html>

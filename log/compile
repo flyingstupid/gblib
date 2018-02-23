@@ -1,0 +1,208 @@
+Sun Aug  9 09:00:27 2015:/adm/daemons/news_d.c line 41: Warning: <TAB> before     if(!permissions[
+Sun Aug  9 09:00:27 2015:/adm/daemons/news_d.c line 42: Warning: <TAB> before     {
+Sun Aug  9 09:00:27 2015:/adm/daemons/news_d.c line 46: Warning: <TAB> before     for(k = 0; k < s
+Sun Aug  9 09:00:27 2015:/adm/daemons/news_d.c line 50: Warning: <TAB> before 	permissions[keys(da
+Sun Aug  9 09:00:27 2015:/adm/daemons/news_d.c line 50: Warning: <TAB> before permissions[keys(dat
+Sun Aug  9 09:00:27 2015:/adm/daemons/news_d.c line 208: Warning: <TAB> before access = permissions
+Sun Aug  9 09:00:27 2015:/adm/daemons/news_d.c line 209: Warning: <TAB> before group = keys(permiss
+Sun Aug  9 09:00:27 2015:/adm/daemons/news_d.c line 211: Warning: <TAB> before if(isMember(query_pr
+Sun Aug  9 09:00:27 2015:/adm/daemons/news_d.c line 212: Warning: <TAB> before     return 1;
+Sun Aug  9 09:00:27 2015:/adm/obj/security_editor.c line 79: Warning: <TAB> before integrityCheck();
+Sun Aug  9 09:00:27 2015:/adm/obj/security_editor.c line 223: Warning: <TAB> before integrityCheck();
+Sun Aug  9 09:00:27 2015:/adm/obj/security_editor.c line 233: Warning: <TAB> before integrityCheck();
+Sun Aug  9 09:00:27 2015:/adm/obj/security_editor.c line 297: Warning: <TAB> before integrityCheck();
+Sun Aug  9 09:00:27 2015:/adm/obj/security_editor.c line 308: Warning: <TAB> before string *keys;
+Sun Aug  9 09:00:27 2015:/adm/obj/security_editor.c line 310: Warning: <TAB> before integrityCheck();
+Sun Aug  9 09:00:27 2015:/adm/obj/security_editor.c line 313: Warning: <TAB> before return keys;
+Sun Aug  9 09:00:27 2015:/adm/obj/security_editor.c line 318: Warning: <TAB> before integrityCheck();
+Sun Aug  9 09:00:27 2015:/adm/obj/security_editor.c line 332: Warning: <TAB> before integrityCheck();
+Sun Aug  9 09:00:27 2015:/adm/obj/security_editor.c line 409: Warning: <TAB> before if(!clonep(this_obje
+Sun Aug  9 09:00:27 2015:/adm/obj/security_editor.c line 410: Warning: <TAB> before 	error("Error [secur
+Sun Aug  9 09:00:27 2015:/adm/obj/security_editor.c line 410: Warning: <TAB> before error("Error [securi
+Sun Aug  9 09:00:27 2015:/adm/daemons/lockdown_d.c line 84: Warning: <TAB> before     if(user == banne
+Sun Aug  9 09:00:27 2015:/adm/daemons/lockdown_d.c line 85: Warning: <TAB> before         return 1;
+Sun Aug  9 09:00:27 2015:/adm/daemons/lockdown_d.c line 178: Warning: <TAB> before restore_object(SAVE_
+Sun Aug  9 09:00:27 2015:/adm/daemons/lockdown_d.c line 211: Warning: <TAB> before     return "That use
+Sun Aug  9 09:00:27 2015:/adm/daemons/lockdown_d.c line 222: Warning: <TAB> before     return "That use
+Sun Aug  9 09:00:27 2015:/adm/daemons/lockdown_d.c line 245: Warning: <TAB> before     return "That use
+Sun Aug  9 09:00:27 2015:/adm/daemons/lockdown_d.c line 257: Warning: <TAB> before     return "That use
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 40: Warning: <TAB> before index = strsrch(file
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 42: Warning: <TAB> before if(file_name(previou
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 43: Warning: <TAB> before     return "You can 
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 49: Warning: <TAB> before return "message was 
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 52: Warning: <TAB> before return "no recipient
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 58: Warning: <TAB> before s_editor = clone_obj
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 64: Warning: <TAB> before if(recipients[i][0] 
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 65: Warning: <TAB> before     tmp_recipients +
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 66: Warning: <TAB> before else
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 67: Warning: <TAB> before     tmp_recipients +
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 75: Warning: <TAB> before if(file_exists(get_m
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 76: Warning: <TAB> before {
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 77: Warning: <TAB> before     restore_object(g
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 79: Warning: <TAB> before     if(member_array(
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 80: Warning: <TAB> before 	to_be_notified += (
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 80: Warning: <TAB> before to_be_notified += ({
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 81: Warning: <TAB> before }
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 83: Warning: <TAB> before inbox_tmp = inbox;
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 84: Warning: <TAB> before num = sizeof(inbox_t
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 85: Warning: <TAB> before mail["READ"] = 0;
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 86: Warning: <TAB> before inbox_tmp[num] = mai
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 87: Warning: <TAB> before inbox = inbox_tmp;
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 88: Warning: <TAB> before if(file_exists(get_m
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 89: Warning: <TAB> before 	save_object(get_mai
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 89: Warning: <TAB> before save_object(get_mail
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 96: Warning: <TAB> before if(cc[i][0] == '(' &
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 97: Warning: <TAB> before     tmp_cc += filter
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 98: Warning: <TAB> before else
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 99: Warning: <TAB> before     tmp_cc += ({ low
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 106: Warning: <TAB> before if(file_exists(get_m
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 107: Warning: <TAB> before {
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 108: Warning: <TAB> before     if(member_array(
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 109: Warning: <TAB> before 	to_be_notified += (
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 109: Warning: <TAB> before to_be_notified += ({
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 111: Warning: <TAB> before     restore_object(g
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 112: Warning: <TAB> before }
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 114: Warning: <TAB> before inbox_tmp = inbox;
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 115: Warning: <TAB> before restore_object(get_m
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 116: Warning: <TAB> before num = sizeof(inbox_t
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 117: Warning: <TAB> before mail["READ"] = 0;
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 118: Warning: <TAB> before inbox_tmp[num] = mai
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 119: Warning: <TAB> before inbox = inbox_tmp;
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 120: Warning: <TAB> before save_object(get_mail
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 124: Warning: <TAB> before if(find_player(to_be
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 125: Warning: <TAB> before     tell_object(find
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 127: Warning: <TAB> before       "\n >>> %^BOLD
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 128: Warning: <TAB> before       "\n >>> %^CYAN
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 131: Warning: <TAB> before restore_object(get_m
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 143: Warning: <TAB> before destruct(s_editor);
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 155: Warning: <TAB> before if(parent_users[i][0
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 156: Warning: <TAB> before     users += get_all
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 157: Warning: <TAB> before else
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 158: Warning: <TAB> before     users += ({ pare
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 172: Warning: <TAB> before index = strsrch(file
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 174: Warning: <TAB> before if(file_name(previou
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 175: Warning: <TAB> before     return "You can 
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 178: Warning: <TAB> before return "You can only
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 181: Warning: <TAB> before restore_object(get_m
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 184: Warning: <TAB> before tmp_box = outbox;
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 186: Warning: <TAB> before tmp_box = inbox;
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 189: Warning: <TAB> before num1 = 1;
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 192: Warning: <TAB> before num2 = sizeof(tmp_bo
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 195: Warning: <TAB> before return "invalid rang
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 199: Warning: <TAB> before for(i = 1; i <= size
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 200: Warning: <TAB> before {
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 201: Warning: <TAB> before     if(i < num1)
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 202: Warning: <TAB> before 	tmp_box2[i] = tmp_b
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 202: Warning: <TAB> before tmp_box2[i] = tmp_bo
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 203: Warning: <TAB> before     else if(i > num2
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 204: Warning: <TAB> before 	tmp_box2[i-(num2-nu
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 204: Warning: <TAB> before tmp_box2[i-(num2-num
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 205: Warning: <TAB> before }
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 209: Warning: <TAB> before if(num1 == sizeof(tm
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 210: Warning: <TAB> before {
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 211: Warning: <TAB> before     map_delete(tmp_b
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 212: Warning: <TAB> before     tmp_box2 = tmp_b
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 213: Warning: <TAB> before }
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 214: Warning: <TAB> before else
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 215: Warning: <TAB> before {
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 216: Warning: <TAB> before     for(i = 1; i <= 
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 217: Warning: <TAB> before     {
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 218: Warning: <TAB> before 	if(i > num1)
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 218: Warning: <TAB> before if(i > num1)
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 219: Warning: <TAB> before 	    tmp_box2[i-1] =
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 219: Warning: <TAB> before     tmp_box2[i-1] = 
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 220: Warning: <TAB> before 	else
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 220: Warning: <TAB> before else
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 221: Warning: <TAB> before 	    tmp_box2[i] = t
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 221: Warning: <TAB> before     tmp_box2[i] = tm
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 222: Warning: <TAB> before     }
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 223: Warning: <TAB> before }
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 227: Warning: <TAB> before outbox = tmp_box2;
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 229: Warning: <TAB> before inbox = tmp_box2;
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 233: Warning: <TAB> before if(curr_msg > sizeof
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 234: Warning: <TAB> before     curr_out_msg = s
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 238: Warning: <TAB> before if(curr_msg > sizeof
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 239: Warning: <TAB> before     curr_in_msg = si
+Sun Aug  9 09:00:27 2015:/adm/daemons/mail_d.c line 252: Warning: <TAB> before restore_object(get_m
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 126: Warning: <TAB> before if( undefinedp( jobs
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 127: Warning: <TAB> before if( undefinedp( easy
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 128: Warning: <TAB> before if( undefinedp( modJ
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 129: Warning: <TAB> before if( undefinedp( hard
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 130: Warning: <TAB> before if( undefinedp( extJ
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 143: Warning: <TAB> before tick=0;
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 268: Warning: <TAB> before     MakeJob(0);
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 279: Warning: <TAB> before 	MakeJob(3);
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 279: Warning: <TAB> before MakeJob(3);
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 284: Warning: <TAB> before 	MakeJob(4);
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 284: Warning: <TAB> before MakeJob(4);
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 294: Warning: <TAB> before int powermod;
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 295: Warning: <TAB> before int ghostpow; 
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 309: Warning: <TAB> before powermod = dif / 3;
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 312: Warning: <TAB> before the end of line
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 314: Warning: <TAB> before the end of line
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 317: Warning: <TAB> before     
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 319: Warning: <TAB> before 	pool = pool-ghostpo
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 319: Warning: <TAB> before pool = pool-ghostpow
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 359: Warning: <TAB> before     newbieJobCount--
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 428: Warning: <TAB> before the end of line
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 432: Warning: <TAB> before if( undefinedp( jobs
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 433: Warning: <TAB> before {
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 434: Warning: <TAB> before 	write("There is no 
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 434: Warning: <TAB> before write("There is no j
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 435: Warning: <TAB> before 	return 1;
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 435: Warning: <TAB> before return 1;
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 436: Warning: <TAB> before }
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 446: Warning: <TAB> before if( newBid > job[MAX
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 447: Warning: <TAB> before {
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 448: Warning: <TAB> before 	write("Your bid of 
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 448: Warning: <TAB> before write("Your bid of $
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 449: Warning: <TAB> before 	return 1;
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 449: Warning: <TAB> before return 1;
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 450: Warning: <TAB> before }
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 452: Warning: <TAB> before if( job[BID] < ( new
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 453: Warning: <TAB> before {
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 454: Warning: <TAB> before 	write("Your bid of 
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 454: Warning: <TAB> before write("Your bid of $
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 455: Warning: <TAB> before 	return 1;
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 455: Warning: <TAB> before return 1;
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 456: Warning: <TAB> before }
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 458: Warning: <TAB> before if( job[BID] > newBi
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 459: Warning: <TAB> before {
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 460: Warning: <TAB> before 	jobs[jobID][BIDDER]
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 460: Warning: <TAB> before jobs[jobID][BIDDER] 
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 461: Warning: <TAB> before 	jobs[jobID][BID] = 
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 461: Warning: <TAB> before jobs[jobID][BID] = 1
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 462: Warning: <TAB> before 	write("Your post yo
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 462: Warning: <TAB> before write("Your post you
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 464: Warning: <TAB> before 	return 1;
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 464: Warning: <TAB> before return 1;
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 465: Warning: <TAB> before }	
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 465: Warning: <TAB> before the end of line
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 468: Warning: <TAB> before return 1;
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 502: Warning: <TAB> before  	jobDifString="Newb
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 502: Warning: <TAB> before jobDifString="Newbie
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 632: Warning: <TAB> before     {
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 633: Warning: <TAB> before 	
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 633: Warning: <TAB> before the end of line
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 643: Warning: <TAB> before }
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 647: Warning: <TAB> before the end of line
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 657: Warning: <TAB> before string *wonJobKeys;	
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 657: Warning: <TAB> before the end of line
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 658: Warning: <TAB> before string jobString;
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 661: Warning: <TAB> before wonJobKeys = keys(wo
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 662: Warning: <TAB> before the end of line
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 663: Warning: <TAB> before jobString =  "======
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 664: Warning: <TAB> before jobString += "UID |N
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 665: Warning: <TAB> before jobString += "======
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 667: Warning: <TAB> before for(int i = 0; i <si
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 668: Warning: <TAB> before {
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 671: Warning: <TAB> before 	jobString += sprint
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 671: Warning: <TAB> before jobString += sprintf
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 672: Warning: <TAB> before }
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 674: Warning: <TAB> before jobString += "======
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 675: Warning: <TAB> before write(jobString);
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 676: Warning: <TAB> before the end of line
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 677: Warning: <TAB> before the end of line
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 678: Warning: <TAB> before the end of line
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 679: Warning: <TAB> before return 1;	
+Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 679: Warning: <TAB> before the end of line

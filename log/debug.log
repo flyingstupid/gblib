@@ -1,0 +1,2761 @@
+----------------------------------------------------------------------------
+Not Like This (FluffOS v2.27) starting up on Linux/x86-64 - Sun Aug  9 09:00:27 2015
+
+
+Connected to address server on localhost port 7374
+/adm/simul_efun/system.c line 22: Warning: <TAB> before return "Sapidlib";
+/adm/simul_efun/system.c line 38: Warning: <TAB> before return OPEN_STATUS;
+/adm/simul_efun/system.c line 43: Warning: <TAB> before return ADMIN_EMAIL;
+/adm/simul_efun/exists.c line 14: Warning: <TAB> before return (file_size(di
+/adm/simul_efun/exists.c line 19: Warning: <TAB> before return (file_size(fi
+/adm/simul_efun/user.c line 15: Warning: <TAB> before if(!name ||!stringp(
+/adm/simul_efun/user.c line 23: Warning: <TAB> before if(!priv ||!stringp(
+/adm/simul_efun/user.c line 24: Warning: <TAB> before priv = lower_case((s
+/adm/simul_efun/user.c line 25: Warning: <TAB> before return("/data/users/
+/adm/simul_efun/user.c line 30: Warning: <TAB> before if(!priv ||!stringp(
+/adm/simul_efun/user.c line 31: Warning: <TAB> before priv = lower_case((s
+/adm/simul_efun/user.c line 32: Warning: <TAB> before return("/data/users/
+/adm/simul_efun/object.c line 22: Warning: <TAB> before int id;
+/adm/simul_efun/object.c line 24: Warning: <TAB> before sscanf(file_name(ob 
+/adm/simul_efun/object.c line 25: Warning: <TAB> before return id;
+/adm/obj/master.c line 102: Warning: <TAB> before write_file(user_path
+/adm/obj/master.c line 103: Warning: <TAB> before if(this_player()->qu
+/adm/obj/master.c line 104: Warning: <TAB> before     tell_object(this
+/adm/obj/master.c line 175: Warning: <TAB> before tell_object(ob, "Mas
+/adm/obj/master.c line 176: Warning: <TAB> before catch(ob->save_user(
+/adm/obj/master.c line 183: Warning: <TAB> before log_file("crashes", 
+/adm/obj/master.c line 187: Warning: <TAB> before log_file("crashes", 
+/adm/obj/master.c line 237: Warning: <TAB> before serverPath = "/" + i
+/adm/obj/master.c line 238: Warning: <TAB> before if(file_exists(serve
+/adm/obj/master.c line 239: Warning: <TAB> before {
+/adm/obj/master.c line 240: Warning: <TAB> before     write_file("/log
+/adm/obj/master.c line 242: Warning: <TAB> before     catch(server = l
+/adm/obj/master.c line 243: Warning: <TAB> before     if(objectp(serve
+/adm/obj/master.c line 244: Warning: <TAB> before     {
+/adm/obj/master.c line 245: Warning: <TAB> before 	virtualObject = ser
+/adm/obj/master.c line 245: Warning: <TAB> before virtualObject = serv
+/adm/obj/master.c line 247: Warning: <TAB> before 	if(objectp(virtualO
+/adm/obj/master.c line 247: Warning: <TAB> before if(objectp(virtualOb
+/adm/obj/master.c line 248: Warning: <TAB> before 	{
+/adm/obj/master.c line 248: Warning: <TAB> before {
+/adm/obj/master.c line 249: Warning: <TAB> before 	    write_file("/lo
+/adm/obj/master.c line 249: Warning: <TAB> before     write_file("/log
+/adm/obj/master.c line 250: Warning: <TAB> before 	      "Virtual obje
+/adm/obj/master.c line 250: Warning: <TAB> before       "Virtual objec
+/adm/obj/master.c line 251: Warning: <TAB> before 	    return virtualO
+/adm/obj/master.c line 251: Warning: <TAB> before     return virtualOb
+/adm/obj/master.c line 252: Warning: <TAB> before 	}
+/adm/obj/master.c line 252: Warning: <TAB> before }
+/adm/obj/master.c line 254: Warning: <TAB> before 	else
+/adm/obj/master.c line 254: Warning: <TAB> before else
+/adm/obj/master.c line 255: Warning: <TAB> before 	{
+/adm/obj/master.c line 255: Warning: <TAB> before {
+/adm/obj/master.c line 256: Warning: <TAB> before 	    write_file("/lo
+/adm/obj/master.c line 256: Warning: <TAB> before     write_file("/log
+/adm/obj/master.c line 257: Warning: <TAB> before 	      "No Virtual o
+/adm/obj/master.c line 257: Warning: <TAB> before       "No Virtual ob
+/adm/obj/master.c line 258: Warning: <TAB> before 	    return 0;
+/adm/obj/master.c line 258: Warning: <TAB> before     return 0;
+/adm/obj/master.c line 259: Warning: <TAB> before 	}
+/adm/obj/master.c line 259: Warning: <TAB> before }
+/adm/obj/master.c line 260: Warning: <TAB> before     }
+/adm/obj/master.c line 262: Warning: <TAB> before }
+/adm/obj/master.c line 264: Warning: <TAB> before write("No functional
+/adm/obj/master.c line 290: Warning: <TAB> before mixed array ltime = 
+/adm/obj/master.c line 291: Warning: <TAB> before string t1;
+/adm/obj/master.c line 292: Warning: <TAB> before string backup;
+/adm/obj/master.c line 293: Warning: <TAB> before int ret = sscanf(fil
+/adm/obj/master.c line 295: Warning: <TAB> before if (ret == 0)
+/adm/obj/master.c line 296: Warning: <TAB> before     backup =
+/adm/obj/master.c line 298: Warning: <TAB> before         file,
+/adm/obj/master.c line 301: Warning: <TAB> before         ltime[LT_MDA
+/adm/obj/master.c line 302: Warning: <TAB> before         ltime[LT_HOU
+/adm/obj/master.c line 303: Warning: <TAB> before         ltime[LT_MIN
+/adm/obj/master.c line 305: Warning: <TAB> before       );
+/adm/obj/master.c line 306: Warning: <TAB> before else
+/adm/obj/master.c line 307: Warning: <TAB> before     backup =
+/adm/obj/master.c line 308: Warning: <TAB> before       sprintf("archi
+/adm/obj/master.c line 309: Warning: <TAB> before         t1,
+/adm/obj/master.c line 310: Warning: <TAB> before         ltime[LT_YEA
+/adm/obj/master.c line 311: Warning: <TAB> before         ltime[LT_MON
+/adm/obj/master.c line 312: Warning: <TAB> before         ltime[LT_MDA
+/adm/obj/master.c line 313: Warning: <TAB> before         ltime[LT_HOU
+/adm/obj/master.c line 314: Warning: <TAB> before         ltime[LT_MIN
+/adm/obj/master.c line 315: Warning: <TAB> before         ltime[LT_SEC
+/adm/obj/master.c line 316: Warning: <TAB> before     );
+/adm/obj/master.c line 317: Warning: <TAB> before rename(fname, LOG_DI
+
+Loading preloaded files ...
+/adm/daemons/jobs_d.c line 747: Warning: <TAB> before int recovery=0;
+/adm/daemons/jobs_d.c line 748: Warning: <TAB> before int cleanOut=1;
+/adm/daemons/jobs_d.c line 749: Warning: <TAB> before int dangerous=0;
+/adm/daemons/jobs_d.c line 750: Warning: <TAB> before int finaldif;
+/adm/daemons/jobs_d.c line 754: Warning: <TAB> before finaldif = dif * 3 +
+/adm/daemons/jobs_d.c line 757: Warning: <TAB> before if(dif==0)
+/adm/daemons/jobs_d.c line 758: Warning: <TAB> before {
+/adm/daemons/jobs_d.c line 759: Warning: <TAB> before 	newbieJobCount++;	
+/adm/daemons/jobs_d.c line 759: Warning: <TAB> before newbieJobCount++;	
+/adm/daemons/jobs_d.c line 759: Warning: <TAB> before the end of line
+/adm/daemons/jobs_d.c line 760: Warning: <TAB> before }
+/adm/daemons/jobs_d.c line 761: Warning: <TAB> before else if(dif==1)
+/adm/daemons/jobs_d.c line 762: Warning: <TAB> before {
+/adm/daemons/jobs_d.c line 763: Warning: <TAB> before 	easyJobCount++;	
+/adm/daemons/jobs_d.c line 763: Warning: <TAB> before easyJobCount++;	
+/adm/daemons/jobs_d.c line 763: Warning: <TAB> before the end of line
+/adm/daemons/jobs_d.c line 764: Warning: <TAB> before }
+/adm/daemons/jobs_d.c line 765: Warning: <TAB> before else if(dif==2)
+/adm/daemons/jobs_d.c line 766: Warning: <TAB> before {
+/adm/daemons/jobs_d.c line 767: Warning: <TAB> before 	modJobCount++;
+/adm/daemons/jobs_d.c line 767: Warning: <TAB> before modJobCount++;
+/adm/daemons/jobs_d.c line 768: Warning: <TAB> before }
+/adm/daemons/jobs_d.c line 769: Warning: <TAB> before else if(dif==3)
+/adm/daemons/jobs_d.c line 770: Warning: <TAB> before {
+/adm/daemons/jobs_d.c line 771: Warning: <TAB> before 	hardJobCount++;
+/adm/daemons/jobs_d.c line 771: Warning: <TAB> before hardJobCount++;
+/adm/daemons/jobs_d.c line 772: Warning: <TAB> before }
+Error in error handler: *cannot move `/log/log' to `/log/archive/log-20150809090027'
+program: /adm/obj/master.c, object: /adm/obj/master, file: /adm/obj/master.c:317
+--- trace ---
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in preload() at /adm/obj/master.c:55
+arguments were ("/adm/daemons/jobs_d")
+locals were: 0,0
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in <catch>() at /adm/obj/master.c:55
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in log_error() at /adm/obj/master.c:107
+arguments were ("/adm/daemons/jobs_d.c","/adm/daemons/jobs_d.c line 773: Warning: <TAB> before else
+")
+locals were: 0
+Object: /adm/obj/simul_efun, Program: /adm/obj/simul_efun.c
+   in log_file() at /adm/simul_efun/file.c:103
+arguments were ("compile","/adm/daemons/jobs_d.c line 773: Warning: <TAB> before else
+")
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in log_file() at /adm/obj/master.c:317
+arguments were ("compile","Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 773: Warning: <TAB> before else
+")
+locals were: "/log/compile",19923,({ /* sizeof() == 11 */
+  27,
+  0,
+  9,
+  9,
+  7,
+  2015,
+  0,
+  220,
+  -10800,
+  "MSD",
+  1
+}),0,"archive/compile-20150809090027",0
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in error_handler() at /adm/obj/master.c:168
+arguments were (([ /* sizeof() == 6 */
+  "line" : 317,
+  "file" : "/adm/obj/master.c",
+  "program" : "/adm/obj/master.c",
+  "trace" : ({ /* sizeof() == 5 */
+      ([ /* sizeof() == 7 */
+        "line" : 55,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "locals" : ({ /* sizeof() == 2 */
+            0,
+            0
+          }),
+        "function" : "preload",
+        "arguments" : ({ /* sizeof() == 1 */
+            "/adm/daemons/jobs_d"
+          }),
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ]),
+      ([ /* sizeof() == 5 */
+        "line" : 55,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "function" : "CATCH",
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ]),
+      ([ /* sizeof() == 7 */
+        "line" : 107,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "locals" : ({ /* sizeof() == 1 */
+            0
+          }),
+        "function" : "log_error",
+        "arguments" : ({ /* sizeof() == 2 */
+            "/adm/daemons/jobs_d.c",
+            "/adm/daemons/jobs_d.c line 773: Warning: <TAB> before else
+"
+          }),
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ]),
+      ([ /* sizeof() == 6 */
+        "line" : 103,
+        "file" : "/adm/simul_efun/file.c",
+        "program" : "/adm/obj/simul_efun.c",
+        "function" : "log_file",
+        "arguments" : ({ /* sizeof() == 2 */
+            "compile",
+            "/adm/daemons/jobs_d.c line 773: Warning: <TAB> before else
+"
+          }),
+        "object" : /adm/obj/simul_efun ("/adm/obj/simul_efun"),
+      ]),
+      ([ /* sizeof() == 7 */
+        "line" : 317,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "locals" : ({ /* sizeof() == 6 */
+            "/log/compile",
+            19923,
+            ({ /* sizeof() == 11 */
+              27,
+              0,
+              9,
+              9,
+              7,
+              2015,
+              0,
+              220,
+              -10800,
+              "MSD",
+              1
+            }),
+            0,
+            "archive/compile-20150809090027",
+            0
+          }),
+        "function" : "log_file",
+        "arguments" : ({ /* sizeof() == 2 */
+            "compile",
+            "Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 773: Warning: <TAB> before else
+"
+          }),
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ])
+    }),
+  "error" : "*cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+",
+  "object" : /adm/obj/master ("/adm/obj/master"),
+]),0)
+locals were: 0,"---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+"
+Object: /adm/obj/simul_efun, Program: /adm/obj/simul_efun.c
+   in log_file() at /adm/simul_efun/file.c:103
+arguments were ("log","---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+")
+'       log_file' in '/    adm/obj/master.c' ('/      adm/obj/master') /adm/obj/master.c:317
+arguments were ("log","Sun Aug  9 09:00:27 2015:---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+")
+locals were: "/log/log",19872,({ /* sizeof() == 11 */
+  27,
+  0,
+  9,
+  9,
+  7,
+  2015,
+  0,
+  220,
+  -10800,
+  "MSD",
+  1
+}),0,"archive/log-20150809090027",0
+--- end trace ---
+/adm/daemons/jobs_d.c line 773: Warning: <TAB> before else
+Error in error handler: *cannot move `/log/log' to `/log/archive/log-20150809090027'
+program: /adm/obj/master.c, object: /adm/obj/master, file: /adm/obj/master.c:317
+--- trace ---
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in preload() at /adm/obj/master.c:55
+arguments were ("/adm/daemons/jobs_d")
+locals were: 0,0
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in <catch>() at /adm/obj/master.c:55
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in log_error() at /adm/obj/master.c:107
+arguments were ("/adm/daemons/jobs_d.c","/adm/daemons/jobs_d.c line 774: Warning: <TAB> before {
+")
+locals were: 0
+Object: /adm/obj/simul_efun, Program: /adm/obj/simul_efun.c
+   in log_file() at /adm/simul_efun/file.c:103
+arguments were ("compile","/adm/daemons/jobs_d.c line 774: Warning: <TAB> before {
+")
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in log_file() at /adm/obj/master.c:317
+arguments were ("compile","Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 774: Warning: <TAB> before {
+")
+locals were: "/log/compile",19923,({ /* sizeof() == 11 */
+  27,
+  0,
+  9,
+  9,
+  7,
+  2015,
+  0,
+  220,
+  -10800,
+  "MSD",
+  1
+}),0,"archive/compile-20150809090027",0
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in error_handler() at /adm/obj/master.c:168
+arguments were (([ /* sizeof() == 6 */
+  "line" : 317,
+  "file" : "/adm/obj/master.c",
+  "program" : "/adm/obj/master.c",
+  "trace" : ({ /* sizeof() == 5 */
+      ([ /* sizeof() == 7 */
+        "line" : 55,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "locals" : ({ /* sizeof() == 2 */
+            0,
+            0
+          }),
+        "function" : "preload",
+        "arguments" : ({ /* sizeof() == 1 */
+            "/adm/daemons/jobs_d"
+          }),
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ]),
+      ([ /* sizeof() == 5 */
+        "line" : 55,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "function" : "CATCH",
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ]),
+      ([ /* sizeof() == 7 */
+        "line" : 107,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "locals" : ({ /* sizeof() == 1 */
+            0
+          }),
+        "function" : "log_error",
+        "arguments" : ({ /* sizeof() == 2 */
+            "/adm/daemons/jobs_d.c",
+            "/adm/daemons/jobs_d.c line 774: Warning: <TAB> before {
+"
+          }),
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ]),
+      ([ /* sizeof() == 6 */
+        "line" : 103,
+        "file" : "/adm/simul_efun/file.c",
+        "program" : "/adm/obj/simul_efun.c",
+        "function" : "log_file",
+        "arguments" : ({ /* sizeof() == 2 */
+            "compile",
+            "/adm/daemons/jobs_d.c line 774: Warning: <TAB> before {
+"
+          }),
+        "object" : /adm/obj/simul_efun ("/adm/obj/simul_efun"),
+      ]),
+      ([ /* sizeof() == 7 */
+        "line" : 317,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "locals" : ({ /* sizeof() == 6 */
+            "/log/compile",
+            19923,
+            ({ /* sizeof() == 11 */
+              27,
+              0,
+              9,
+              9,
+              7,
+              2015,
+              0,
+              220,
+              -10800,
+              "MSD",
+              1
+            }),
+            0,
+            "archive/compile-20150809090027",
+            0
+          }),
+        "function" : "log_file",
+        "arguments" : ({ /* sizeof() == 2 */
+            "compile",
+            "Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 774: Warning: <TAB> before {
+"
+          }),
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ])
+    }),
+  "error" : "*cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+",
+  "object" : /adm/obj/master ("/adm/obj/master"),
+]),0)
+locals were: 0,"---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+"
+Object: /adm/obj/simul_efun, Program: /adm/obj/simul_efun.c
+   in log_file() at /adm/simul_efun/file.c:103
+arguments were ("log","---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+")
+'       log_file' in '/    adm/obj/master.c' ('/      adm/obj/master') /adm/obj/master.c:317
+arguments were ("log","Sun Aug  9 09:00:27 2015:---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+")
+locals were: "/log/log",19872,({ /* sizeof() == 11 */
+  27,
+  0,
+  9,
+  9,
+  7,
+  2015,
+  0,
+  220,
+  -10800,
+  "MSD",
+  1
+}),0,"archive/log-20150809090027",0
+--- end trace ---
+/adm/daemons/jobs_d.c line 774: Warning: <TAB> before {
+Error in error handler: *cannot move `/log/log' to `/log/archive/log-20150809090027'
+program: /adm/obj/master.c, object: /adm/obj/master, file: /adm/obj/master.c:317
+--- trace ---
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in preload() at /adm/obj/master.c:55
+arguments were ("/adm/daemons/jobs_d")
+locals were: 0,0
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in <catch>() at /adm/obj/master.c:55
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in log_error() at /adm/obj/master.c:107
+arguments were ("/adm/daemons/jobs_d.c","/adm/daemons/jobs_d.c line 775: Warning: <TAB> before 	extJobCount++;
+")
+locals were: 0
+Object: /adm/obj/simul_efun, Program: /adm/obj/simul_efun.c
+   in log_file() at /adm/simul_efun/file.c:103
+arguments were ("compile","/adm/daemons/jobs_d.c line 775: Warning: <TAB> before 	extJobCount++;
+")
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in log_file() at /adm/obj/master.c:317
+arguments were ("compile","Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 775: Warning: <TAB> before 	extJobCount++;
+")
+locals were: "/log/compile",19923,({ /* sizeof() == 11 */
+  27,
+  0,
+  9,
+  9,
+  7,
+  2015,
+  0,
+  220,
+  -10800,
+  "MSD",
+  1
+}),0,"archive/compile-20150809090027",0
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in error_handler() at /adm/obj/master.c:168
+arguments were (([ /* sizeof() == 6 */
+  "line" : 317,
+  "file" : "/adm/obj/master.c",
+  "program" : "/adm/obj/master.c",
+  "trace" : ({ /* sizeof() == 5 */
+      ([ /* sizeof() == 7 */
+        "line" : 55,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "locals" : ({ /* sizeof() == 2 */
+            0,
+            0
+          }),
+        "function" : "preload",
+        "arguments" : ({ /* sizeof() == 1 */
+            "/adm/daemons/jobs_d"
+          }),
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ]),
+      ([ /* sizeof() == 5 */
+        "line" : 55,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "function" : "CATCH",
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ]),
+      ([ /* sizeof() == 7 */
+        "line" : 107,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "locals" : ({ /* sizeof() == 1 */
+            0
+          }),
+        "function" : "log_error",
+        "arguments" : ({ /* sizeof() == 2 */
+            "/adm/daemons/jobs_d.c",
+            "/adm/daemons/jobs_d.c line 775: Warning: <TAB> before 	extJobCount++;
+"
+          }),
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ]),
+      ([ /* sizeof() == 6 */
+        "line" : 103,
+        "file" : "/adm/simul_efun/file.c",
+        "program" : "/adm/obj/simul_efun.c",
+        "function" : "log_file",
+        "arguments" : ({ /* sizeof() == 2 */
+            "compile",
+            "/adm/daemons/jobs_d.c line 775: Warning: <TAB> before 	extJobCount++;
+"
+          }),
+        "object" : /adm/obj/simul_efun ("/adm/obj/simul_efun"),
+      ]),
+      ([ /* sizeof() == 7 */
+        "line" : 317,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "locals" : ({ /* sizeof() == 6 */
+            "/log/compile",
+            19923,
+            ({ /* sizeof() == 11 */
+              27,
+              0,
+              9,
+              9,
+              7,
+              2015,
+              0,
+              220,
+              -10800,
+              "MSD",
+              1
+            }),
+            0,
+            "archive/compile-20150809090027",
+            0
+          }),
+        "function" : "log_file",
+        "arguments" : ({ /* sizeof() == 2 */
+            "compile",
+            "Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 775: Warning: <TAB> before 	extJobCount++;
+"
+          }),
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ])
+    }),
+  "error" : "*cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+",
+  "object" : /adm/obj/master ("/adm/obj/master"),
+]),0)
+locals were: 0,"---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+"
+Object: /adm/obj/simul_efun, Program: /adm/obj/simul_efun.c
+   in log_file() at /adm/simul_efun/file.c:103
+arguments were ("log","---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+")
+'       log_file' in '/    adm/obj/master.c' ('/      adm/obj/master') /adm/obj/master.c:317
+arguments were ("log","Sun Aug  9 09:00:27 2015:---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+")
+locals were: "/log/log",19872,({ /* sizeof() == 11 */
+  27,
+  0,
+  9,
+  9,
+  7,
+  2015,
+  0,
+  220,
+  -10800,
+  "MSD",
+  1
+}),0,"archive/log-20150809090027",0
+--- end trace ---
+/adm/daemons/jobs_d.c line 775: Warning: <TAB> before 	extJobCount++;
+Error in error handler: *cannot move `/log/log' to `/log/archive/log-20150809090027'
+program: /adm/obj/master.c, object: /adm/obj/master, file: /adm/obj/master.c:317
+--- trace ---
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in preload() at /adm/obj/master.c:55
+arguments were ("/adm/daemons/jobs_d")
+locals were: 0,0
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in <catch>() at /adm/obj/master.c:55
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in log_error() at /adm/obj/master.c:107
+arguments were ("/adm/daemons/jobs_d.c","/adm/daemons/jobs_d.c line 775: Warning: <TAB> before extJobCount++;
+")
+locals were: 0
+Object: /adm/obj/simul_efun, Program: /adm/obj/simul_efun.c
+   in log_file() at /adm/simul_efun/file.c:103
+arguments were ("compile","/adm/daemons/jobs_d.c line 775: Warning: <TAB> before extJobCount++;
+")
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in log_file() at /adm/obj/master.c:317
+arguments were ("compile","Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 775: Warning: <TAB> before extJobCount++;
+")
+locals were: "/log/compile",19923,({ /* sizeof() == 11 */
+  27,
+  0,
+  9,
+  9,
+  7,
+  2015,
+  0,
+  220,
+  -10800,
+  "MSD",
+  1
+}),0,"archive/compile-20150809090027",0
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in error_handler() at /adm/obj/master.c:168
+arguments were (([ /* sizeof() == 6 */
+  "line" : 317,
+  "file" : "/adm/obj/master.c",
+  "program" : "/adm/obj/master.c",
+  "trace" : ({ /* sizeof() == 5 */
+      ([ /* sizeof() == 7 */
+        "line" : 55,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "locals" : ({ /* sizeof() == 2 */
+            0,
+            0
+          }),
+        "function" : "preload",
+        "arguments" : ({ /* sizeof() == 1 */
+            "/adm/daemons/jobs_d"
+          }),
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ]),
+      ([ /* sizeof() == 5 */
+        "line" : 55,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "function" : "CATCH",
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ]),
+      ([ /* sizeof() == 7 */
+        "line" : 107,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "locals" : ({ /* sizeof() == 1 */
+            0
+          }),
+        "function" : "log_error",
+        "arguments" : ({ /* sizeof() == 2 */
+            "/adm/daemons/jobs_d.c",
+            "/adm/daemons/jobs_d.c line 775: Warning: <TAB> before extJobCount++;
+"
+          }),
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ]),
+      ([ /* sizeof() == 6 */
+        "line" : 103,
+        "file" : "/adm/simul_efun/file.c",
+        "program" : "/adm/obj/simul_efun.c",
+        "function" : "log_file",
+        "arguments" : ({ /* sizeof() == 2 */
+            "compile",
+            "/adm/daemons/jobs_d.c line 775: Warning: <TAB> before extJobCount++;
+"
+          }),
+        "object" : /adm/obj/simul_efun ("/adm/obj/simul_efun"),
+      ]),
+      ([ /* sizeof() == 7 */
+        "line" : 317,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "locals" : ({ /* sizeof() == 6 */
+            "/log/compile",
+            19923,
+            ({ /* sizeof() == 11 */
+              27,
+              0,
+              9,
+              9,
+              7,
+              2015,
+              0,
+              220,
+              -10800,
+              "MSD",
+              1
+            }),
+            0,
+            "archive/compile-20150809090027",
+            0
+          }),
+        "function" : "log_file",
+        "arguments" : ({ /* sizeof() == 2 */
+            "compile",
+            "Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 775: Warning: <TAB> before extJobCount++;
+"
+          }),
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ])
+    }),
+  "error" : "*cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+",
+  "object" : /adm/obj/master ("/adm/obj/master"),
+]),0)
+locals were: 0,"---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+"
+Object: /adm/obj/simul_efun, Program: /adm/obj/simul_efun.c
+   in log_file() at /adm/simul_efun/file.c:103
+arguments were ("log","---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+")
+'       log_file' in '/    adm/obj/master.c' ('/      adm/obj/master') /adm/obj/master.c:317
+arguments were ("log","Sun Aug  9 09:00:27 2015:---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+")
+locals were: "/log/log",19872,({ /* sizeof() == 11 */
+  27,
+  0,
+  9,
+  9,
+  7,
+  2015,
+  0,
+  220,
+  -10800,
+  "MSD",
+  1
+}),0,"archive/log-20150809090027",0
+--- end trace ---
+/adm/daemons/jobs_d.c line 775: Warning: <TAB> before extJobCount++;
+Error in error handler: *cannot move `/log/log' to `/log/archive/log-20150809090027'
+program: /adm/obj/master.c, object: /adm/obj/master, file: /adm/obj/master.c:317
+--- trace ---
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in preload() at /adm/obj/master.c:55
+arguments were ("/adm/daemons/jobs_d")
+locals were: 0,0
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in <catch>() at /adm/obj/master.c:55
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in log_error() at /adm/obj/master.c:107
+arguments were ("/adm/daemons/jobs_d.c","/adm/daemons/jobs_d.c line 776: Warning: <TAB> before }
+")
+locals were: 0
+Object: /adm/obj/simul_efun, Program: /adm/obj/simul_efun.c
+   in log_file() at /adm/simul_efun/file.c:103
+arguments were ("compile","/adm/daemons/jobs_d.c line 776: Warning: <TAB> before }
+")
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in log_file() at /adm/obj/master.c:317
+arguments were ("compile","Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 776: Warning: <TAB> before }
+")
+locals were: "/log/compile",19923,({ /* sizeof() == 11 */
+  27,
+  0,
+  9,
+  9,
+  7,
+  2015,
+  0,
+  220,
+  -10800,
+  "MSD",
+  1
+}),0,"archive/compile-20150809090027",0
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in error_handler() at /adm/obj/master.c:168
+arguments were (([ /* sizeof() == 6 */
+  "line" : 317,
+  "file" : "/adm/obj/master.c",
+  "program" : "/adm/obj/master.c",
+  "trace" : ({ /* sizeof() == 5 */
+      ([ /* sizeof() == 7 */
+        "line" : 55,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "locals" : ({ /* sizeof() == 2 */
+            0,
+            0
+          }),
+        "function" : "preload",
+        "arguments" : ({ /* sizeof() == 1 */
+            "/adm/daemons/jobs_d"
+          }),
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ]),
+      ([ /* sizeof() == 5 */
+        "line" : 55,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "function" : "CATCH",
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ]),
+      ([ /* sizeof() == 7 */
+        "line" : 107,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "locals" : ({ /* sizeof() == 1 */
+            0
+          }),
+        "function" : "log_error",
+        "arguments" : ({ /* sizeof() == 2 */
+            "/adm/daemons/jobs_d.c",
+            "/adm/daemons/jobs_d.c line 776: Warning: <TAB> before }
+"
+          }),
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ]),
+      ([ /* sizeof() == 6 */
+        "line" : 103,
+        "file" : "/adm/simul_efun/file.c",
+        "program" : "/adm/obj/simul_efun.c",
+        "function" : "log_file",
+        "arguments" : ({ /* sizeof() == 2 */
+            "compile",
+            "/adm/daemons/jobs_d.c line 776: Warning: <TAB> before }
+"
+          }),
+        "object" : /adm/obj/simul_efun ("/adm/obj/simul_efun"),
+      ]),
+      ([ /* sizeof() == 7 */
+        "line" : 317,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "locals" : ({ /* sizeof() == 6 */
+            "/log/compile",
+            19923,
+            ({ /* sizeof() == 11 */
+              27,
+              0,
+              9,
+              9,
+              7,
+              2015,
+              0,
+              220,
+              -10800,
+              "MSD",
+              1
+            }),
+            0,
+            "archive/compile-20150809090027",
+            0
+          }),
+        "function" : "log_file",
+        "arguments" : ({ /* sizeof() == 2 */
+            "compile",
+            "Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 776: Warning: <TAB> before }
+"
+          }),
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ])
+    }),
+  "error" : "*cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+",
+  "object" : /adm/obj/master ("/adm/obj/master"),
+]),0)
+locals were: 0,"---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+"
+Object: /adm/obj/simul_efun, Program: /adm/obj/simul_efun.c
+   in log_file() at /adm/simul_efun/file.c:103
+arguments were ("log","---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+")
+'       log_file' in '/    adm/obj/master.c' ('/      adm/obj/master') /adm/obj/master.c:317
+arguments were ("log","Sun Aug  9 09:00:27 2015:---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+")
+locals were: "/log/log",19872,({ /* sizeof() == 11 */
+  27,
+  0,
+  9,
+  9,
+  7,
+  2015,
+  0,
+  220,
+  -10800,
+  "MSD",
+  1
+}),0,"archive/log-20150809090027",0
+--- end trace ---
+/adm/daemons/jobs_d.c line 776: Warning: <TAB> before }
+Error in error handler: *cannot move `/log/log' to `/log/archive/log-20150809090027'
+program: /adm/obj/master.c, object: /adm/obj/master, file: /adm/obj/master.c:317
+--- trace ---
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in preload() at /adm/obj/master.c:55
+arguments were ("/adm/daemons/jobs_d")
+locals were: 0,0
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in <catch>() at /adm/obj/master.c:55
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in log_error() at /adm/obj/master.c:107
+arguments were ("/adm/daemons/jobs_d.c","/adm/daemons/jobs_d.c line 796: Warning: <TAB> before return wonJobs;	
+")
+locals were: 0
+Object: /adm/obj/simul_efun, Program: /adm/obj/simul_efun.c
+   in log_file() at /adm/simul_efun/file.c:103
+arguments were ("compile","/adm/daemons/jobs_d.c line 796: Warning: <TAB> before return wonJobs;	
+")
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in log_file() at /adm/obj/master.c:317
+arguments were ("compile","Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 796: Warning: <TAB> before return wonJobs;	
+")
+locals were: "/log/compile",19923,({ /* sizeof() == 11 */
+  27,
+  0,
+  9,
+  9,
+  7,
+  2015,
+  0,
+  220,
+  -10800,
+  "MSD",
+  1
+}),0,"archive/compile-20150809090027",0
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in error_handler() at /adm/obj/master.c:168
+arguments were (([ /* sizeof() == 6 */
+  "line" : 317,
+  "file" : "/adm/obj/master.c",
+  "program" : "/adm/obj/master.c",
+  "trace" : ({ /* sizeof() == 5 */
+      ([ /* sizeof() == 7 */
+        "line" : 55,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "locals" : ({ /* sizeof() == 2 */
+            0,
+            0
+          }),
+        "function" : "preload",
+        "arguments" : ({ /* sizeof() == 1 */
+            "/adm/daemons/jobs_d"
+          }),
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ]),
+      ([ /* sizeof() == 5 */
+        "line" : 55,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "function" : "CATCH",
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ]),
+      ([ /* sizeof() == 7 */
+        "line" : 107,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "locals" : ({ /* sizeof() == 1 */
+            0
+          }),
+        "function" : "log_error",
+        "arguments" : ({ /* sizeof() == 2 */
+            "/adm/daemons/jobs_d.c",
+            "/adm/daemons/jobs_d.c line 796: Warning: <TAB> before return wonJobs;	
+"
+          }),
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ]),
+      ([ /* sizeof() == 6 */
+        "line" : 103,
+        "file" : "/adm/simul_efun/file.c",
+        "program" : "/adm/obj/simul_efun.c",
+        "function" : "log_file",
+        "arguments" : ({ /* sizeof() == 2 */
+            "compile",
+            "/adm/daemons/jobs_d.c line 796: Warning: <TAB> before return wonJobs;	
+"
+          }),
+        "object" : /adm/obj/simul_efun ("/adm/obj/simul_efun"),
+      ]),
+      ([ /* sizeof() == 7 */
+        "line" : 317,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "locals" : ({ /* sizeof() == 6 */
+            "/log/compile",
+            19923,
+            ({ /* sizeof() == 11 */
+              27,
+              0,
+              9,
+              9,
+              7,
+              2015,
+              0,
+              220,
+              -10800,
+              "MSD",
+              1
+            }),
+            0,
+            "archive/compile-20150809090027",
+            0
+          }),
+        "function" : "log_file",
+        "arguments" : ({ /* sizeof() == 2 */
+            "compile",
+            "Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 796: Warning: <TAB> before return wonJobs;	
+"
+          }),
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ])
+    }),
+  "error" : "*cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+",
+  "object" : /adm/obj/master ("/adm/obj/master"),
+]),0)
+locals were: 0,"---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+"
+Object: /adm/obj/simul_efun, Program: /adm/obj/simul_efun.c
+   in log_file() at /adm/simul_efun/file.c:103
+arguments were ("log","---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+")
+'       log_file' in '/    adm/obj/master.c' ('/      adm/obj/master') /adm/obj/master.c:317
+arguments were ("log","Sun Aug  9 09:00:27 2015:---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+")
+locals were: "/log/log",19872,({ /* sizeof() == 11 */
+  27,
+  0,
+  9,
+  9,
+  7,
+  2015,
+  0,
+  220,
+  -10800,
+  "MSD",
+  1
+}),0,"archive/log-20150809090027",0
+--- end trace ---
+/adm/daemons/jobs_d.c line 796: Warning: <TAB> before return wonJobs;	
+Error in error handler: *cannot move `/log/log' to `/log/archive/log-20150809090027'
+program: /adm/obj/master.c, object: /adm/obj/master, file: /adm/obj/master.c:317
+--- trace ---
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in preload() at /adm/obj/master.c:55
+arguments were ("/adm/daemons/jobs_d")
+locals were: 0,0
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in <catch>() at /adm/obj/master.c:55
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in log_error() at /adm/obj/master.c:107
+arguments were ("/adm/daemons/jobs_d.c","/adm/daemons/jobs_d.c line 796: Warning: <TAB> before the end of line
+")
+locals were: 0
+Object: /adm/obj/simul_efun, Program: /adm/obj/simul_efun.c
+   in log_file() at /adm/simul_efun/file.c:103
+arguments were ("compile","/adm/daemons/jobs_d.c line 796: Warning: <TAB> before the end of line
+")
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in log_file() at /adm/obj/master.c:317
+arguments were ("compile","Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 796: Warning: <TAB> before the end of line
+")
+locals were: "/log/compile",19923,({ /* sizeof() == 11 */
+  27,
+  0,
+  9,
+  9,
+  7,
+  2015,
+  0,
+  220,
+  -10800,
+  "MSD",
+  1
+}),0,"archive/compile-20150809090027",0
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in error_handler() at /adm/obj/master.c:168
+arguments were (([ /* sizeof() == 6 */
+  "line" : 317,
+  "file" : "/adm/obj/master.c",
+  "program" : "/adm/obj/master.c",
+  "trace" : ({ /* sizeof() == 5 */
+      ([ /* sizeof() == 7 */
+        "line" : 55,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "locals" : ({ /* sizeof() == 2 */
+            0,
+            0
+          }),
+        "function" : "preload",
+        "arguments" : ({ /* sizeof() == 1 */
+            "/adm/daemons/jobs_d"
+          }),
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ]),
+      ([ /* sizeof() == 5 */
+        "line" : 55,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "function" : "CATCH",
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ]),
+      ([ /* sizeof() == 7 */
+        "line" : 107,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "locals" : ({ /* sizeof() == 1 */
+            0
+          }),
+        "function" : "log_error",
+        "arguments" : ({ /* sizeof() == 2 */
+            "/adm/daemons/jobs_d.c",
+            "/adm/daemons/jobs_d.c line 796: Warning: <TAB> before the end of line
+"
+          }),
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ]),
+      ([ /* sizeof() == 6 */
+        "line" : 103,
+        "file" : "/adm/simul_efun/file.c",
+        "program" : "/adm/obj/simul_efun.c",
+        "function" : "log_file",
+        "arguments" : ({ /* sizeof() == 2 */
+            "compile",
+            "/adm/daemons/jobs_d.c line 796: Warning: <TAB> before the end of line
+"
+          }),
+        "object" : /adm/obj/simul_efun ("/adm/obj/simul_efun"),
+      ]),
+      ([ /* sizeof() == 7 */
+        "line" : 317,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "locals" : ({ /* sizeof() == 6 */
+            "/log/compile",
+            19923,
+            ({ /* sizeof() == 11 */
+              27,
+              0,
+              9,
+              9,
+              7,
+              2015,
+              0,
+              220,
+              -10800,
+              "MSD",
+              1
+            }),
+            0,
+            "archive/compile-20150809090027",
+            0
+          }),
+        "function" : "log_file",
+        "arguments" : ({ /* sizeof() == 2 */
+            "compile",
+            "Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 796: Warning: <TAB> before the end of line
+"
+          }),
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ])
+    }),
+  "error" : "*cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+",
+  "object" : /adm/obj/master ("/adm/obj/master"),
+]),0)
+locals were: 0,"---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+"
+Object: /adm/obj/simul_efun, Program: /adm/obj/simul_efun.c
+   in log_file() at /adm/simul_efun/file.c:103
+arguments were ("log","---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+")
+'       log_file' in '/    adm/obj/master.c' ('/      adm/obj/master') /adm/obj/master.c:317
+arguments were ("log","Sun Aug  9 09:00:27 2015:---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+")
+locals were: "/log/log",19872,({ /* sizeof() == 11 */
+  27,
+  0,
+  9,
+  9,
+  7,
+  2015,
+  0,
+  220,
+  -10800,
+  "MSD",
+  1
+}),0,"archive/log-20150809090027",0
+--- end trace ---
+/adm/daemons/jobs_d.c line 796: Warning: <TAB> before the end of line
+Error in error handler: *cannot move `/log/log' to `/log/archive/log-20150809090027'
+program: /adm/obj/master.c, object: /adm/obj/master, file: /adm/obj/master.c:317
+--- trace ---
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in preload() at /adm/obj/master.c:55
+arguments were ("/adm/daemons/jobs_d")
+locals were: 0,0
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in <catch>() at /adm/obj/master.c:55
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in log_error() at /adm/obj/master.c:107
+arguments were ("/adm/daemons/jobs_d.c","/adm/daemons/jobs_d.c line 801: Warning: <TAB> before write("newbieJobsMax
+")
+locals were: 0
+Object: /adm/obj/simul_efun, Program: /adm/obj/simul_efun.c
+   in log_file() at /adm/simul_efun/file.c:103
+arguments were ("compile","/adm/daemons/jobs_d.c line 801: Warning: <TAB> before write("newbieJobsMax
+")
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in log_file() at /adm/obj/master.c:317
+arguments were ("compile","Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 801: Warning: <TAB> before write("newbieJobsMax
+")
+locals were: "/log/compile",19923,({ /* sizeof() == 11 */
+  27,
+  0,
+  9,
+  9,
+  7,
+  2015,
+  0,
+  220,
+  -10800,
+  "MSD",
+  1
+}),0,"archive/compile-20150809090027",0
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in error_handler() at /adm/obj/master.c:168
+arguments were (([ /* sizeof() == 6 */
+  "line" : 317,
+  "file" : "/adm/obj/master.c",
+  "program" : "/adm/obj/master.c",
+  "trace" : ({ /* sizeof() == 5 */
+      ([ /* sizeof() == 7 */
+        "line" : 55,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "locals" : ({ /* sizeof() == 2 */
+            0,
+            0
+          }),
+        "function" : "preload",
+        "arguments" : ({ /* sizeof() == 1 */
+            "/adm/daemons/jobs_d"
+          }),
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ]),
+      ([ /* sizeof() == 5 */
+        "line" : 55,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "function" : "CATCH",
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ]),
+      ([ /* sizeof() == 7 */
+        "line" : 107,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "locals" : ({ /* sizeof() == 1 */
+            0
+          }),
+        "function" : "log_error",
+        "arguments" : ({ /* sizeof() == 2 */
+            "/adm/daemons/jobs_d.c",
+            "/adm/daemons/jobs_d.c line 801: Warning: <TAB> before write("newbieJobsMax
+"
+          }),
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ]),
+      ([ /* sizeof() == 6 */
+        "line" : 103,
+        "file" : "/adm/simul_efun/file.c",
+        "program" : "/adm/obj/simul_efun.c",
+        "function" : "log_file",
+        "arguments" : ({ /* sizeof() == 2 */
+            "compile",
+            "/adm/daemons/jobs_d.c line 801: Warning: <TAB> before write("newbieJobsMax
+"
+          }),
+        "object" : /adm/obj/simul_efun ("/adm/obj/simul_efun"),
+      ]),
+      ([ /* sizeof() == 7 */
+        "line" : 317,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "locals" : ({ /* sizeof() == 6 */
+            "/log/compile",
+            19923,
+            ({ /* sizeof() == 11 */
+              27,
+              0,
+              9,
+              9,
+              7,
+              2015,
+              0,
+              220,
+              -10800,
+              "MSD",
+              1
+            }),
+            0,
+            "archive/compile-20150809090027",
+            0
+          }),
+        "function" : "log_file",
+        "arguments" : ({ /* sizeof() == 2 */
+            "compile",
+            "Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 801: Warning: <TAB> before write("newbieJobsMax
+"
+          }),
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ])
+    }),
+  "error" : "*cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+",
+  "object" : /adm/obj/master ("/adm/obj/master"),
+]),0)
+locals were: 0,"---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+"
+Object: /adm/obj/simul_efun, Program: /adm/obj/simul_efun.c
+   in log_file() at /adm/simul_efun/file.c:103
+arguments were ("log","---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+")
+'       log_file' in '/    adm/obj/master.c' ('/      adm/obj/master') /adm/obj/master.c:317
+arguments were ("log","Sun Aug  9 09:00:27 2015:---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+")
+locals were: "/log/log",19872,({ /* sizeof() == 11 */
+  27,
+  0,
+  9,
+  9,
+  7,
+  2015,
+  0,
+  220,
+  -10800,
+  "MSD",
+  1
+}),0,"archive/log-20150809090027",0
+--- end trace ---
+/adm/daemons/jobs_d.c line 801: Warning: <TAB> before write("newbieJobsMax
+Error in error handler: *cannot move `/log/log' to `/log/archive/log-20150809090027'
+program: /adm/obj/master.c, object: /adm/obj/master, file: /adm/obj/master.c:317
+--- trace ---
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in preload() at /adm/obj/master.c:55
+arguments were ("/adm/daemons/jobs_d")
+locals were: 0,0
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in <catch>() at /adm/obj/master.c:55
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in log_error() at /adm/obj/master.c:107
+arguments were ("/adm/daemons/jobs_d.c","/adm/daemons/jobs_d.c line 802: Warning: <TAB> before write("newbieJobCoun
+")
+locals were: 0
+Object: /adm/obj/simul_efun, Program: /adm/obj/simul_efun.c
+   in log_file() at /adm/simul_efun/file.c:103
+arguments were ("compile","/adm/daemons/jobs_d.c line 802: Warning: <TAB> before write("newbieJobCoun
+")
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in log_file() at /adm/obj/master.c:317
+arguments were ("compile","Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 802: Warning: <TAB> before write("newbieJobCoun
+")
+locals were: "/log/compile",19923,({ /* sizeof() == 11 */
+  27,
+  0,
+  9,
+  9,
+  7,
+  2015,
+  0,
+  220,
+  -10800,
+  "MSD",
+  1
+}),0,"archive/compile-20150809090027",0
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in error_handler() at /adm/obj/master.c:168
+arguments were (([ /* sizeof() == 6 */
+  "line" : 317,
+  "file" : "/adm/obj/master.c",
+  "program" : "/adm/obj/master.c",
+  "trace" : ({ /* sizeof() == 5 */
+      ([ /* sizeof() == 7 */
+        "line" : 55,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "locals" : ({ /* sizeof() == 2 */
+            0,
+            0
+          }),
+        "function" : "preload",
+        "arguments" : ({ /* sizeof() == 1 */
+            "/adm/daemons/jobs_d"
+          }),
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ]),
+      ([ /* sizeof() == 5 */
+        "line" : 55,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "function" : "CATCH",
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ]),
+      ([ /* sizeof() == 7 */
+        "line" : 107,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "locals" : ({ /* sizeof() == 1 */
+            0
+          }),
+        "function" : "log_error",
+        "arguments" : ({ /* sizeof() == 2 */
+            "/adm/daemons/jobs_d.c",
+            "/adm/daemons/jobs_d.c line 802: Warning: <TAB> before write("newbieJobCoun
+"
+          }),
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ]),
+      ([ /* sizeof() == 6 */
+        "line" : 103,
+        "file" : "/adm/simul_efun/file.c",
+        "program" : "/adm/obj/simul_efun.c",
+        "function" : "log_file",
+        "arguments" : ({ /* sizeof() == 2 */
+            "compile",
+            "/adm/daemons/jobs_d.c line 802: Warning: <TAB> before write("newbieJobCoun
+"
+          }),
+        "object" : /adm/obj/simul_efun ("/adm/obj/simul_efun"),
+      ]),
+      ([ /* sizeof() == 7 */
+        "line" : 317,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "locals" : ({ /* sizeof() == 6 */
+            "/log/compile",
+            19923,
+            ({ /* sizeof() == 11 */
+              27,
+              0,
+              9,
+              9,
+              7,
+              2015,
+              0,
+              220,
+              -10800,
+              "MSD",
+              1
+            }),
+            0,
+            "archive/compile-20150809090027",
+            0
+          }),
+        "function" : "log_file",
+        "arguments" : ({ /* sizeof() == 2 */
+            "compile",
+            "Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 802: Warning: <TAB> before write("newbieJobCoun
+"
+          }),
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ])
+    }),
+  "error" : "*cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+",
+  "object" : /adm/obj/master ("/adm/obj/master"),
+]),0)
+locals were: 0,"---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+"
+Object: /adm/obj/simul_efun, Program: /adm/obj/simul_efun.c
+   in log_file() at /adm/simul_efun/file.c:103
+arguments were ("log","---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+")
+'       log_file' in '/    adm/obj/master.c' ('/      adm/obj/master') /adm/obj/master.c:317
+arguments were ("log","Sun Aug  9 09:00:27 2015:---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+")
+locals were: "/log/log",19872,({ /* sizeof() == 11 */
+  27,
+  0,
+  9,
+  9,
+  7,
+  2015,
+  0,
+  220,
+  -10800,
+  "MSD",
+  1
+}),0,"archive/log-20150809090027",0
+--- end trace ---
+/adm/daemons/jobs_d.c line 802: Warning: <TAB> before write("newbieJobCoun
+Error in error handler: *cannot move `/log/log' to `/log/archive/log-20150809090027'
+program: /adm/obj/master.c, object: /adm/obj/master, file: /adm/obj/master.c:317
+--- trace ---
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in preload() at /adm/obj/master.c:55
+arguments were ("/adm/daemons/jobs_d")
+locals were: 0,0
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in <catch>() at /adm/obj/master.c:55
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in log_error() at /adm/obj/master.c:107
+arguments were ("/adm/daemons/jobs_d.c","/adm/daemons/jobs_d.c line 833: Warning: <TAB> before //was hoping there w
+")
+locals were: 0
+Object: /adm/obj/simul_efun, Program: /adm/obj/simul_efun.c
+   in log_file() at /adm/simul_efun/file.c:103
+arguments were ("compile","/adm/daemons/jobs_d.c line 833: Warning: <TAB> before //was hoping there w
+")
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in log_file() at /adm/obj/master.c:317
+arguments were ("compile","Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 833: Warning: <TAB> before //was hoping there w
+")
+locals were: "/log/compile",19923,({ /* sizeof() == 11 */
+  27,
+  0,
+  9,
+  9,
+  7,
+  2015,
+  0,
+  220,
+  -10800,
+  "MSD",
+  1
+}),0,"archive/compile-20150809090027",0
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in error_handler() at /adm/obj/master.c:168
+arguments were (([ /* sizeof() == 6 */
+  "line" : 317,
+  "file" : "/adm/obj/master.c",
+  "program" : "/adm/obj/master.c",
+  "trace" : ({ /* sizeof() == 5 */
+      ([ /* sizeof() == 7 */
+        "line" : 55,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "locals" : ({ /* sizeof() == 2 */
+            0,
+            0
+          }),
+        "function" : "preload",
+        "arguments" : ({ /* sizeof() == 1 */
+            "/adm/daemons/jobs_d"
+          }),
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ]),
+      ([ /* sizeof() == 5 */
+        "line" : 55,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "function" : "CATCH",
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ]),
+      ([ /* sizeof() == 7 */
+        "line" : 107,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "locals" : ({ /* sizeof() == 1 */
+            0
+          }),
+        "function" : "log_error",
+        "arguments" : ({ /* sizeof() == 2 */
+            "/adm/daemons/jobs_d.c",
+            "/adm/daemons/jobs_d.c line 833: Warning: <TAB> before //was hoping there w
+"
+          }),
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ]),
+      ([ /* sizeof() == 6 */
+        "line" : 103,
+        "file" : "/adm/simul_efun/file.c",
+        "program" : "/adm/obj/simul_efun.c",
+        "function" : "log_file",
+        "arguments" : ({ /* sizeof() == 2 */
+            "compile",
+            "/adm/daemons/jobs_d.c line 833: Warning: <TAB> before //was hoping there w
+"
+          }),
+        "object" : /adm/obj/simul_efun ("/adm/obj/simul_efun"),
+      ]),
+      ([ /* sizeof() == 7 */
+        "line" : 317,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "locals" : ({ /* sizeof() == 6 */
+            "/log/compile",
+            19923,
+            ({ /* sizeof() == 11 */
+              27,
+              0,
+              9,
+              9,
+              7,
+              2015,
+              0,
+              220,
+              -10800,
+              "MSD",
+              1
+            }),
+            0,
+            "archive/compile-20150809090027",
+            0
+          }),
+        "function" : "log_file",
+        "arguments" : ({ /* sizeof() == 2 */
+            "compile",
+            "Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 833: Warning: <TAB> before //was hoping there w
+"
+          }),
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ])
+    }),
+  "error" : "*cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+",
+  "object" : /adm/obj/master ("/adm/obj/master"),
+]),0)
+locals were: 0,"---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+"
+Object: /adm/obj/simul_efun, Program: /adm/obj/simul_efun.c
+   in log_file() at /adm/simul_efun/file.c:103
+arguments were ("log","---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+")
+'       log_file' in '/    adm/obj/master.c' ('/      adm/obj/master') /adm/obj/master.c:317
+arguments were ("log","Sun Aug  9 09:00:27 2015:---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+")
+locals were: "/log/log",19872,({ /* sizeof() == 11 */
+  27,
+  0,
+  9,
+  9,
+  7,
+  2015,
+  0,
+  220,
+  -10800,
+  "MSD",
+  1
+}),0,"archive/log-20150809090027",0
+--- end trace ---
+/adm/daemons/jobs_d.c line 833: Warning: <TAB> before //was hoping there w
+Error in error handler: *cannot move `/log/log' to `/log/archive/log-20150809090027'
+program: /adm/obj/master.c, object: /adm/obj/master, file: /adm/obj/master.c:317
+--- trace ---
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in preload() at /adm/obj/master.c:55
+arguments were ("/adm/daemons/jobs_d")
+locals were: 0,0
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in <catch>() at /adm/obj/master.c:55
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in log_error() at /adm/obj/master.c:107
+arguments were ("/adm/daemons/jobs_d.c","/adm/daemons/jobs_d.c line 834: Warning: <TAB> before write("You set " + a
+")
+locals were: 0
+Object: /adm/obj/simul_efun, Program: /adm/obj/simul_efun.c
+   in log_file() at /adm/simul_efun/file.c:103
+arguments were ("compile","/adm/daemons/jobs_d.c line 834: Warning: <TAB> before write("You set " + a
+")
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in log_file() at /adm/obj/master.c:317
+arguments were ("compile","Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 834: Warning: <TAB> before write("You set " + a
+")
+locals were: "/log/compile",19923,({ /* sizeof() == 11 */
+  27,
+  0,
+  9,
+  9,
+  7,
+  2015,
+  0,
+  220,
+  -10800,
+  "MSD",
+  1
+}),0,"archive/compile-20150809090027",0
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in error_handler() at /adm/obj/master.c:168
+arguments were (([ /* sizeof() == 6 */
+  "line" : 317,
+  "file" : "/adm/obj/master.c",
+  "program" : "/adm/obj/master.c",
+  "trace" : ({ /* sizeof() == 5 */
+      ([ /* sizeof() == 7 */
+        "line" : 55,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "locals" : ({ /* sizeof() == 2 */
+            0,
+            0
+          }),
+        "function" : "preload",
+        "arguments" : ({ /* sizeof() == 1 */
+            "/adm/daemons/jobs_d"
+          }),
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ]),
+      ([ /* sizeof() == 5 */
+        "line" : 55,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "function" : "CATCH",
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ]),
+      ([ /* sizeof() == 7 */
+        "line" : 107,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "locals" : ({ /* sizeof() == 1 */
+            0
+          }),
+        "function" : "log_error",
+        "arguments" : ({ /* sizeof() == 2 */
+            "/adm/daemons/jobs_d.c",
+            "/adm/daemons/jobs_d.c line 834: Warning: <TAB> before write("You set " + a
+"
+          }),
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ]),
+      ([ /* sizeof() == 6 */
+        "line" : 103,
+        "file" : "/adm/simul_efun/file.c",
+        "program" : "/adm/obj/simul_efun.c",
+        "function" : "log_file",
+        "arguments" : ({ /* sizeof() == 2 */
+            "compile",
+            "/adm/daemons/jobs_d.c line 834: Warning: <TAB> before write("You set " + a
+"
+          }),
+        "object" : /adm/obj/simul_efun ("/adm/obj/simul_efun"),
+      ]),
+      ([ /* sizeof() == 7 */
+        "line" : 317,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "locals" : ({ /* sizeof() == 6 */
+            "/log/compile",
+            19923,
+            ({ /* sizeof() == 11 */
+              27,
+              0,
+              9,
+              9,
+              7,
+              2015,
+              0,
+              220,
+              -10800,
+              "MSD",
+              1
+            }),
+            0,
+            "archive/compile-20150809090027",
+            0
+          }),
+        "function" : "log_file",
+        "arguments" : ({ /* sizeof() == 2 */
+            "compile",
+            "Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 834: Warning: <TAB> before write("You set " + a
+"
+          }),
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ])
+    }),
+  "error" : "*cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+",
+  "object" : /adm/obj/master ("/adm/obj/master"),
+]),0)
+locals were: 0,"---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+"
+Object: /adm/obj/simul_efun, Program: /adm/obj/simul_efun.c
+   in log_file() at /adm/simul_efun/file.c:103
+arguments were ("log","---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+")
+'       log_file' in '/    adm/obj/master.c' ('/      adm/obj/master') /adm/obj/master.c:317
+arguments were ("log","Sun Aug  9 09:00:27 2015:---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+")
+locals were: "/log/log",19872,({ /* sizeof() == 11 */
+  27,
+  0,
+  9,
+  9,
+  7,
+  2015,
+  0,
+  220,
+  -10800,
+  "MSD",
+  1
+}),0,"archive/log-20150809090027",0
+--- end trace ---
+/adm/daemons/jobs_d.c line 834: Warning: <TAB> before write("You set " + a
+Error in error handler: *cannot move `/log/log' to `/log/archive/log-20150809090027'
+program: /adm/obj/master.c, object: /adm/obj/master, file: /adm/obj/master.c:317
+--- trace ---
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in preload() at /adm/obj/master.c:55
+arguments were ("/adm/daemons/jobs_d")
+locals were: 0,0
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in <catch>() at /adm/obj/master.c:55
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in log_error() at /adm/obj/master.c:107
+arguments were ("/adm/daemons/jobs_d.c","/adm/daemons/jobs_d.c line 835: Warning: <TAB> before return 1;
+")
+locals were: 0
+Object: /adm/obj/simul_efun, Program: /adm/obj/simul_efun.c
+   in log_file() at /adm/simul_efun/file.c:103
+arguments were ("compile","/adm/daemons/jobs_d.c line 835: Warning: <TAB> before return 1;
+")
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in log_file() at /adm/obj/master.c:317
+arguments were ("compile","Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 835: Warning: <TAB> before return 1;
+")
+locals were: "/log/compile",19923,({ /* sizeof() == 11 */
+  27,
+  0,
+  9,
+  9,
+  7,
+  2015,
+  0,
+  220,
+  -10800,
+  "MSD",
+  1
+}),0,"archive/compile-20150809090027",0
+Object: /adm/obj/master, Program: /adm/obj/master.c
+   in error_handler() at /adm/obj/master.c:168
+arguments were (([ /* sizeof() == 6 */
+  "line" : 317,
+  "file" : "/adm/obj/master.c",
+  "program" : "/adm/obj/master.c",
+  "trace" : ({ /* sizeof() == 5 */
+      ([ /* sizeof() == 7 */
+        "line" : 55,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "locals" : ({ /* sizeof() == 2 */
+            0,
+            0
+          }),
+        "function" : "preload",
+        "arguments" : ({ /* sizeof() == 1 */
+            "/adm/daemons/jobs_d"
+          }),
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ]),
+      ([ /* sizeof() == 5 */
+        "line" : 55,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "function" : "CATCH",
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ]),
+      ([ /* sizeof() == 7 */
+        "line" : 107,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "locals" : ({ /* sizeof() == 1 */
+            0
+          }),
+        "function" : "log_error",
+        "arguments" : ({ /* sizeof() == 2 */
+            "/adm/daemons/jobs_d.c",
+            "/adm/daemons/jobs_d.c line 835: Warning: <TAB> before return 1;
+"
+          }),
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ]),
+      ([ /* sizeof() == 6 */
+        "line" : 103,
+        "file" : "/adm/simul_efun/file.c",
+        "program" : "/adm/obj/simul_efun.c",
+        "function" : "log_file",
+        "arguments" : ({ /* sizeof() == 2 */
+            "compile",
+            "/adm/daemons/jobs_d.c line 835: Warning: <TAB> before return 1;
+"
+          }),
+        "object" : /adm/obj/simul_efun ("/adm/obj/simul_efun"),
+      ]),
+      ([ /* sizeof() == 7 */
+        "line" : 317,
+        "file" : "/adm/obj/master.c",
+        "program" : "/adm/obj/master.c",
+        "locals" : ({ /* sizeof() == 6 */
+            "/log/compile",
+            19923,
+            ({ /* sizeof() == 11 */
+              27,
+              0,
+              9,
+              9,
+              7,
+              2015,
+              0,
+              220,
+              -10800,
+              "MSD",
+              1
+            }),
+            0,
+            "archive/compile-20150809090027",
+            0
+          }),
+        "function" : "log_file",
+        "arguments" : ({ /* sizeof() == 2 */
+            "compile",
+            "Sun Aug  9 09:00:27 2015:/adm/daemons/jobs_d.c line 835: Warning: <TAB> before return 1;
+"
+          }),
+        "object" : /adm/obj/master ("/adm/obj/master"),
+      ])
+    }),
+  "error" : "*cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+",
+  "object" : /adm/obj/master ("/adm/obj/master"),
+]),0)
+locals were: 0,"---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+"
+Object: /adm/obj/simul_efun, Program: /adm/obj/simul_efun.c
+   in log_file() at /adm/simul_efun/file.c:103
+arguments were ("log","---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+")
+'       log_file' in '/    adm/obj/master.c' ('/      adm/obj/master') /adm/obj/master.c:317
+arguments were ("log","Sun Aug  9 09:00:27 2015:---
+Error: *cannot move `/log/compile' to `/log/archive/compile-20150809090027'
+
+Current object: OBJECT(/adm/obj/master)
+Current Program: "/adm/obj/master.c"
+Line:   317, File: /adm/obj/master.c
+
+Traceback:
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:    55, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   107, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+Line:   103, File: /adm/simul_efun/file.c
+ Object: OBJECT(/adm/obj/simul_efun)
+ Program: /adm/obj/simul_efun.c
+Line:   317, File: /adm/obj/master.c
+ Object: OBJECT(/adm/obj/master)
+ Program: /adm/obj/master.c
+
+")
+locals were: "/log/log",19872,({ /* sizeof() == 11 */
+  27,
+  0,
+  9,
+  9,
+  7,
+  2015,
+  0,
+  220,
+  -10800,
+  "MSD",
+  1
+}),0,"archive/log-20150809090027",0
+--- end trace ---
+/adm/daemons/jobs_d.c line 835: Warning: <TAB> before return 1;
+Initializations complete.
+
+Accepting connections on port 4224.
+******** FATAL ERROR: Process interrupted
+FluffOS driver attempting to exit gracefully.
+crash() in master called successfully.  Aborting.

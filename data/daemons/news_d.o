@@ -1,0 +1,4 @@
+#/adm/daemons/news_d.c
+data ([])
+permissions ([])
+authorizedClients ({"/obj/mudlib/newsclients/std_newsclient",})

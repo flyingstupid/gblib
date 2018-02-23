@@ -1,0 +1,2 @@
+Sun Aug  9 09:00:27 2015:Success [SOCKET_D]: Created.
+Sun Aug  9 09:00:27 2015:Notice [SOCKET_D]: Server created - HTTP_D/0: MAPPING([ "releasef": 0, "socketType": 1, "logFile": "http_d.log", "buffer": 0, "closing": 0, "type": "Server", "listenf": "listen_cb", "closef": "close_cb", "closed": 0, "readf": "server_read_cb", "owner": OBJECT(/adm/daemons/http_d), "fd": 0, "blocking": 0, "writeRetry": 0 ])

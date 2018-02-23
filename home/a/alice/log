@@ -1,0 +1,251 @@
+
+/home/a/alice/lhome/lhome1.c line 2: syntax error before .c
+
+/home/a/alice/lhome/lhome1.c line 2: Warning: Redeclaration of global variable 'ob_data'. before the end of line
+
+/home/a/alice/lhome/lhome1.c line 2: Warning: Redeclaration of global variable 'ids'. before the end of line
+
+/home/a/alice/lhome/lhome1.c line 2: Warning: Redeclaration of global variable 'name'. before the end of line
+
+/home/a/alice/lhome/lhome1.c line 2: Warning: Redeclaration of global variable 'short'. before the end of line
+
+/home/a/alice/lhome/lhome1.c line 2: Warning: Redeclaration of global variable 'long'. before the end of line
+
+/home/a/alice/lhome/lhome1.c line 2: Warning: Redeclaration of global variable 'exits'. before the end of line
+
+/home/a/alice/lhome/lhome1.c line 2: Warning: Redeclaration of global variable 'items'. before the end of line
+
+/home/a/alice/lhome/lhome1.c line 2: Warning: Redeclaration of global variable 'light'. before the end of line
+
+/home/a/alice/lhome/lhome1.c line 13: syntax error before .c
+
+/home/a/alice/lhome/lhome2.c line 1: syntax error before  exits here?
+
+/home/a/alice/lhome/lhome1.c line 14: End of file in string at the end of the file
+
+/home/a/alice/lhome/lhome1.c line 14: syntax error at the end of the file
+
+/home/a/alice/lhome/lhome1.c line 14: Undefined function set_item before the end of line
+
+/home/a/alice/lhome/lhome1.c line 15: syntax error before the end of line
+
+/home/a/alice/lhome/lhome1.c line 14: Undefined function set_item before ;
+
+/home/a/alice/lhome/lhome1.c line 15: Undefined function set_item before ;
+
+/home/a/alice/lhome/lhome9.c line 1: syntax error before c
+
+/home/a/alice/lhome/lhome1.c line 15: syntax error before )
+
+/home/a/alice/lhome/lhome1.c line 16: syntax error before  : ({ "/home/a/alice
+
+/home/a/alice/lhome/lhome4.c line 18: syntax error before ;
+
+/home/a/alice/lhome/lhome4.c line 25: End of file in string at the end of the file
+
+/home/a/alice/lhome/lhome4.c line 18: syntax error before ;
+
+/home/a/alice/lhome/lhome4.c line 25: End of file in string at the end of the file
+
+/home/a/alice/lhome/lhome4.c line 18: syntax error before ;
+
+/home/a/alice/lhome/lhome4.c line 1: syntax error before c
+
+/home/a/alice/workroom1.c line 22: syntax error before  ground rushing towa
+
+/home/a/alice/workroom1.c line 29: End of file in string at the end of the file
+
+/home/a/alice/workroom1.c line 22: syntax error before  rushes toward you. 
+
+/home/a/alice/workroom1.c line 29: End of file in string at the end of the file
+
+/home/a/alice/workroom1.c line 20: syntax error before  rushes toward you. 
+
+/home/a/alice/workroom1.c line 26: Illegal character constant before h'nglui mglw'nafh Ct
+
+/home/a/alice/workroom1.c line 26: Illegal character constant before glui mglw'nafh Cthul
+
+/home/a/alice/workroom1.c line 26: Illegal character constant before afh Cthulhu R'lyeh w
+
+/home/a/alice/workroom1.c line 26: Illegal character constant before yeh wgah'nagl fhtagn
+
+/home/a/alice/workroom1.c line 26: Illegal character constant before agl fhtagn'\n",
+
+/home/a/alice/workroom1.c line 20: syntax error before  rushes toward you. 
+
+/home/a/alice/workroom1.c line 26: Illegal character constant before h'nglui mglw'nafh Ct
+
+/home/a/alice/workroom1.c line 26: Illegal character constant before glui mglw'nafh Cthul
+
+/home/a/alice/workroom1.c line 26: Illegal character constant before afh Cthulhu R'lyeh w
+
+/home/a/alice/workroom1.c line 26: Illegal character constant before yeh wgah'nagl fhtagn
+
+/home/a/alice/workroom1.c line 26: Illegal character constant before agl fhtagn'\n",
+
+/home/a/alice/workroom1.c line 20: syntax error before  rushes toward you. 
+
+/home/a/alice/workroom1.c line 26: Illegal character constant before h\'nglui mglw\'nafh 
+
+/home/a/alice/workroom1.c line 26: Illegal character constant before glui mglw\'nafh Cthu
+
+/home/a/alice/workroom1.c line 26: Illegal character constant before afh Cthulhu R\'lyeh 
+
+/home/a/alice/workroom1.c line 26: Illegal character constant before yeh wgah\'nagl fhtag
+
+/home/a/alice/workroom1.c line 26: Illegal character constant before agl fhtagn\'\n",
+
+/home/a/alice/cemetery/tomestone.c line 7: Undefined variable 'tombstone' before A gravestone");
+
+/home/a/alice/cemetery/tomestone.c line 7: syntax error before A gravestone");
+
+/home/a/alice/cemetery/tomestone.c line 21: End of file in string at the end of the file
+
+/home/a/alice/cemetery/tomestone.c line 16: syntax error before ;
+
+/home/a/alice/cemetery/tomestone.c line 18: Illegal LHS before the end of line
+
+/home/a/alice/cemetery/tomestone.c line 18: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/home/a/alice/cemetery/tomestone.c line 19: Type of returned value doesn't match function return type ( int vs string ) before the end of line
+
+/home/a/alice/cemetery/tomestone.c line 19: Type of returned value doesn't match function return type ( int vs string ) before the end of line
+
+/home/a/alice/cemetery/tombstone.c line 19: Bad argument 2 to efun tell_object() before ;
+
+/home/a/alice/lhome/doctor.c line 14: "#pragma strict_types" requires type of function before );
+
+/home/a/alice/lhome/doctor.c line 15: syntax error before the end of line
+
+/home/a/alice/lhome/doctor.c line 15: syntax error before the end of line
+
+/home/a/alice/lhome/doctor.c line 17: Bad argument 1 to efun environment() before );
+
+/home/a/alice/lhome/doctor.c line 17: syntax error before n));
+
+/home/a/alice/lhome/doctor.c line 17: Bad argument 1 to efun environment() before );
+
+/home/a/alice/lhome/doctor.c line 16: Undefined function this_mobile before ),"The ER doctor loo
+
+/home/a/alice/look.c line 235: Bad type for argument 1 of damage_display ( object vs string ) before  + "\n");
+
+/home/a/alice/look.c line 287: Undefined function elseif before the end of line
+
+/home/a/alice/look.c line 288: syntax error before the end of line
+
+/home/a/alice/look.c line 290: Warning: Unused local variable 'display' before the end of line
+
+/home/a/alice/look.c line 291: "#pragma strict_types" requires type of function before player->get_health()
+
+/home/a/alice/look.c line 291: Missing type for argument before ->get_health()>59 &&
+
+/home/a/alice/look.c line 291: syntax error before get_health()>59 && p
+
+/home/a/alice/look.c line 287: Undefined function elseif before the end of line
+
+/home/a/alice/look.c line 288: syntax error before the end of line
+
+/home/a/alice/look.c line 290: Warning: Unused local variable 'display' before the end of line
+
+/home/a/alice/look.c line 291: "#pragma strict_types" requires type of function before player->get_health()
+
+/home/a/alice/look.c line 291: Missing type for argument before ->get_health()>59 &&
+
+/home/a/alice/look.c line 291: syntax error before get_health()>59 && p
+
+/home/a/alice/look.c line 306: Warning: Unused local variable 'display' before the end of line
+
+/home/a/alice/cemetery/tombstone.c line 19: Bad argument 2 to efun tell_object() before ;
+
+/home/a/alice/cemetery/tombstone.c line 19: Type of returned value doesn't match function return type ( int vs string ) before the end of line
+
+/home/a/alice/cemetery/mirror.c line 1: syntax error before ;
+
+/home/a/alice/cemetery/mirror.c line 10: Wrong number of arguments to set_long
+    Expected: 1  Got: 2 before ;
+
+/home/a/alice/cemetery/tombstone.c line 19: Type of returned value doesn't match function return type ( int vs string ) before the end of line
+
+/home/a/alice/cemetery/tombstone.c line 19: Undefined function date before +date(3)+date(5));
+
+/home/a/alice/cemetery/test.c line 19: syntax error before b]+date[%e]+date[%y]
+
+/home/a/alice/cemetery/test.c line 17: Bad assignment ( string array vs string ). before the end of line
+
+/home/a/alice/tmp_eval_file.c line 1: syntax error before }; }
+
+/home/a/alice/tmp_eval_file.c line 1: syntax error before 2]+[4]; }; }
+
+/home/a/alice/tmp_eval_file.c line 1: Reserved type name unexpected. before dateArray; dateArray
+
+/home/a/alice/tmp_eval_file.c line 1: syntax error before dateArray; dateArray
+
+/home/a/alice/tmp_eval_file.c line 1: Undefined variable 'date' before  " " ); return dateA
+
+/home/a/alice/tmp_eval_file.c line 1: Illegal LHS before  return dateArray[1]
+
+/home/a/alice/tmp_eval_file.c line 1: Warning: Expression has no side effects, and the value is unused before  return dateArray[1]
+
+/home/a/alice/tmp_eval_file.c line 1: Undefined variable 'dateArray' before 1] + " " + dateArray
+
+/home/a/alice/tmp_eval_file.c line 1: Reserved type name unexpected. before dateArray; dateArray
+
+/home/a/alice/tmp_eval_file.c line 1: syntax error before dateArray; dateArray
+
+/home/a/alice/tmp_eval_file.c line 1: Undefined variable 'date' before  " " ); return dateA
+
+/home/a/alice/tmp_eval_file.c line 1: Illegal LHS before  return dateArray[1]
+
+/home/a/alice/tmp_eval_file.c line 1: Warning: Expression has no side effects, and the value is unused before  return dateArray[1]
+
+/home/a/alice/tmp_eval_file.c line 1: Undefined variable 'dateArray' before 1] + " " + dateArray
+
+/home/a/alice/cemetery/test.c line 21: Type of returned value doesn't match function return type ( int vs string ) before the end of line
+
+/home/a/alice/cemetery/test2.c line 21: Type of returned value doesn't match function return type ( int vs string ) before the end of line
+
+/home/a/alice/cemetery/test2.c line 21: Type of returned value doesn't match function return type ( int vs string ) before the end of line
+
+/home/a/alice/tmp_eval_file.c line 1: Reserved type name unexpected. before dateArray; dateArray
+
+/home/a/alice/tmp_eval_file.c line 1: syntax error before dateArray; dateArray
+
+/home/a/alice/tmp_eval_file.c line 1: Undefined variable 'date' before  " " ); return dateA
+
+/home/a/alice/tmp_eval_file.c line 1: Illegal LHS before  return dateArray[1]
+
+/home/a/alice/tmp_eval_file.c line 1: Warning: Expression has no side effects, and the value is unused before  return dateArray[1]
+
+/home/a/alice/tmp_eval_file.c line 1: Undefined variable 'dateArray' before 1] + " " + dateArray
+
+/home/a/alice/cemetery/test.c line 21: Type of returned value doesn't match function return type ( int vs string ) before the end of line
+
+/home/a/alice/cemetery/test.c line 22: syntax error before the end of line
+---
+**Error Caught
+Error: *Array index out of bounds.
+
+Current object: OBJECT(/home/a/alice/tmp_eval_file)
+Current Program: "/home/a/alice/tmp_eval_file.c"
+Line:     1, File: /home/a/alice/tmp_eval_file.c
+
+Traceback:
+Line:   107, File: /std/user/gb_player.c
+ Object: OBJECT(alice /std/user/gb_player#24)
+ Program: /std/user/gb_player.c
+Line:   168, File: /std/user/gb_player.c
+ Object: OBJECT(alice /std/user/gb_player#24)
+ Program: /std/user/gb_player.c
+Line:    24, File: /cmds/wiz/eval.c
+ Object: OBJECT(/cmds/wiz/eval)
+ Program: /cmds/wiz/eval.c
+Line:    24, File: /cmds/wiz/eval.c
+ Object: OBJECT(/cmds/wiz/eval)
+ Program: /cmds/wiz/eval.c
+Line:     1, File: /home/a/alice/tmp_eval_file.c
+ Object: OBJECT(/home/a/alice/tmp_eval_file)
+ Program: /home/a/alice/tmp_eval_file.c
+
+/home/a/alice/lhome/lhome0.c line 7: syntax error before ( ([
+
+/home/a/alice/lhome/lhome8.c line 12: syntax error before  : ({ "/home/a/alice

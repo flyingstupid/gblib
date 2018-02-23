@@ -1,0 +1,846 @@
+---
+**Error Caught
+Error: *cannot move `/log/logins' to `/archives/logins'
+
+Current object: OBJECT(/home/e/emraef/tmp_eval_file)
+Current Program: "/home/e/emraef/tmp_eval_file.c"
+Line:     1, File: /home/e/emraef/tmp_eval_file.c
+
+Traceback:
+Line:    99, File: /std/user/gb_player.c
+ Object: OBJECT(emraef /std/user/gb_player#3)
+ Program: /std/user/gb_player.c
+Line:   152, File: /std/user/gb_player.c
+ Object: OBJECT(emraef /std/user/gb_player#3)
+ Program: /std/user/gb_player.c
+Line:    24, File: /cmds/wiz/eval.c
+ Object: OBJECT(/cmds/wiz/eval)
+ Program: /cmds/wiz/eval.c
+Line:    24, File: /cmds/wiz/eval.c
+ Object: OBJECT(/cmds/wiz/eval)
+ Program: /cmds/wiz/eval.c
+Line:     1, File: /home/e/emraef/tmp_eval_file.c
+ Object: OBJECT(/home/e/emraef/tmp_eval_file)
+ Program: /home/e/emraef/tmp_eval_file.c
+
+/obj/pkemeter/pkemeter.c line 18: Undefined variable 'makereading' before  "makereading" );
+
+/obj/pkemeter/pkemeter.c line 42: Undefined function MakeReading before ;
+
+/obj/pkemeter/pkemeter.c line 46: Warning: Previous function prototype for makereading does not match current function in return type ( void vs int ) before the end of line
+
+/obj/pkemeter/pkemeter.c line 42: Undefined function MakeReading before ;
+
+/obj/pkemeter/pkemeter.c line 46: Warning: Previous function prototype for makereading does not match current function in return type ( void vs int ) before the end of line
+
+/obj/pkemeter/pkemeter.c line 46: Warning: Previous function prototype for MakeReading does not match current function in return type ( void vs int ) before the end of line
+
+/home/e/emraef/tmp_eval_file.c line 1: Too many arguments to commands before ; }; }
+
+/home/e/emraef/tmp_eval_file.c line 2: syntax error before the end of file
+
+/std/ghosts/ghost.c line 67: syntax error before the end of line
+
+/std/ghosts/ghost.c line 94: Undefined variable '_ghostPower' before the end of line
+
+/std/ghosts/ghost.c line 94: Illegal LHS before the end of line
+
+/std/ghosts/ghost.c line 137: Undefined variable '_frequencyRange' before the end of line
+
+/std/ghosts/ghost.c line 137: Illegal LHS before the end of line
+
+/std/ghosts/ghost.c line 145: Undefined variable '_frequencyRangeOffset' before the end of line
+
+/adm/daemons/soul_d.c line 122: Type of returned value doesn't match function return type ( string vs string array ) before the end of line
+
+/adm/daemons/soul_d.c line 122: Type of returned value doesn't match function return type ( string vs string array ) before the end of line
+
+/adm/daemons/soul_d.c line 122: Type of returned value doesn't match function return type ( string vs string array ) before the end of line
+
+/adm/daemons/soul_d.c line 122: Type of returned value doesn't match function return type ( string vs string array ) before the end of line
+
+/adm/daemons/soul_d.c line 122: Type of returned value doesn't match function return type ( string vs string array ) before the end of line
+
+/adm/daemons/soul_d.c line 122: Type of returned value doesn't match function return type ( string vs string array ) before the end of line
+
+/adm/daemons/soul_d.c line 122: Type of returned value doesn't match function return type ( string vs string array ) before the end of line
+
+/adm/daemons/soul_d.c line 122: Type of returned value doesn't match function return type ( string vs string array ) before the end of line
+
+/adm/daemons/soul_d.c line 122: Type of returned value doesn't match function return type ( string vs string array ) before the end of line
+
+/adm/daemons/chan_d.c line 388: syntax error before the end of line
+
+/adm/daemons/chan_d.c line 392: Illegal LHS before the end of line
+
+/adm/daemons/chan_d.c line 392: syntax error before the end of line
+
+/adm/daemons/chan_d.c line 396: Illegal LHS before the end of line
+
+/adm/daemons/chan_d.c line 396: syntax error before the end of line
+
+/adm/daemons/chan_d.c line 406: Illegal LHS before the end of line
+
+/adm/daemons/chan_d.c line 388: syntax error before the end of line
+
+/adm/daemons/chan_d.c line 392: Illegal LHS before the end of line
+
+/adm/daemons/chan_d.c line 392: syntax error before the end of line
+
+/adm/daemons/chan_d.c line 396: Illegal LHS before the end of line
+
+/adm/daemons/chan_d.c line 396: syntax error before the end of line
+
+/adm/daemons/chan_d.c line 406: Illegal LHS before the end of line
+
+/adm/daemons/chan_d.c line 396: Reserved type name unexpected. before  = tmp[3];
+
+/adm/daemons/chan_d.c line 396: syntax error before  = tmp[3];
+
+/adm/daemons/chan_d.c line 396: Undefined variable 'tmp' before 3];
+
+/adm/daemons/chan_d.c line 396: Illegal LHS before the end of line
+
+/adm/daemons/chan_d.c line 396: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/adm/daemons/chan_d.c line 397: Undefined variable 'target' before  o->query_cap_name()
+
+/adm/daemons/chan_d.c line 397: Illegal lvalue before  o->query_cap_name()
+
+/adm/daemons/chan_d.c line 396: Reserved type name unexpected. before  = tmp[3];
+
+/adm/daemons/chan_d.c line 396: syntax error before  = tmp[3];
+
+/adm/daemons/chan_d.c line 396: Undefined variable 'tmp' before 3];
+
+/adm/daemons/chan_d.c line 396: Illegal LHS before the end of line
+
+/adm/daemons/chan_d.c line 396: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/adm/daemons/chan_d.c line 397: Undefined variable 'target' before  targetObj->query_ca
+
+/adm/daemons/chan_d.c line 397: Illegal lvalue before  targetObj->query_ca
+
+/adm/daemons/chan_d.c line 396: Reserved type name unexpected. before  = tmp[3];
+
+/adm/daemons/chan_d.c line 396: syntax error before  = tmp[3];
+
+/adm/daemons/chan_d.c line 396: Undefined variable 'tmp' before 3];
+
+/adm/daemons/chan_d.c line 396: Illegal LHS before the end of line
+
+/adm/daemons/chan_d.c line 396: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/adm/daemons/chan_d.c line 397: Undefined variable 'target' before  targetObj->query_ca
+
+/adm/daemons/chan_d.c line 397: Illegal lvalue before  targetObj->query_ca
+
+/adm/daemons/chan_d.c line 396: Reserved type name unexpected. before  = tmp[3];
+
+/adm/daemons/chan_d.c line 396: syntax error before  = tmp[3];
+
+/adm/daemons/chan_d.c line 396: Undefined variable 'tmp' before 3];
+
+/adm/daemons/chan_d.c line 396: Illegal LHS before the end of line
+
+/adm/daemons/chan_d.c line 396: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/adm/daemons/chan_d.c line 397: Undefined variable 'target' before  targetObj->query_ca
+
+/adm/daemons/chan_d.c line 397: Illegal lvalue before  targetObj->query_ca
+
+/adm/daemons/chan_d.c line 396: Reserved type name unexpected. before  = tmp[3];
+
+/adm/daemons/chan_d.c line 396: syntax error before  = tmp[3];
+
+/adm/daemons/chan_d.c line 396: Undefined variable 'tmp' before 3];
+
+/adm/daemons/chan_d.c line 396: Illegal LHS before the end of line
+
+/adm/daemons/chan_d.c line 396: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/adm/daemons/chan_d.c line 400: Undefined variable 'result' before  modObj->rec_t_msg(
+
+/adm/daemons/chan_d.c line 400: Illegal lvalue before  modObj->rec_t_msg(
+
+/adm/daemons/chan_d.c line 396: Reserved type name unexpected. before  = tmp[3];
+
+/adm/daemons/chan_d.c line 396: syntax error before  = tmp[3];
+
+/adm/daemons/chan_d.c line 396: Undefined variable 'tmp' before 3];
+
+/adm/daemons/chan_d.c line 396: Illegal LHS before the end of line
+
+/adm/daemons/chan_d.c line 396: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/adm/daemons/chan_d.c line 400: Undefined variable 'result' before  modObj->rec_t_msg(
+
+/adm/daemons/chan_d.c line 400: Illegal lvalue before  modObj->rec_t_msg(
+
+/adm/daemons/chan_d.c line 396: Reserved type name unexpected. before  = tmp[3];
+
+/adm/daemons/chan_d.c line 396: syntax error before  = tmp[3];
+
+/adm/daemons/chan_d.c line 396: Undefined variable 'tmp' before 3];
+
+/adm/daemons/chan_d.c line 396: Illegal LHS before the end of line
+
+/adm/daemons/chan_d.c line 396: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/adm/daemons/chan_d.c line 400: Undefined variable 'result' before  modObj->rec_t_msg(
+
+/adm/daemons/chan_d.c line 400: Illegal lvalue before  modObj->rec_t_msg(
+
+/adm/daemons/chan_d.c line 396: Reserved type name unexpected. before ;
+
+/adm/daemons/chan_d.c line 396: syntax error before ;
+
+/adm/daemons/chan_d.c line 397: Undefined variable 'tmp' before 3];
+
+/adm/daemons/chan_d.c line 397: Illegal LHS before the end of line
+
+/adm/daemons/chan_d.c line 397: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/adm/daemons/chan_d.c line 401: Undefined variable 'result' before  modObj->rec_t_msg(
+
+/adm/daemons/chan_d.c line 401: Illegal lvalue before  modObj->rec_t_msg(
+
+/adm/daemons/chan_d.c line 396: Reserved type name unexpected. before ;
+
+/adm/daemons/chan_d.c line 396: syntax error before ;
+
+/adm/daemons/chan_d.c line 397: Undefined variable 'tmp' before 3];
+
+/adm/daemons/chan_d.c line 397: Illegal LHS before the end of line
+
+/adm/daemons/chan_d.c line 397: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/adm/daemons/chan_d.c line 401: Undefined variable 'result' before  modObj->rec_t_msg(
+
+/adm/daemons/chan_d.c line 401: Illegal lvalue before  modObj->rec_t_msg(
+
+/adm/daemons/chan_d.c line 396: Reserved type name unexpected. before ;
+
+/adm/daemons/chan_d.c line 396: syntax error before ;
+
+/adm/daemons/chan_d.c line 397: Undefined variable 'tmp' before 3];
+
+/adm/daemons/chan_d.c line 397: Illegal LHS before the end of line
+
+/adm/daemons/chan_d.c line 397: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/adm/daemons/chan_d.c line 401: Undefined variable 'result' before  modObj->rec_t_msg(
+
+/adm/daemons/chan_d.c line 401: Illegal lvalue before  modObj->rec_t_msg(
+
+/adm/daemons/chan_d.c line 397: Bad assignment ( object vs string ). before the end of line
+
+/adm/daemons/chan_d.c line 397: Bad assignment ( object vs string ). before the end of line
+
+/adm/daemons/chan_d.c line 397: Bad assignment ( object vs string ). before the end of line
+
+/adm/daemons/chan_d.c line 397: Bad assignment ( object vs string ). before the end of line
+
+/adm/daemons/chan_d.c line 397: Bad assignment ( object vs string ). before the end of line
+
+/adm/daemons/chan_d.c line 397: Bad assignment ( object vs string ). before the end of line
+
+/adm/daemons/chan_d.c line 397: Bad assignment ( object vs string ). before the end of line
+
+/adm/daemons/chan_d.c line 396: Bad assignment ( object vs string ). before the end of line
+
+/adm/daemons/chan_d.c line 396: Bad assignment ( object vs string ). before the end of line
+
+/adm/daemons/chan_d.c line 396: Bad assignment ( object vs string ). before the end of line
+
+/adm/daemons/chan_d.c line 396: Bad assignment ( object vs string ). before the end of line
+
+/adm/daemons/chan_d.c line 396: Bad assignment ( object vs string ). before the end of line
+
+/adm/daemons/chan_d.c line 396: Bad assignment ( object vs string ). before the end of line
+
+/home/j/janine/public/cmds/fa.c line 43: Warning: Unused local variable 'targetHealth' before the end of line
+
+/home/j/janine/public/cmds/fa.c line 43: Warning: Unused local variable 'targetHealth' before the end of line
+
+/home/j/janine/public/cmds/fa.c line 23: syntax error before }) );
+
+/home/j/janine/public/cmds/fa.c line 24: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/fa.c line 24: syntax error before the end of line
+
+/home/j/janine/public/cmds/fa.c line 47: Illegal LHS before the end of line
+
+/home/j/janine/public/cmds/fa.c line 47: syntax error before the end of line
+
+/home/j/janine/public/cmds/fa.c line 48: Illegal LHS before  i < sizeof( room );
+
+/home/e/emraef/tmp_eval_file.c line 1: Reserved type name unexpected. before 3 ) / 10; }; }
+
+/home/e/emraef/tmp_eval_file.c line 1: syntax error before  ) / 10; }; }
+
+/std/user/gb_player.c line 625: Wrong number of arguments to DoSkillXp
+    Expected: 1  Got: 2 before ;
+
+/std/user/gb_player.c line 640: Warning: Number of arguments disagrees with previous definition. before the end of line
+
+/std/user/gb_player.c line 737: Undefined function DoSkillCheck before ;
+
+/std/user/gb_player.c line 625: Wrong number of arguments to DoSkillXp
+    Expected: 1  Got: 2 before ;
+
+/std/user/gb_player.c line 640: Warning: Number of arguments disagrees with previous definition. before the end of line
+
+/std/user/gb_player.c line 737: Undefined function DoSkillCheck before ;
+
+/std/user/gb_player.c line 737: Undefined function DoSkillCheck before ;
+
+/home/e/emraef/tmp_eval_file.c line 2: syntax error before the end of file
+
+/home/j/janine/public/cmds/col.c line 95: Warning: Unused local variable 'thing' before the end of line
+
+/cmds/wiz/makeghost.c line 18: syntax error before , filename, power ) 
+
+/cmds/wiz/makeghost.c line 22: Illegal LHS before the end of line
+
+/cmds/wiz/makeghost.c line 25: Illegal LHS before the end of line
+
+/cmds/wiz/makeghost.c line 27: Illegal LHS before the end of line
+
+/cmds/wiz/makeghost.c line 27: syntax error before the end of line
+
+/cmds/wiz/makeghost.c line 32: Illegal LHS before the end of line
+
+/cmds/wiz/makeghost.c line 38: Undefined function dest before ;
+
+/cmds/wiz/makeghost.c line 38: Undefined function dest before ;
+
+/std/user/gb_player.c line 751: Bad argument 2 to efun tell_object() before ;
+
+/home/e/emraef/tmp_eval_file.c line 2: syntax error before the end of file
+
+/cmds/std/look.c line 153: syntax error before ( ($1)->query_short(
+
+/cmds/std/look.c line 181: Undefined variable 'subtarget' before  room);
+
+/cmds/std/look.c line 181: Illegal LHS before the end of line
+
+/cmds/std/look.c line 181: syntax error before the end of line
+
+/cmds/std/look.c line 184: Undefined variable 'target' before  user);
+
+/cmds/std/look.c line 184: Undefined variable 'user' before ;
+
+/std/object/object.c line 34: Undefined function setupDefaultObject before ;
+
+/adm/daemons/combat_d.c line 16: Left argument of -> is not a class before  0 )
+
+/adm/daemons/combat_d.c line 18: Left argument of -> is not a class before  hitData ) )
+
+/adm/daemons/combat_d.c line 21: Left argument of -> is not a class before the end of line
+
+/adm/daemons/combat_d.c line 21: syntax error before the end of line
+
+/adm/daemons/combat_d.c line 39: Undefined variable 'HitData' before GetDamage();
+
+/adm/daemons/combat_d.c line 39: Illegal LHS before the end of line
+
+/adm/daemons/combat_d.c line 16: Left argument of -> is not a class before  0 )
+
+/adm/daemons/combat_d.c line 18: Left argument of -> is not a class before  hitData ) )
+
+/adm/daemons/combat_d.c line 21: Left argument of -> is not a class before the end of line
+
+/adm/daemons/combat_d.c line 21: syntax error before the end of line
+
+/adm/daemons/combat_d.c line 39: Undefined variable 'HitData' before GetDamage();
+
+/adm/daemons/combat_d.c line 39: Illegal LHS before the end of line
+
+/adm/daemons/combat_d.c line 16: Left argument of -> is not a class before  0 )
+
+/adm/daemons/combat_d.c line 18: Left argument of -> is not a class before  hitData ) )
+
+/adm/daemons/combat_d.c line 20: Left argument of -> is not a class before  hitData->hitText );
+
+/adm/daemons/combat_d.c line 20: Left argument of -> is not a class before ;
+
+/adm/daemons/combat_d.c line 39: Undefined variable 'HitData' before GetDamage();
+
+/adm/daemons/combat_d.c line 45: Undefined variable 'skillTestDiff' before  0 )
+
+/adm/daemons/combat_d.c line 16: Left argument of -> is not a class before  0 )
+
+/adm/daemons/combat_d.c line 18: Left argument of -> is not a class before  hitData ) )
+
+/adm/daemons/combat_d.c line 20: Left argument of -> is not a class before  hitData->hitText );
+
+/adm/daemons/combat_d.c line 20: Left argument of -> is not a class before ;
+
+/adm/daemons/combat_d.c line 39: Undefined variable 'HitData' before GetDamage();
+
+/adm/daemons/combat_d.c line 16: Left argument of -> is not a class before  0 )
+
+/adm/daemons/combat_d.c line 18: Left argument of -> is not a class before  hitData ) )
+
+/adm/daemons/combat_d.c line 20: Left argument of -> is not a class before  hitData->hitText );
+
+/adm/daemons/combat_d.c line 20: Left argument of -> is not a class before ;
+
+/adm/daemons/combat_d.c line 18: Left argument of -> is not a class before  hitData ) )
+
+/adm/daemons/combat_d.c line 20: Left argument of -> is not a class before  hitData->hitText );
+
+/adm/daemons/combat_d.c line 20: Left argument of -> is not a class before ;
+
+/std/combat/HitData.c line 62: Undefined variable 'dattackTypeefenseDifficulty' before 0;
+
+/std/combat/HitData.c line 62: Illegal lvalue before 0;
+
+/std/combat/HitData.c line 255: Bad assignment ( int vs string ). before  }
+
+/std/combat/HitData.c line 62: Undefined variable 'dattackTypeefenseDifficulty' before 0;
+
+/std/combat/HitData.c line 62: Illegal lvalue before 0;
+
+/std/combat/HitData.c line 255: Bad assignment ( int vs string ). before  }
+
+/std/combat/HitData.c line 258: Bad assignment ( int vs string ). before  }
+
+/home/e/emraef/tmp_eval_file.c line 2: syntax error before the end of file
+
+/home/e/emraef/tmp_eval_file.c line 1: Warning: Expression has no side effects, and the value is unused before  }; }
+
+/home/e/emraef/tmp_eval_file.c line 1: syntax error before ; }
+
+/std/area/rooms/vmaproom.c line 57: Undefined variable 'roomS' before i+1] + rooms[i+2] + 
+
+/std/area/rooms/vmaproom.c line 61: Warning: Unused local variable 'row' before the end of line
+
+/std/area/rooms/vmaproom.c line 61: Warning: Unused local variable 'row' before the end of line
+
+/std/area/rooms/vmaproom.c line 64: Warning: Unused local variable 'row' before the end of line
+
+/std/area/rooms/vmaproom.c line 64: Warning: Unused local variable 'row' before the end of line
+
+/home/e/emraef/tmp_eval_file.c line 1: Bad assignment ( array vs int ). before  return p; }; }
+
+/std/area/rooms/vmaproom.c line 57: syntax error before  *roomLong = allocat
+
+/std/area/rooms/vmaproom.c line 57: Illegal LHS before the end of line
+
+/std/area/rooms/vmaproom.c line 57: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/std/area/rooms/vmaproom.c line 58: Undefined variable 'roomLong' before 0] = 0;
+
+/std/area/rooms/vmaproom.c line 58: Illegal lvalue before  0;
+
+/std/area/rooms/vmaproom.c line 60: Undefined variable 'room' before query_long(), "\n" )
+
+/std/area/rooms/vmaproom.c line 62: syntax error before ( roomLong ); l++ )
+
+/std/area/rooms/vmaproom.c line 61: Undefined variable 'room' before query_long(), "\n" )
+
+/std/area/rooms/vmaproom.c line 63: syntax error before ( roomLong ); l++ )
+
+/std/area/rooms/vmaproom.c line 65: Illegal LHS before the end of line
+
+/std/area/rooms/vmaproom.c line 66: syntax error before the end of line
+
+/std/area/rooms/vmaproom.c line 68: Illegal LHS before  i < 9; i += 3 )
+
+/std/area/rooms/vmaproom.c line 68: Illegal LHS before the end of line
+
+/std/area/rooms/vmaproom.c line 63: syntax error before ( roomLong ); l++ )
+
+/std/area/rooms/vmaproom.c line 65: Illegal LHS before the end of line
+
+/std/area/rooms/vmaproom.c line 66: syntax error before the end of line
+
+/std/area/rooms/vmaproom.c line 68: Illegal LHS before  i < 9; i += 3 )
+
+/std/area/rooms/vmaproom.c line 68: Illegal LHS before the end of line
+
+/std/area/rooms/vmaproom.c line 72: Undefined variable 'i' before 3)*ROOM_LINE_SIZE+j]
+
+/std/area/rooms/vmaproom.c line 76: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/std/area/rooms/vmaproom.c line 98: Undefined variable 'i' before  sizeof( data[ data[
+
+/std/area/rooms/vmaproom.c line 83: Bad assignment ( array vs string ). before the end of line
+
+/std/area/rooms/vmaproom.c line 379: Undefined variable 'room' before query_exits());
+
+/std/area/rooms/vmaproom.c line 406: Type of returned value doesn't match function return type ( string vs string array ) before the end of line
+
+/std/area/rooms/vmaproom.c line 409: Undefined variable 'room' before query_ghostExits());
+
+/std/area/rooms/vmaproom.c line 83: Bad assignment ( array vs string ). before the end of line
+
+/std/area/rooms/vmaproom.c line 426: syntax error before ;
+
+/std/area/rooms/vmaproom.c line 84: Undefined function render_ghost_exits before  });
+
+/std/area/rooms/vmaproom.c line 484: Undefined variable 'room' before , (: !living($1) :))
+
+/std/area/rooms/vmaproom.c line 498: Undefined variable 'room' before , (: living($1) && $
+
+/cmds/std/look.c line 142: Warning: Non-void functions must return a value. before the end of line
+
+/std/area/rooms/vmaproom.c line 189: Warning: Unused local variable 'inv' before the end of line
+
+/std/area/rooms/vmaproom.c line 189: Warning: Unused local variable 'exitKeys' before the end of line
+
+/std/area/rooms/vmaproom.c line 189: Warning: Unused local variable 'exit' before the end of line
+
+/std/area/rooms/vmaproom.c line 189: Warning: Unused local variable 'foundExit' before the end of line
+
+/cmds/std/look.c line 142: Warning: Non-void functions must return a value. before the end of line
+
+/cmds/std/look.c line 142: Warning: Non-void functions must return a value. before the end of line
+
+/cmds/std/look.c line 145: Warning: Unused local variable 'users' before the end of line
+
+/cmds/std/look.c line 145: Warning: Unused local variable 'objects' before the end of line
+
+/home/e/emraef/tmp_eval_file.c line 2: syntax error before the end of file
+
+/home/e/emraef/tmp_eval_file.c line 2: syntax error before the end of file
+
+/areas/demo/demo2.c line 15: syntax error before     : ({ "/areas/dem
+
+/areas/demo/demo2.c line 15: syntax error before     : ({ "/areas/dem
+
+/std/ghosts/ghost.c line 325: Undefined variable 'undefined' before   sizeof( linkedBust
+
+/std/ghosts/ghost.c line 330: Undefined variable 'undefined' before   sizeof( linkedBust
+
+/home/e/emraef/tmp_eval_file.c line 1: Warning: Unused local variable 'a' before the end of line
+
+/home/e/emraef/tmp_eval_file.c line 2: syntax error before the end of file
+
+/home/e/emraef/tmp_eval_file.c line 2: syntax error before the end of file
+
+/home/e/emraef/tmp_eval_file.c line 1: syntax error before  }
+---
+**Error Caught
+Error: *Value being indexed is zero.
+
+Current object: OBJECT(/home/e/emraef/tmp_eval_file)
+Current Program: "/home/e/emraef/tmp_eval_file.c"
+Line:     1, File: /home/e/emraef/tmp_eval_file.c
+
+Traceback:
+Line:   119, File: /std/user/gb_player.c
+ Object: OBJECT(emraef /std/user/gb_player#37)
+ Program: /std/user/gb_player.c
+Line:   181, File: /std/user/gb_player.c
+ Object: OBJECT(emraef /std/user/gb_player#37)
+ Program: /std/user/gb_player.c
+Line:    24, File: /cmds/wiz/eval.c
+ Object: OBJECT(/cmds/wiz/eval)
+ Program: /cmds/wiz/eval.c
+Line:    24, File: /cmds/wiz/eval.c
+ Object: OBJECT(/cmds/wiz/eval)
+ Program: /cmds/wiz/eval.c
+Line:     1, File: /home/e/emraef/tmp_eval_file.c
+ Object: OBJECT(/home/e/emraef/tmp_eval_file)
+ Program: /home/e/emraef/tmp_eval_file.c
+
+/std/ghosts/ghost.c line 356: Undefined function execute_movement before ;
+
+/std/ghosts/ghost.c line 503: Undefined function execute_ghost_movement before ;
+
+/std/ghosts/ghost.c line 538: Warning: Unused local variable 'tmp' before the end of line
+
+/std/ghosts/ghost.c line 538: Warning: Unused local variable 'custom' before the end of line
+
+/std/ghosts/ghost.c line 538: Warning: Unused local variable 'isWiz' before the end of line
+
+/std/ghosts/ghost.c line 542: Warning: Unused local variable 'tmp' before the end of line
+
+/std/ghosts/ghost.c line 542: Warning: Unused local variable 'custom' before the end of line
+
+/std/ghosts/ghost.c line 542: Warning: Unused local variable 'isWiz' before the end of line
+
+/std/ghosts/ghost.c line 99: syntax error before ;
+
+/std/ghosts/ghost.c line 100: Illegal LHS before the end of line
+
+/std/ghosts/ghost.c line 100: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/std/ghosts/ghost.c line 382: Undefined variable 'exits' before  keys( environment( 
+
+/std/ghosts/ghost.c line 382: Illegal lvalue before  keys( environment( 
+
+/std/ghosts/ghost.c line 382: Undefined variable 'exits' before  keys( environment( 
+
+/std/ghosts/ghost.c line 382: Illegal lvalue before  keys( environment( 
+
+/areas/franchise/mobiles/shopkeeper.c line 10: Undefined function askOk before ;
+
+/cmds/npc/npctest.c line 25: Undefined function DoTripAttack before ;
+
+/cmds/npc/npctest.c line 53: Undefined function query_cap_name before , Target->query_cap_
+
+/cmds/npc/ghosttrip.c line 44: Undefined function query_cap_name before , Target->query_cap_
+
+/std/ghosts/ghost.c line 402: syntax error before ( Targets ) );
+
+/std/ghosts/ghost.c line 406: Illegal LHS before the end of line
+
+/std/ghosts/ghost.c line 406: syntax error before the end of line
+
+/std/ghosts/ghost.c line 434: Illegal LHS before the end of line
+
+/std/ghosts/ghost.c line 434: syntax error before the end of line
+
+/std/ghosts/ghost.c line 436: Illegal LHS before the end of line
+
+/cmds/npc/npctest.c line 7: Undefined function clamp before  );
+
+/cmds/npc/npctest.c line 8: Reserved type name unexpected. before ;
+
+/cmds/npc/npctest.c line 8: syntax error before ;
+
+/cmds/npc/npctest.c line 10: Undefined variable 'arg' before  environment( this_u
+
+/cmds/npc/npctest.c line 10: Illegal LHS before the end of line
+
+/cmds/npc/npctest.c line 10: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/cmds/npc/npctest.c line 12: Undefined variable 'ob' before  {
+
+/cmds/npc/npctest.c line 3: Cannot #include gchf.h before the end of line
+
+/cmds/npc/npctest.c line 10: Undefined function clamp before  );
+
+/cmds/npc/npctest.c line 11: Reserved type name unexpected. before ;
+
+/cmds/npc/npctest.c line 11: syntax error before ;
+
+/cmds/npc/npctest.c line 13: Undefined variable 'arg' before  environment( this_u
+
+/cmds/npc/npctest.c line 13: Illegal LHS before the end of line
+
+/cmds/npc/npctest.c line 13: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/cmds/npc/gchf.h line 1: Missing type for argument before , a, b )
+
+/cmds/npc/gchf.h line 1: Missing type for argument before , b )
+
+/cmds/npc/gchf.h line 1: Missing type for argument before  )
+
+/cmds/npc/npctest.c line 11: Reserved type name unexpected. before ;
+
+/cmds/npc/npctest.c line 11: syntax error before ;
+
+/cmds/npc/npctest.c line 13: Undefined variable 'arg' before  environment( this_u
+
+/cmds/npc/npctest.c line 13: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/cmds/npc/npctest.c line 11: Reserved type name unexpected. before ;
+
+/cmds/npc/npctest.c line 11: syntax error before ;
+
+/cmds/npc/npctest.c line 13: Undefined variable 'arg' before  environment( this_u
+
+/cmds/npc/npctest.c line 13: Illegal LHS before the end of line
+
+/cmds/npc/npctest.c line 13: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/cmds/npc/npctest.c line 15: Undefined variable 'ob' before  {
+
+/cmds/npc/npctest.c line 48: Undefined function query_cap_name before , Target->query_cap_
+
+/home/e/emraef/tmp_eval_file.c line 1: Too many arguments to time before ; }; }
+
+/home/e/emraef/tmp_eval_file.c line 1: syntax error before ; }
+
+/cmds/std/who.c line 191: syntax error before the end of line
+
+/cmds/std/who.c line 193: Illegal LHS before the end of line
+
+/cmds/std/who.c line 207: Reserved type name unexpected. before ()
+
+/cmds/std/who.c line 207: syntax error before ()
+
+/std/user/gb_mobile.c line 53: Undefined variable 'validWearLocation' before  ({ "head", "neck", 
+
+/std/user/gb_mobile.c line 53: Illegal lvalue before  ({ "head", "neck", 
+
+/std/user/gb_mobile.c line 53: Undefined variable 'validWearLocation' before  ({ "head", "neck", 
+
+/std/user/gb_mobile.c line 53: Illegal lvalue before  ({ "head", "neck", 
+
+/home/e/emraef/tmp_eval_file.c line 1: Undefined variable 'null' before  }; }
+
+/std/user/gb_mobile.c line 92: Reserved type name unexpected. before  = wearLocations[ te
+
+/std/user/gb_mobile.c line 92: syntax error before  = wearLocations[ te
+
+/std/user/gb_mobile.c line 92: Undefined variable 'testLoc' before ;
+
+/std/user/gb_mobile.c line 92: Illegal LHS before the end of line
+
+/std/user/gb_mobile.c line 92: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/std/user/gb_mobile.c line 94: Undefined variable 'slot' before  ) {
+
+/std/user/gb_mobile.c line 109: Undefined function remove_object_from_slots before ; 
+
+/std/user/gb_mobile.c line 92: Reserved type name unexpected. before ;
+
+/std/user/gb_mobile.c line 92: syntax error before ;
+
+/std/user/gb_mobile.c line 93: Undefined variable 'testLoc' before ;
+
+/std/user/gb_mobile.c line 93: Illegal LHS before the end of line
+
+/std/user/gb_mobile.c line 93: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/std/user/gb_mobile.c line 95: Undefined variable 'slot' before  ) {
+
+/std/user/gb_mobile.c line 110: Undefined function remove_object_from_slots before ; 
+
+/std/user/gb_mobile.c line 92: Reserved type name unexpected. before ;
+
+/std/user/gb_mobile.c line 92: syntax error before ;
+
+/std/user/gb_mobile.c line 93: Undefined variable 'testLoc' before ;
+
+/std/user/gb_mobile.c line 93: Illegal LHS before the end of line
+
+/std/user/gb_mobile.c line 93: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/std/user/gb_mobile.c line 95: Undefined variable 'slot' before  ) {
+
+/std/user/gb_mobile.c line 110: Undefined function remove_object_from_slots before ; 
+
+/std/user/gb_mobile.c line 115: Undefined function remove_object_from_slots before ; 
+
+/std/user/gb_mobile.c line 118: Undefined variable 'testLoc' before ;
+
+/std/user/gb_mobile.c line 115: Undefined function remove_object_from_slots before ; 
+
+/std/user/gb_mobile.c line 118: Undefined variable 'testLoc' before ;
+
+/std/object/gb_object.c line 60: Warning: Number of arguments disagrees with previous definition. before the end of line
+
+/std/object/gb_object.c line 63: Redeclaration of function removed_from_slots. before the end of line
+
+/std/object/gb_object.c line 60: Warning: Number of arguments disagrees with previous definition. before the end of line
+
+/std/object/gb_object.c line 63: Redeclaration of function removed_from_slots. before the end of line
+
+/std/object/gb_object.c line 45: Undefined function is_equipped before ;
+
+/std/object/gb_object.c line 45: Undefined function is_equipped before ;
+
+/cmds/std/wear.c line 68: syntax error before ;
+
+/cmds/std/wear.c line 68: syntax error before ;
+
+/cmds/std/remove.c line 38: Undefined variable 'loc' before  );
+
+/cmds/std/inventory.c line 92: syntax error before  = this_player();
+
+/cmds/std/inventory.c line 92: Illegal LHS before the end of line
+
+/cmds/std/inventory.c line 92: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/cmds/std/inventory.c line 123: Warning: Unused local variable 'p' before the end of line
+
+/cmds/std/inventory.c line 123: Warning: Unused local variable 'ob' before the end of line
+
+/cmds/std/inventory.c line 91: syntax error before ( "head" );
+
+/cmds/std/inventory.c line 93: Illegal LHS before the end of line
+
+/cmds/std/inventory.c line 93: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/cmds/std/inventory.c line 120: Warning: Unused local variable 'ob' before the end of line
+
+/cmds/std/inventory.c line 90: syntax error before ( "head" );
+
+/cmds/std/inventory.c line 92: Illegal LHS before the end of line
+
+/cmds/std/inventory.c line 92: Warning: Expression has no side effects, and the value is unused before the end of line
+
+/cmds/std/inventory.c line 79: Warning: Non-void functions must return a value. before the end of line
+
+/cmds/std/inventory.c line 79: Warning: Non-void functions must return a value. before the end of line
+
+/cmds/std/look.c line 61: syntax error before ")+[^A-Za-z0-9]+" })
+
+/cmds/std/look.c line 63: Illegal LHS before  l < sizeof(assoc[0]
+
+/cmds/std/look.c line 67: Undefined variable 'l' before , item, "" + item + 
+
+/cmds/std/look.c line 67: Illegal LHS before the end of line
+
+/cmds/std/look.c line 67: syntax error before the end of line
+
+/cmds/std/look.c line 71: Illegal LHS before the end of line
+
+/cmds/std/look.c line 61: syntax error before ")+[^A-Za-z0-9]+" })
+
+/cmds/std/look.c line 63: Illegal LHS before  l < sizeof(assoc[0]
+
+/cmds/std/look.c line 67: Undefined variable 'l' before , item, "" + item + 
+
+/cmds/std/look.c line 67: Illegal LHS before the end of line
+
+/cmds/std/look.c line 67: syntax error before the end of line
+
+/cmds/std/look.c line 71: Illegal LHS before the end of line
+
+/cmds/std/look.c line 222: Illegal to redeclare local name 'ob' before ;
+
+/cmds/std/look.c line 242: Undefined function write_equipped_items before ;
+
+/cmds/std/look.c line 270: Undefined variable 'ob' before ;
+
+/cmds/std/look.c line 272: Undefined variable 'ob' before  this_player())
+
+/cmds/std/look.c line 276: Undefined variable 'ob' before ));
+
+/cmds/std/look.c line 278: Undefined variable 'ob' before query_cap_name() + "
+
+/cmds/std/look.c line 222: Illegal to redeclare local name 'ob' before ;
+
+/cmds/std/look.c line 242: Undefined function write_equipped_items before ;
+
+/cmds/std/look.c line 270: Undefined variable 'ob' before ;
+
+/cmds/std/look.c line 272: Undefined variable 'ob' before  this_player())
+
+/cmds/std/look.c line 276: Undefined variable 'ob' before ));
+
+/cmds/std/look.c line 278: Undefined variable 'ob' before query_cap_name() + "
+
+/cmds/std/look.c line 222: Illegal to redeclare local name 'ob' before ;
+
+/cmds/std/look.c line 242: Undefined function write_equipped_items before ;
+
+/cmds/std/look.c line 270: Undefined variable 'ob' before ;
+
+/cmds/std/look.c line 272: Undefined variable 'ob' before  this_player())
+
+/cmds/std/look.c line 276: Undefined variable 'ob' before ));
+
+/cmds/std/look.c line 278: Undefined variable 'ob' before query_cap_name() + "
+
+/cmds/std/look.c line 241: Undefined function write_equipped_items before ;
+
+/obj/research/computer.c line 8: Cannot #include /cmds/std/order.h before the end of line
+
+/home/e/emraef/tmp_eval_file.c line 2: syntax error before the end of file
+
+/home/e/emraef/tmp_eval_file.c line 2: syntax error before the end of file
+
+/home/e/emraef/tmp_eval_file.c line 1: Undefined function environement before , "testing" ); }; }
+
+/home/e/emraef/tmp_eval_file.c line 1: Undefined function environement before , "testing" ); }; }
+
+/home/e/emraef/tmp_eval_file.c line 1: Undefined function environement before , "testing" ); }; }

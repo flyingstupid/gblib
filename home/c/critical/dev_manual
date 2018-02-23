@@ -1,0 +1,24 @@
+As there are so many new Dev's who don't understand what is available or how to find it i'm putting together a list for you all. Within this list are all the commands you have access too and how they function roughly. As always there is quite a bit of finesse that could be used with each. Think outside the box.
+
+
+
+Dev commands - 
+
+GOTO - This teleports you to an object that inherits ROOM. Aka, rooms. You use a path to guide it. Go teleport to my workroom you would ' goto /home/c/critical/workroom.c'
+
+TRANS - This transports a player to the room your in. You can transport anyone equal or lower rank than you. Be kind, if you transport someone who doesn't want to be transported. Bad things could happen.
+
+CD - Change directory. This allows you to navigate through the file structure of the mud. Typing CD without an argument will bring you back to your home directory. You can change the entire path without going directory by directory.
+
+LS - List, this shows what is contained within the current directory. Directories are blue, files are green. Files that are highlight (and with asterix)  
+
+CP - Copy, this copies a file from place to place. "CP /home/c/critical/workshop.c /homes/a/alice/" would copy my workshop to her directory.
+
+RM - Remove, this will delete a file. You can use it locally within the directory you are in or you can specify a path. rm /home/c/critical/workshop.c Would delete my workshop no matter what your current path was.
+
+ED - This is the muds main editor. Every file on the mud can be altered using this. Its fair complicated and could use its OWN manual on it. However the process that you all will be using it for the most part will be as follows. "Ed Filename" The filename will be what is created. If its going to be a room or driver used file. it needs to end in ".c". Once your in the editor you will simply type i. (lower case and everything). Cut and paste ALL of your code into your client and hit enter. When you do that you will get two funny characters ( *) that pop up and will continue to pop up for a little while depending on how much text you are feeding into ED. Once your finished with that, type a single period on a line and hit enter. This will bring you to a colon. type in a single lower case w (This stands for 'write', as in save the file) and then a lower case q. Which will quit you from the editor. If you need to make changes to the file its easiest to RM the file and then just ED with your changes in your paste. Notepad is your friend! :)
+
+CAT - This command shows you whats in a file without pausing for its length. If you wanna copy and paste something into to notepad. This command is choice.
+
+MORE - This is just like CAT except when it hits whatever your "More lines" in Set_env is set to it will pause for you to hit enter.
+
